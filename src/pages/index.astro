@@ -1,17 +1,147 @@
 ---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import NametCard from '../components/NametCard.astro';
+import categories from '../data/categories.json';
 
+const allNamety = await getCollection('namety');
+const sorted = allNamety.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+const PAGE_SIZE = 24;
+const pageData = sorted.slice(0, PAGE_SIZE);
+const totalPages = Math.ceil(sorted.length / PAGE_SIZE);
+
+const allClanky = await getCollection('clanky');
+const najnovsieClanky = allClanky
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 10);
 ---
+<Layout title="Zavretá škola — Kartotéka námetov pre vaše vyučovanie">
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-5xl font-semibold tracking-tight mb-3">
+      Kartotéka <span class="chalk-underline">námetov</span> pre vaše vyučovanie
+    </h1>
+    <p class="text-chalk/70 font-mono text-sm mb-8">
+      {sorted.length} námetov v katalógu · aktivity, videá, hry a pracovné listy
+    </p>
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+    <form action="/hladat/" method="get" class="max-w-2xl mx-auto grid grid-cols-1 sm:grid-cols-[2fr_1fr_auto] gap-2.5">
+      <input
+        type="text"
+        name="q"
+        placeholder="Čo chcete naučiť? Napr. zlomky, vesmír..."
+        class="px-4 py-3 rounded-chip border-2 border-ink bg-white text-ink text-sm shadow-pop-sm focus:outline-none focus:-translate-x-0.5 focus:-translate-y-0.5 focus:shadow-pop transition-[transform,box-shadow]"
+      />
+      <select name="kategoria" class="px-3 py-3 rounded-chip border-2 border-ink text-ink text-sm bg-white shadow-pop-sm">
+        <option value="">Všetky kategórie</option>
+        {categories.map((cat) => <option value={cat.name}>{cat.name}</option>)}
+      </select>
+      <button type="submit" class="px-6 py-3 rounded-chip border-2 border-ink bg-marker text-ink font-display font-bold shadow-pop-sm hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop transition-[transform,box-shadow]">
+        Hľadať
+      </button>
+    </form>
+
+    <div class="flex flex-wrap justify-center gap-2.5 mt-6">
+      {categories.map((cat) => (
+        <a href={`/kategoria/${cat.slug}/`} class="text-xs font-mono font-semibold px-3 py-1.5 rounded-chip border-2 border-chalk/30 text-chalk/90 hover:border-marker hover:text-marker transition-colors">
+          {cat.name}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {najnovsieClanky.length > 0 && (
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="font-display text-xl font-bold text-ink">Najnovšie články</h2>
+        <div class="flex items-center gap-2">
+          <a href="/clanky/" class="text-sm font-mono text-gridblue hover:underline mr-2">všetky články →</a>
+          <button
+            id="clanky-prev"
+            aria-label="Predchádzajúce články"
+            class="w-8 h-8 flex items-center justify-center rounded-chip border-2 border-ink bg-white shadow-pop-sm hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop transition-[transform,box-shadow]"
+          >←</button>
+          <button
+            id="clanky-next"
+            aria-label="Nasledujúce články"
+            class="w-8 h-8 flex items-center justify-center rounded-chip border-2 border-ink bg-white shadow-pop-sm hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop transition-[transform,box-shadow]"
+          >→</button>
+        </div>
+      </div>
+
+      <div id="clanky-track" class="flex gap-4 overflow-x-auto pb-2 snap-x snap-mandatory scroll-smooth [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+        {najnovsieClanky.map((clanok) => (
+          <a
+            href={`/clanky/${clanok.id}`}
+            class="group flex-shrink-0 w-64 snap-start bg-white border-2 border-ink rounded-card overflow-hidden shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop"
+          >
+            {clanok.data.image && (
+              <img src={clanok.data.image} alt={clanok.data.title} class="w-full h-28 object-cover border-b-2 border-ink" loading="lazy" />
+            )}
+            <div class="p-3">
+              <h3 class="font-display text-sm font-bold text-ink leading-snug">{clanok.data.title}</h3>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <script>
+    const track = document.getElementById('clanky-track');
+    const prevBtn = document.getElementById('clanky-prev');
+    const nextBtn = document.getElementById('clanky-next');
+
+    if (track && prevBtn && nextBtn) {
+      const cardWidth = 256 + 16;
+      const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+      let autoScrollTimer: ReturnType<typeof setInterval> | null = null;
+
+      function scrollByCard(dir: number) {
+        if (!track) return;
+        const atEnd = track.scrollLeft + track.clientWidth >= track.scrollWidth - 4;
+        if (dir > 0 && atEnd) {
+          track.scrollTo({ left: 0, behavior: 'smooth' });
+        } else {
+          track.scrollBy({ left: dir * cardWidth, behavior: 'smooth' });
+        }
+      }
+
+      function startAutoScroll() {
+        if (prefersReducedMotion || autoScrollTimer) return;
+        autoScrollTimer = setInterval(() => scrollByCard(1), 4000);
+      }
+
+      function stopAutoScroll() {
+        if (autoScrollTimer) {
+          clearInterval(autoScrollTimer);
+          autoScrollTimer = null;
+        }
+      }
+
+      prevBtn.addEventListener('click', () => scrollByCard(-1));
+      nextBtn.addEventListener('click', () => scrollByCard(1));
+      track.addEventListener('mouseenter', stopAutoScroll);
+      track.addEventListener('mouseleave', startAutoScroll);
+      track.addEventListener('touchstart', stopAutoScroll, { passive: true });
+
+      startAutoScroll();
+    }
+  </script>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <h2 class="font-display text-xl font-semibold text-ink mb-4">Všetky námety</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {pageData.map((namet, i) => <NametCard namet={namet} index={i} />)}
+    </div>
+    {totalPages > 1 && (
+      <nav class="mt-12 flex items-center justify-center gap-3 font-mono text-sm">
+        <span class="text-ink/50 px-2">strana 1 / {totalPages}</span>
+        <a href="/strana/2/" class="px-4 py-2 rounded-chip border-2 border-ink bg-marker font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+          nasl. →
+        </a>
+      </nav>
+    )}
+  </main>
+</Layout>

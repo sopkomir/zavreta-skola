@@ -1,0 +1,107 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import NametCard from '../../components/NametCard.astro';
+import NametCardCompact from '../../components/NametCardCompact.astro';
+import { catSlug } from '../../utils/catSlug';
+
+export async function getStaticPaths() {
+  const namety = await getCollection('namety');
+  return namety.map((namet) => ({
+    params: { slug: namet.id },
+    props: { namet },
+  }));
+}
+
+const { namet } = Astro.props;
+const { Content } = await render(namet);
+
+const allNamety = await getCollection('namety');
+const podobne = allNamety
+  .filter((n) => n.id !== namet.id && n.data.categories.some((c) => namet.data.categories.includes(c)))
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 4);
+
+const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).length;
+---
+<Layout title={`${namet.data.title} — Zavretá škola`}>
+  <main class="max-w-6xl mx-auto px-4 py-10">
+    <a href="/" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+      ← späť na prehľad
+    </a>
+
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8 items-start">
+      <article class="bg-white rounded-card border-2 border-ink shadow-pop p-6 sm:p-10 min-w-0">
+        <div class="flex flex-wrap gap-2 mb-4">
+          {namet.data.categories.map((cat) => (
+            <a href={`/kategoria/${catSlug(cat)}/`} class="px-3 py-1 rounded-chip border-2 border-ink text-xs font-mono font-bold bg-gridblue text-white uppercase hover:brightness-110">{cat}</a>
+          ))}
+          {namet.data.types.map((t) => (
+            <a href={`/typ/${catSlug(t)}/`} class="px-3 py-1 rounded-chip border-2 border-ink text-xs font-mono font-bold bg-chalk text-ink uppercase hover:brightness-95">{t}</a>
+          ))}
+        </div>
+
+        <h1 class="font-display text-2xl sm:text-4xl font-bold text-ink leading-tight mb-4">
+          {namet.data.title}
+        </h1>
+
+        <div class="text-sm text-ink/50 mb-6 font-mono">
+          {namet.data.pubDate.toLocaleDateString('sk-SK')}
+        </div>
+
+        {namet.data.image && (
+          <img src={namet.data.image} alt={namet.data.title} class="w-full max-h-96 object-cover rounded-tile border-2 border-ink shadow-pop-sm mb-8" />
+        )}
+
+        {namet.data.youtubeId && (
+          <div class="mb-8 aspect-video rounded-tile overflow-hidden border-2 border-ink shadow-pop-sm bg-chalkboard">
+            <iframe
+              class="w-full h-full"
+              src={`https://www.youtube.com/embed/${namet.data.youtubeId}`}
+              title="YouTube video"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
+          </div>
+        )}
+
+        {namet.data.wordwallEmbed && (
+          <div class="mb-8">
+            <div class="rounded-tile overflow-hidden border-2 border-ink shadow-pop-sm" style="height: 500px;">
+              <iframe src={namet.data.wordwallEmbed} class="w-full h-full border-0" allowfullscreen></iframe>
+            </div>
+            <p class="text-xs text-ink/40 mt-2 font-mono">
+              Hra sa nezobrazuje? <a href={namet.data.wordwallEmbed} target="_blank" rel="noopener noreferrer" class="text-gridblue hover:underline">otvoriť priamo na Wordwalli ↗</a>
+            </p>
+          </div>
+        )}
+
+        <div class="namet-content max-w-none">
+          <Content />
+        </div>
+      </article>
+
+      <aside class="space-y-6 lg:sticky lg:top-24">
+        <div class="bg-marker/15 border-2 border-ink rounded-card shadow-pop-sm p-5">
+          <div class="font-mono text-[11px] uppercase text-ink/50 mb-2">Pridal</div>
+          <a href={`/autor/${catSlug(namet.data.author)}/`} class="font-display text-lg font-bold text-ink hover:text-zosit transition-colors">
+            {namet.data.author}
+          </a>
+          <div class="text-xs text-ink/50 font-mono mt-1">{autorPocet} pridaných námetov</div>
+          <a href={`/autor/${catSlug(namet.data.author)}/`} class="inline-block mt-3 text-xs font-mono font-bold text-gridblue hover:underline">
+            zobraziť všetky →
+          </a>
+        </div>
+
+        {podobne.length > 0 && (
+          <div>
+            <h2 class="font-display text-base font-bold text-ink mb-3">Pozri si aj</h2>
+            <div class="space-y-3">
+              {podobne.map((n) => <NametCardCompact namet={n} />)}
+            </div>
+          </div>
+        )}
+      </aside>
+    </div>
+  </main>
+</Layout>

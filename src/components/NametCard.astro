@@ -1,0 +1,42 @@
+---
+import { primaryTypeStyle } from '../utils/typeStyle';
+
+interface Props {
+  namet: any;
+  index?: number;
+}
+const { namet, index = 0 } = Astro.props;
+const style = primaryTypeStyle(namet.data.types);
+const tilt = index % 2 === 0 ? '-rotate-[1deg]' : 'rotate-[1deg]';
+---
+<a
+  href={`/namety/${namet.id}`}
+  class:list={[
+    'group flex flex-col bg-white rounded-card border-2 border-ink overflow-hidden shadow-pop transition-[transform,box-shadow] duration-200 hover:rotate-0 hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop-lg',
+    tilt,
+  ]}
+>
+  <div class="relative h-44 w-full bg-chalkboard/5 overflow-hidden border-b-2 border-ink">
+    <img
+      src={namet.data.image}
+      alt={namet.data.title}
+      class="w-full h-full object-cover"
+      loading="lazy"
+    />
+    <span class={`absolute top-3 left-3 rounded-chip border-2 border-ink px-2.5 py-1 text-[11px] font-bold text-white shadow-pop-sm ${style.bg}`}>
+      {style.label}
+    </span>
+  </div>
+  <div class="p-5 flex-1 flex flex-col">
+    <span class="font-mono text-[11px] tracking-wide text-gridblue uppercase mb-2">
+      {namet.data.categories[0] || 'Ostatné'}
+    </span>
+    <h2 class="font-display text-lg font-bold text-ink leading-tight mb-2">
+      {namet.data.title}
+    </h2>
+    <div class="mt-auto pt-3 border-t-2 border-dashed border-ink/15 flex justify-between text-xs text-ink/50 font-mono">
+      <span class="font-semibold text-ink/70">{namet.data.author}</span>
+      <span>{namet.data.pubDate.toLocaleDateString('sk-SK')}</span>
+    </div>
+  </div>
+</a>

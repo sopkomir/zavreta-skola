@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Fredoka:wght@600&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-chalkboard: #1f3d2b;
+  --color-chalkboard-dark: #16291d;
+  --color-chalk: #f5f1e6;
+  --color-paper: #fbf8f0;
+  --color-zosit: #c23b3b;
+  --color-gridblue: #3b5ba0;
+  --color-marker: #e8ab1f;
+  --color-ink: #2b2b26;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Manrope", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+  --font-logo: "Fredoka", sans-serif;
+
+  /* "Pop" dizajnový jazyk: tvrdé (nerozmazané) tiene posunuté o pár px, žiadny blur */
+  --shadow-pop-sm: 3px 3px 0 var(--color-ink);
+  --shadow-pop: 6px 6px 0 var(--color-ink);
+  --shadow-pop-lg: 8px 8px 0 var(--color-ink);
+
+  --radius-card: 18px;
+  --radius-tile: 14px;
+  --radius-chip: 999px;
+}
+
+body {
+  font-family: var(--font-body);
+}
+
+.font-logo {
+  font-family: var(--font-logo);
+}
+
+.chalk-texture {
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(245, 241, 230, 0.05) 0, transparent 40%),
+    radial-gradient(circle at 80% 60%, rgba(245, 241, 230, 0.04) 0, transparent 45%),
+    radial-gradient(circle at 50% 90%, rgba(245, 241, 230, 0.03) 0, transparent 40%);
+}
+
+.chalk-underline {
+  position: relative;
+  display: inline-block;
+}
+.chalk-underline::after {
+  content: '';
+  position: absolute;
+  left: 2%;
+  right: 2%;
+  bottom: -0.15em;
+  height: 6px;
+  background: var(--color-marker);
+  opacity: 0.55;
+  border-radius: 3px;
+  transform: rotate(-0.6deg);
+}
+
+/* Štýly pre telo textu jednotlivého námetu (nahrádza chýbajúci Tailwind Typography plugin) */
+.namet-content {
+  line-height: 1.75;
+  color: color-mix(in srgb, var(--color-ink) 88%, transparent);
+}
+.namet-content p {
+  margin-bottom: 1.1em;
+}
+.namet-content a {
+  color: var(--color-gridblue);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 2px;
+  font-weight: 600;
+}
+.namet-content a:hover {
+  color: var(--color-zosit);
+}
+.namet-content strong {
+  font-weight: 700;
+  color: var(--color-ink);
+}
+.namet-content ul,
+.namet-content ol {
+  margin: 1em 0 1em 1.25em;
+}
+.namet-content ul {
+  list-style: disc;
+}
+.namet-content ol {
+  list-style: decimal;
+}
+.namet-content li {
+  margin-bottom: 0.4em;
+}
+.namet-content h2,
+.namet-content h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--color-ink);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+.namet-content img {
+  border-radius: 0.375rem;
+  margin: 1em 0;
+}

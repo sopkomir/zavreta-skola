@@ -1,0 +1,55 @@
+# Zatiaľ lokálny režim - beží len na vašom počítači, netreba GitHub/GitLab.
+# Spustite popri "npm run dev" v druhom termináli: npx decap-server
+# Keď si založíte GitHub repozitár, zmeňte backend.name na "github" a doplňte repo.
+backend:
+  name: git-gateway
+  branch: main
+
+local_backend: true
+
+media_folder: "public/uploaded-images"
+public_folder: "/uploaded-images"
+
+collections:
+  - name: "namety"
+    label: "Námety"
+    label_singular: "Námet"
+    folder: "src/content/namety"
+    extension: "md"
+    format: "frontmatter"
+    identifier_field: "title"
+    summary: "{{title}} — {{categories}}"
+    sortable_fields: ["title", "pubDate", "author"]
+    fields:
+      - { label: "Názov", name: "title", widget: "string" }
+      - { label: "Dátum", name: "pubDate", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Autor", name: "author", widget: "string" }
+      - label: "Kategórie"
+        name: "categories"
+        widget: "list"
+        hint: "Presné názvy nájdete v src/data/categories.json (napr. \"Matematika - 1. stupeň\")"
+      - label: "Typy"
+        name: "types"
+        widget: "list"
+        hint: "Napr. HRA, AUDIO/VIDEO, APPKA, WEBKA, CVIKA, NÁVOD, PRINT"
+      - { label: "Obrázok (URL)", name: "image", widget: "string", required: false }
+      - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false, hint: "Len samotné ID z odkazu (11 znakov), nie celá URL" }
+      - { label: "Wordwall embed URL", name: "wordwallEmbed", widget: "string", required: false }
+      - { label: "Text", name: "body", widget: "markdown" }
+
+  - name: "clanky"
+    label: "Články"
+    label_singular: "Článok"
+    folder: "src/content/clanky"
+    extension: "md"
+    format: "frontmatter"
+    identifier_field: "title"
+    sortable_fields: ["title", "pubDate", "author"]
+    fields:
+      - { label: "Názov", name: "title", widget: "string" }
+      - { label: "Dátum", name: "pubDate", widget: "date", format: "YYYY-MM-DD" }
+      - { label: "Autor", name: "author", widget: "string" }
+      - { label: "Rubrika", name: "rubrika", widget: "list" }
+      - { label: "Obrázok (URL)", name: "image", widget: "string", required: false }
+      - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false }
+      - { label: "Text", name: "body", widget: "markdown" }

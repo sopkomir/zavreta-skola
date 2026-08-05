@@ -1,0 +1,19 @@
+---
+interface Props {
+  page: any;
+}
+const { page } = Astro.props;
+---
+<nav class="mt-12 flex items-center justify-center gap-3 font-mono text-sm">
+  {page.url.prev && (
+    <a href={page.url.prev} class="px-4 py-2 rounded-chip border-2 border-ink bg-white font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+      ← predch.
+    </a>
+  )}
+  <span class="text-ink/50 px-2">strana {page.currentPage} / {page.lastPage}</span>
+  {page.url.next && (
+    <a href={page.url.next} class="px-4 py-2 rounded-chip border-2 border-ink bg-marker font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+      nasl. →
+    </a>
+  )}
+</nav>

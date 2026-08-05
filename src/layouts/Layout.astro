@@ -1,0 +1,113 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+}
+const { title } = Astro.props;
+---
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+</head>
+<body class="bg-paper text-ink min-h-screen font-body antialiased">
+  <header class="chalk-texture bg-chalkboard text-chalk sticky top-0 z-20 shadow-lg">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
+      <a href="/" class="flex items-center">
+        <img
+          src="https://www.zavretaskola.sk/wp-content/uploads/2022/10/zavreta-skola-logo-white.png"
+          alt="Zavretá škola"
+          class="h-10 w-auto"
+        />
+      </a>
+      <nav class="flex items-center gap-5 text-sm font-medium">
+        <a href="/kategoria/" class="text-chalk/80 hover:text-marker transition-colors">Kategórie</a>
+        <a href="/typ/" class="text-chalk/80 hover:text-marker transition-colors">Typy</a>
+        <a href="/clanky/" class="text-chalk/80 hover:text-marker transition-colors">Články</a>
+        <a href="/hladat/" class="text-chalk/80 hover:text-marker transition-colors">Hľadať</a>
+        <a href="https://www.zavretaskola.sk" target="_blank" class="text-xs font-semibold text-marker hover:underline">
+          Pôvodný web ↗
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <slot />
+
+  <footer class="border-t-2 border-ink mt-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 text-sm">
+      <div>
+        <h3 class="font-display font-bold text-ink text-base mb-3 pb-2 border-b-2 border-marker inline-block">Kontakt na inštitúcie</h3>
+        <p class="text-ink/60 leading-relaxed mt-3">
+          <a href="https://vudpap.sk/kontakty/" target="_blank" rel="noopener" class="text-gridblue font-semibold hover:underline">VÚDPaP</a> — podpora pre rodičov a pedagógov: koronavirus@vudpap.sk<br />
+          Bezplatná linka: <strong class="text-ink">0800 864 883</strong>
+        </p>
+        <p class="text-ink/60 mt-4 leading-relaxed">
+          <strong class="text-ink">Zastavme násilie</strong><br />
+          <a href="https://www.zastavmenasilie.gov.sk/poradna/" target="_blank" rel="noopener" class="text-gridblue font-semibold hover:underline">zastavmenasilie.gov.sk</a><br />
+          NON-STOP: <strong class="text-ink">0800 212 212</strong>
+        </p>
+      </div>
+
+      <div>
+        <h3 class="font-display font-bold text-ink text-base mb-3 pb-2 border-b-2 border-marker inline-block">Ďalšie linky</h3>
+        <ul class="text-ink/60 space-y-2 mt-3">
+          <li><strong class="text-ink">Linka dôvery Nezábudka:</strong> 0800 800 566</li>
+          <li><strong class="text-ink">Andreas</strong> (autizmus): +421 908 767 565</li>
+          <li><a href="https://dobralinka.sk/" target="_blank" rel="noopener" class="text-gridblue font-semibold hover:underline">Dobrá linka</a></li>
+          <li><strong class="text-ink">Linka detskej istoty:</strong> 116 111</li>
+          <li><a href="https://www.modryanjel.sk/kontakt" target="_blank" rel="noopener" class="text-gridblue font-semibold hover:underline">Modrý anjel</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="font-display font-bold text-ink text-base mb-3 pb-2 border-b-2 border-marker inline-block">Skúste aj…</h3>
+        <ul class="text-ink/60 space-y-2 mt-3">
+          <li><strong class="text-ink">Linka dôvery</strong> (nonstop): 055/ 622 2323</li>
+          <li><strong class="text-ink">Linka pre ženy</strong> v núdzi: 0800 212 212</li>
+          <li><strong class="text-ink">Linka nádeje</strong> (nonstop): 055/ 644 1155</li>
+          <li><strong class="text-ink">Linka detskej dôvery:</strong> 0907 401 749</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="font-display font-bold text-ink text-base mb-3 pb-2 border-b-2 border-marker inline-block">Navigácia</h3>
+        <ul class="text-ink/60 space-y-2 mt-3">
+          <li><a href="/kategoria/" class="hover:text-zosit font-semibold">Kategórie</a></li>
+          <li><a href="/typ/" class="hover:text-zosit font-semibold">Typy</a></li>
+          <li><a href="/clanky/" class="hover:text-zosit font-semibold">Články</a></li>
+          <li><a href="/hladat/" class="hover:text-zosit font-semibold">Hľadať</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="chalk-texture bg-chalkboard border-y-2 border-ink py-10">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <p class="text-center text-chalk/50 font-mono text-xs uppercase tracking-wide mb-6">Projekt podporujú</p>
+        <div class="flex flex-wrap items-center justify-center gap-x-14 gap-y-6">
+          <a href="https://inklucity.sk/" target="_blank" rel="noopener">
+            <img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/inklucity-white.png" alt="Inklucity" class="h-16 w-auto hover:brightness-110 transition-[filter]" />
+          </a>
+          <img src="https://www.zavretaskola.sk/wp-content/uploads/2020/04/logo_napis_2-e1585803659249.png" alt="Nadácia pre deti Slovenska" class="h-20 w-auto" />
+          <a href="https://sopcode.com/" target="_blank" rel="noopener">
+            <img src="https://sopcode.com/shared/logo-sopcode-01.svg" alt="sopcode — správca projektu" class="h-10 w-auto hover:brightness-110 transition-[filter]" />
+          </a>
+        </div>
+        <p class="text-center text-chalk/40 font-mono text-xs mt-6 max-w-2xl mx-auto leading-relaxed">
+          Projekt podporila Nadácia pre deti Slovenska z programu Kto chýba?, vďaka finančnej podpore dobročinného Plesu v Opere a jeho hostiteľa spoločnosti Orange Slovensko.
+        </p>
+      </div>
+    </div>
+
+    <div class="bg-white">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 text-center text-sm text-ink/60 font-mono">
+        ZAVRETÁ ŠKOLA // web vytvoril: <strong class="text-ink">Miroslav Sopko</strong> // spolupracovali <strong class="text-ink">Lucia Rosáková, Tina Botková, Margaréta Knapíková</strong>
+        <div class="text-ink/40 mt-1">© {new Date().getFullYear()} Zavretá škola</div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,26 @@
+---
+import { primaryTypeStyle } from '../utils/typeStyle';
+
+interface Props {
+  namet: any;
+}
+const { namet } = Astro.props;
+const style = primaryTypeStyle(namet.data.types);
+---
+<a
+  href={`/namety/${namet.id}`}
+  class="group flex gap-3 items-center bg-white border-2 border-ink rounded-tile shadow-pop-sm p-2.5 transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop"
+>
+  <div class="relative w-14 h-14 flex-shrink-0 rounded-md overflow-hidden border-2 border-ink">
+    <img src={namet.data.image} alt={namet.data.title} class="w-full h-full object-cover" loading="lazy" />
+    <span class={`absolute bottom-0 left-0 right-0 h-1.5 ${style.bg}`}></span>
+  </div>
+  <div class="min-w-0">
+    <span class="block font-mono text-[10px] tracking-wide text-gridblue uppercase truncate">
+      {namet.data.categories[0] || 'Ostatné'}
+    </span>
+    <h3 class="font-display text-sm font-bold text-ink leading-snug line-clamp-2">
+      {namet.data.title}
+    </h3>
+  </div>
+</a>

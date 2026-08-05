@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import NametCard from '../../../components/NametCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import categories from '../../../data/categories.json';
+
+export async function getStaticPaths({ paginate }) {
+  const allNamety = await getCollection('namety');
+
+  // Zoznam všetkých uzlov (hlavné kategórie aj podkategórie).
+  // Hlavná kategória zahŕňa aj všetky svoje podkategórie (rovnako ako na pôvodnom webe).
+  const nodes = [];
+  for (const top of categories) {
+    nodes.push({ slug: top.slug, name: top.name, matchNames: [top.name, ...top.children.map((c) => c.name)] });
+    for (const child of top.children) {
+      nodes.push({ slug: child.slug, name: child.name, matchNames: [child.name] });
+    }
+  }
+
+  return nodes.flatMap((node) => {
+    const filtered = allNamety
+      .filter((n) => n.data.categories.some((c) => node.matchNames.includes(c)))
+      .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+    return paginate(filtered, {
+      pageSize: 24,
+      params: { category: node.slug },
+      props: { categoryName: node.name },
+    });
+  });
+}
+
+const { page, categoryName } = Astro.props;
+---
+<Layout title={`${categoryName} — Zavretá škola`}>
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <a href="/kategoria/" class="text-sm text-marker hover:underline font-mono">← všetky kategórie</a>
+    <h1 class="font-display text-3xl sm:text-4xl font-semibold mt-3">{categoryName}</h1>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{page.total} námetov · strana {page.currentPage} / {page.lastPage}</p>
+  </section>
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {page.data.map((namet, i) => <NametCard namet={namet} index={i} />)}
+    </div>
+    <Pagination page={page} />
+  </main>
+</Layout>

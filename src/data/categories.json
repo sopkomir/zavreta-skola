@@ -1,0 +1,259 @@
+[
+  {
+    "name": "0. Materská škola",
+    "slug": "0-materska-skola",
+    "count": 84,
+    "children": []
+  },
+  {
+    "name": "1. stupeň",
+    "slug": "1-stupen",
+    "count": 281,
+    "children": [
+      {
+        "name": "Slovenský jazyk - 1. stupeň",
+        "slug": "slovensky-jazyk-1-stupen",
+        "count": 74
+      },
+      {
+        "name": "Matematika - 1. stupeň",
+        "slug": "matematika-1-stupen",
+        "count": 52
+      },
+      {
+        "name": "Prvouka a prírodoveda",
+        "slug": "prvouka-a-prirodoveda",
+        "count": 40
+      },
+      {
+        "name": "Anglický jazyk - 1- stupeň",
+        "slug": "anglicky-jazyk-1-stupen",
+        "count": 25
+      },
+      {
+        "name": "Vlastiveda",
+        "slug": "vlastiveda",
+        "count": 17
+      },
+      {
+        "name": "Výtvarná výchova a pracovné vyučovanie 1. stupeň",
+        "slug": "vytvarna-vychova-a-pracovne-vyucovanie-1-stupen",
+        "count": 13
+      },
+      {
+        "name": "Informatika - 1. stupeň",
+        "slug": "informatika-1-stupen",
+        "count": 9
+      },
+      {
+        "name": "Hudobná výchova - 1. stupeň",
+        "slug": "hudobna-vychova-1-stupen",
+        "count": 5
+      },
+      {
+        "name": "Školský klub detí",
+        "slug": "skolsky-klub-deti",
+        "count": 4
+      },
+      {
+        "name": "Telesná výchova - 1. stupeň",
+        "slug": "telesna-vychova-1-stupen",
+        "count": 2
+      },
+      {
+        "name": "Nemecký jazyk - 1. stupeň",
+        "slug": "nemecky-jazyk-1-stupen",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "2. stupeň",
+    "slug": "2-stupen",
+    "count": 284,
+    "children": [
+      {
+        "name": "Matematika - 2. stupeň",
+        "slug": "matematika-2-stupen",
+        "count": 58
+      },
+      {
+        "name": "Geografia",
+        "slug": "geografia",
+        "count": 40
+      },
+      {
+        "name": "Fyzika",
+        "slug": "fyzika",
+        "count": 27
+      },
+      {
+        "name": "Anglický jazyk - 2- stupeň",
+        "slug": "anglicky-jazyk-2-stupen",
+        "count": 23
+      },
+      {
+        "name": "Slovenský jazyk a literatúra - 2. stupeň",
+        "slug": "slovensky-jazyk-a-literatura-2-stupen",
+        "count": 19
+      },
+      {
+        "name": "Dejepis",
+        "slug": "dejepis",
+        "count": 18
+      },
+      {
+        "name": "Informatika - 2. stupeň ZŠ",
+        "slug": "informatika-2-stupen-zs",
+        "count": 16
+      },
+      {
+        "name": "Biológia",
+        "slug": "biologia",
+        "count": 15
+      },
+      {
+        "name": "Výtvarná výchova - 2. stupeň",
+        "slug": "vytvarna-vychova-2-stupen",
+        "count": 12
+      },
+      {
+        "name": "Chémia",
+        "slug": "chemia",
+        "count": 11
+      },
+      {
+        "name": "Občianska náuka",
+        "slug": "obcianska-nauka",
+        "count": 11
+      },
+      {
+        "name": "Technická výchova",
+        "slug": "technicka-vychova",
+        "count": 9
+      },
+      {
+        "name": "Nemecký jazyk 2. stupeň",
+        "slug": "nemecky-jazyk-2-stupen",
+        "count": 5
+      },
+      {
+        "name": "Hudobná výchova - 2. stupeň",
+        "slug": "hudobna-vychova-2-stupen",
+        "count": 2
+      },
+      {
+        "name": "Ruský jazyk",
+        "slug": "rusky-jazyk",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "3. Stredná škola",
+    "slug": "3-stredna-skola",
+    "count": 130,
+    "children": [
+      {
+        "name": "Dejepis - SŠ",
+        "slug": "dejepis-ss",
+        "count": 22
+      },
+      {
+        "name": "Matematika - SŠ",
+        "slug": "matematika-ss",
+        "count": 15
+      },
+      {
+        "name": "Občianska náuka - SŠ",
+        "slug": "obcianska-nauka-ss",
+        "count": 14
+      },
+      {
+        "name": "Umenie a kultúra",
+        "slug": "umenie-a-kultura",
+        "count": 14
+      },
+      {
+        "name": "Geografia - SŠ",
+        "slug": "geografia-ss",
+        "count": 10
+      },
+      {
+        "name": "Slovenský jazyk a literatúra - SŠ",
+        "slug": "slovensky-jazyk-a-literatura-ss",
+        "count": 10
+      },
+      {
+        "name": "Anglický jazyk - SŠ",
+        "slug": "anglicky-jazyk-ss",
+        "count": 9
+      },
+      {
+        "name": "Fyzika - SŠ",
+        "slug": "fyzika-ss",
+        "count": 8
+      },
+      {
+        "name": "Informatika - SŠ",
+        "slug": "informatika-ss",
+        "count": 7
+      },
+      {
+        "name": "Biológia - SŠ",
+        "slug": "biologia-ss",
+        "count": 4
+      },
+      {
+        "name": "Chémia - SŠ",
+        "slug": "chemia-ss",
+        "count": 4
+      },
+      {
+        "name": "Ekonomika",
+        "slug": "ekonomika",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Deti so špeciálnymi potrebami",
+    "slug": "deti-so-specialnymi-potrebami",
+    "count": 12,
+    "children": [
+      {
+        "name": "Deti s PAS",
+        "slug": "deti-s-pas",
+        "count": 5
+      },
+      {
+        "name": "Deti s ADD/ADHD",
+        "slug": "deti-s-addadhd",
+        "count": 3
+      },
+      {
+        "name": "Deti s NKS",
+        "slug": "deti-s-nks",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Iné tipy",
+    "slug": "ine-tipy",
+    "count": 171,
+    "children": []
+  },
+  {
+    "name": "Ponúkam pomoc",
+    "slug": "ponukam-pomoc",
+    "count": 6,
+    "children": []
+  },
+  {
+    "name": "Technická podpora pre učiteľov",
+    "slug": "technicka-podpora-pre-ucitelov",
+    "count": 20,
+    "children": []
+  }
+]

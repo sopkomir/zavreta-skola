@@ -1,0 +1,121 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Hľadať — Zavretá škola">
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-4xl font-semibold">Hľadať v námetoch</h1>
+  </section>
+
+  <main class="max-w-6xl mx-auto px-4 py-10">
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-4">
+      <input
+        id="q"
+        type="text"
+        placeholder="Hľadať podľa názvu..."
+        class="px-4 py-2.5 rounded-md border border-ink/15 text-sm font-body focus:outline-none focus:border-zosit"
+      />
+      <select id="cat" class="px-4 py-2.5 rounded-md border border-ink/15 text-sm bg-white font-body">
+        <option value="">Všetky kategórie</option>
+      </select>
+      <select id="type" class="px-4 py-2.5 rounded-md border border-ink/15 text-sm bg-white font-body">
+        <option value="">Všetky typy</option>
+      </select>
+    </div>
+
+    <p id="count" class="text-sm text-ink/50 mb-6 font-mono"></p>
+    <div id="results" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+  </main>
+</Layout>
+
+<script>
+  type Item = {
+    id: string;
+    title: string;
+    categories: string[];
+    types: string[];
+    image?: string;
+  };
+
+  let allItems: Item[] = [];
+
+  function escapeHtml(s: string) {
+    const div = document.createElement('div');
+    div.textContent = s;
+    return div.innerHTML;
+  }
+
+  async function init() {
+    const res = await fetch('/search-index.json');
+    allItems = await res.json();
+
+    const catSet = new Set<string>();
+    const typeSet = new Set<string>();
+    for (const item of allItems) {
+      item.categories.forEach((c) => catSet.add(c));
+      item.types.forEach((t) => typeSet.add(t));
+    }
+
+    const catSelect = document.getElementById('cat') as HTMLSelectElement;
+    [...catSet].sort().forEach((c) => {
+      const opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = c;
+      catSelect.appendChild(opt);
+    });
+
+    const typeSelect = document.getElementById('type') as HTMLSelectElement;
+    [...typeSet].sort().forEach((t) => {
+      const opt = document.createElement('option');
+      opt.value = t;
+      opt.textContent = t;
+      typeSelect.appendChild(opt);
+    });
+
+    // Predvyplnenie z URL (?q=...&kategoria=...&typ=...), napr. pri prechode z domovskej stránky
+    const params = new URLSearchParams(window.location.search);
+    const qInput = document.getElementById('q') as HTMLInputElement;
+    qInput.value = params.get('q') || '';
+    catSelect.value = params.get('kategoria') || '';
+    typeSelect.value = params.get('typ') || '';
+
+    render();
+    qInput.addEventListener('input', render);
+    catSelect.addEventListener('change', render);
+    typeSelect.addEventListener('change', render);
+  }
+
+  function render() {
+    const q = (document.getElementById('q') as HTMLInputElement).value.toLowerCase().trim();
+    const cat = (document.getElementById('cat') as HTMLSelectElement).value;
+    const type = (document.getElementById('type') as HTMLSelectElement).value;
+
+    const filtered = allItems.filter((item) => {
+      const matchesQ = !q || item.title.toLowerCase().includes(q);
+      const matchesCat = !cat || item.categories.includes(cat);
+      const matchesType = !type || item.types.includes(type);
+      return matchesQ && matchesCat && matchesType;
+    });
+
+    document.getElementById('count')!.textContent = `Nájdených ${filtered.length} námetov${filtered.length > 60 ? ' (zobrazených prvých 60, spresnite hľadanie)' : ''}`;
+
+    const container = document.getElementById('results')!;
+    container.innerHTML = filtered
+      .slice(0, 60)
+      .map(
+        (item) => `
+      <a href="/namety/${item.id}" class="group bg-white rounded-lg border border-ink/10 overflow-hidden shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-200 flex flex-col">
+        <div class="h-40 w-full bg-chalkboard/5 overflow-hidden">
+          <img src="${escapeHtml(item.image || '')}" alt="" class="w-full h-full object-cover" loading="lazy" />
+        </div>
+        <div class="p-4">
+          <span class="font-mono text-[11px] tracking-wide text-gridblue uppercase">${escapeHtml(item.categories[0] || 'Ostatné')}</span>
+          <h3 class="font-display text-base font-semibold text-ink mt-1">${escapeHtml(item.title)}</h3>
+        </div>
+      </a>
+    `
+      )
+      .join('');
+  }
+
+  init();
+</script>

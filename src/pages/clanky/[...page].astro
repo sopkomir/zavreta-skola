@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Pagination from '../../components/Pagination.astro';
+
+export async function getStaticPaths({ paginate }) {
+  const allClanky = await getCollection('clanky');
+  const sorted = allClanky.sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+  return paginate(sorted, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+---
+<Layout title={`Články — Zavretá škola`}>
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-4xl font-semibold">Novinky a články</h1>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{page.total} článkov · strana {page.currentPage} / {page.lastPage}</p>
+  </section>
+
+  <main class="max-w-4xl mx-auto px-4 sm:px-6 py-12 space-y-6">
+    {page.data.map((clanok) => (
+      <a href={`/clanky/${clanok.id}`} class="group flex flex-col sm:flex-row gap-5 bg-white border-2 border-ink rounded-card shadow-pop-sm overflow-hidden transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop p-5">
+        {clanok.data.image && (
+          <img src={clanok.data.image} alt={clanok.data.title} class="w-full sm:w-48 h-40 object-cover rounded-tile border-2 border-ink flex-shrink-0" loading="lazy" />
+        )}
+        <div class="flex-1 flex flex-col">
+          {clanok.data.rubrika[0] && (
+            <span class="font-mono text-[11px] tracking-wide text-zosit uppercase mb-1 font-bold">{clanok.data.rubrika[0]}</span>
+          )}
+          <h2 class="font-display text-xl font-bold text-ink leading-snug mb-2">{clanok.data.title}</h2>
+          <div class="mt-auto text-xs text-ink/40 font-mono">
+            {clanok.data.author} · {clanok.data.pubDate.toLocaleDateString('sk-SK')}
+          </div>
+        </div>
+      </a>
+    ))}
+    <Pagination page={page} />
+  </main>
+</Layout>

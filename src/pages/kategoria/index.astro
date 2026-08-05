@@ -1,0 +1,32 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import categories from '../../data/categories.json';
+---
+<Layout title="Kategórie — Zavretá škola">
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-4xl font-semibold">Kategórie</h1>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{categories.length} hlavných kategórií podľa stupňa</p>
+  </section>
+  <main class="max-w-5xl mx-auto px-4 py-12 space-y-8">
+    {categories.map((cat) => (
+      <div class="bg-white border border-ink/10 rounded-lg overflow-hidden">
+        <a href={`/kategoria/${cat.slug}/`} class="flex justify-between items-center px-5 py-4 hover:bg-chalkboard/5 transition-colors">
+          <span class="font-display font-semibold text-lg text-ink">{cat.name}</span>
+          <span class="text-xs font-mono bg-chalkboard/5 text-ink/60 px-2 py-1 rounded">{cat.count}</span>
+        </a>
+        {cat.children.length > 0 && (
+          <div class="border-t border-ink/10 px-5 py-3 flex flex-wrap gap-2">
+            {cat.children.map((child) => (
+              <a
+                href={`/kategoria/${child.slug}/`}
+                class="text-xs font-mono px-2.5 py-1 rounded-full bg-gridblue/10 text-gridblue hover:bg-gridblue/20"
+              >
+                {child.name} ({child.count})
+              </a>
+            ))}
+          </div>
+        )}
+      </div>
+    ))}
+  </main>
+</Layout>

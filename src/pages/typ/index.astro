@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { catSlug } from '../../utils/catSlug';
+import { primaryTypeStyle } from '../../utils/typeStyle';
+
+const allNamety = await getCollection('namety');
+
+const counts = new Map<string, number>();
+for (const n of allNamety) {
+  for (const t of n.data.types) {
+    counts.set(t, (counts.get(t) || 0) + 1);
+  }
+}
+const types = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+---
+<Layout title="Typy námetov — Zavretá škola">
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-4xl font-semibold">Typy námetov</h1>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{types.length} typov materiálov</p>
+  </section>
+  <main class="max-w-5xl mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+      {types.map(([name, count]) => {
+        const style = primaryTypeStyle([name]);
+        return (
+          <a
+            href={`/typ/${catSlug(name)}/`}
+            class="flex justify-between items-center bg-white border border-ink/10 rounded-md px-4 py-3 hover:border-zosit transition-colors"
+          >
+            <span class="flex items-center gap-2 font-medium text-ink">
+              <span class={`w-2.5 h-2.5 rounded-full ${style.bg}`}></span>
+              {name}
+            </span>
+            <span class="text-xs font-mono bg-chalkboard/5 text-ink/60 px-2 py-1 rounded">{count}</span>
+          </a>
+        );
+      })}
+    </div>
+  </main>
+</Layout>

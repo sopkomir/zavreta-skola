@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import NametCard from '../../../components/NametCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { catSlug } from '../../../utils/catSlug';
+
+export async function getStaticPaths({ paginate }) {
+  const allNamety = await getCollection('namety');
+  const allClanky = await getCollection('clanky');
+  const authors = [...new Set([...allNamety.map((n) => n.data.author), ...allClanky.map((c) => c.data.author)])];
+
+  return authors.flatMap((author) => {
+    const filteredNamety = allNamety
+      .filter((n) => n.data.author === author)
+      .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+    const filteredClanky = allClanky
+      .filter((c) => c.data.author === author)
+      .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+    // stránkujeme len námety (zvyčajne viac), články sa zobrazia celé pod nimi
+    return paginate(filteredNamety, {
+      pageSize: 24,
+      params: { author: catSlug(author) },
+      props: { authorName: author, clanky: filteredClanky },
+    });
+  });
+}
+
+const { page, authorName, clanky } = Astro.props;
+---
+<Layout title={`${authorName} — Zavretá škola`}>
+  <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
+    <h1 class="font-display text-3xl sm:text-4xl font-bold">{authorName}</h1>
+    <p class="text-chalk/70 font-mono text-sm mt-2">
+      {page.total} námetov{clanky.length > 0 ? ` · ${clanky.length} článkov` : ''}
+    </p>
+  </section>
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-12">
+    {page.data.length > 0 && (
+      <div>
+        <h2 class="font-display text-lg font-bold text-ink mb-4">Námety</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {page.data.map((namet, i) => <NametCard namet={namet} index={i} />)}
+        </div>
+        <Pagination page={page} />
+      </div>
+    )}
+
+    {clanky.length > 0 && (
+      <div>
+        <h2 class="font-display text-lg font-bold text-ink mb-4">Články</h2>
+        <div class="space-y-3">
+          {clanky.map((clanok) => (
+            <a href={`/clanky/${clanok.id}`} class="block bg-white border-2 border-ink rounded-card shadow-pop-sm px-5 py-3 font-display font-semibold text-ink hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop transition-[transform,box-shadow]">
+              {clanok.data.title}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+  </main>
+</Layout>

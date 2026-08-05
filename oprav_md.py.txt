@@ -1,0 +1,48 @@
+import os
+import re
+
+# Nastav cestu k tvojmu projektu ( '.' znamená aktuálny priečinok)
+PROJECT_DIR = "." 
+
+# Doména, ktorú dopĺňame
+BASE_URL = "https://zavretaskola.sk"
+
+def oprav_md_text(text):
+    if not text:
+        return text
+
+    # 1. Oprava Markdown syntaxy: ![alt](/wp-content/...) -> ![alt](https://zavretaskola.sk/wp-content/...)
+    text = re.sub(r'!\[(.*?)\]\(/+(wp-content/[^)]+)\)', rf'![\1]({BASE_URL}/\2)', text)
+    text = re.sub(r'!\[(.*?)\]\(wp-content/([^)]+)\)', rf'![\1]({BASE_URL}/wp-content/\2)', text)
+
+    # 2. Oprava HTML tagov v Markdown-e: <img src="/wp-content/..." />
+    text = re.sub(r'(src|href)=["\']/+(wp-content/[^"\']+)["\']', rf'\1="{BASE_URL}/\2"', text)
+    text = re.sub(r'(src|href)=["\']wp-content/([^"\']+)["\']', rf'\1="{BASE_URL}/wp-content/\2"', text)
+
+    return text
+
+def spracuj_markdown_subory(root_dir):
+    počet_upravených_súborov = 0
+
+    # Prejde všetky súbory a podsložky v projekte
+    for root, dirs, files in os.walk(root_dir):
+        for file in files:
+            if file.endswith('.md'):
+                file_path = os.path.join(root, file)
+
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    povodny_obsah = f.read()
+
+                upraveny_obsah = oprav_md_text(povodny_obsah)
+
+                # Ak sa niečo změnilo, prepíšeme súbor
+                if povodny_obsah != upraveny_obsah:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(upraveny_obsah)
+                    print(f"Opravené: {file_path}")
+                    počet_upravených_súborov += 1
+
+    print(f"\nHotovo! Celkovo bolo prepísaných {počet_upravených_súborov} Markdown súborov.")
+
+if __name__ == "__main__":
+    spracuj_markdown_subory(PROJECT_DIR)
