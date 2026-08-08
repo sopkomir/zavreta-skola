@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/obsah1.jpg"
+views: 1376
 ---
 Kniha v PDF formáte s viac ako 100 cvičeniami a pracovnými listami na rôzne vyučovacie predmety s originálnymi komiksovými ilustráciami. Pre 3. a 4. ročník ZŠ. V čase aktuálnej mimoriadnej situácie ju sprístupňujeme BEZPLATNE na domáce vzdelávanie a umožňujeme jej šírenie. NA STIAHNUTIE.
 

@@ -5,6 +5,7 @@ author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/podstatne-mena.jpg"
+views: 1726
 ---
 Rôzne cvičenia na vlastné a všeobecné podstatné mená
 

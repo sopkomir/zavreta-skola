@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/eu1.jpg"
+views: 926
 ---
 Na tejto stránke máte k dispozícii najrôznejšie materiály o EÚ, vrátane jej histórie, fungovania a informácií o jednotlivých politikách. Nájdete tu iste veľa inšpirácie.
 

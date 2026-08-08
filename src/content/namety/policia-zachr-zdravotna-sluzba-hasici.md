@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Vlastiveda"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/policia.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10007744"
+wordwallEmbed: "https://wordwall.net/embed/6a0f932226084efb9f94063adfded39e"
+views: 904
 ---
 Triedenie rôznych aktivít, tel. čísla podľa toho, ku ktorej zložke patrí.
 Deti si precvičia, zopakujú aj učivo 3. roč.

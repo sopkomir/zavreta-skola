@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/volba2050.jpg"
+views: 960
 ---
 Stojíme pred voľbou, ktorá je neporovnateľná s akýmikoľvek doterajšími výzvami našej generácie a pravdepodobne i ľudstva v celej jeho histórii. Do roku 2050 máme 30 rokov na to, aby sme transformovali svoj život, fungovanie priemyslu, ekonomiky a celej spoločnosti, a vyhli sa nezvrátiteľným následkom klimatickej krízy. Vlastne túto krízu zažívame už dnes – výkyvy počasia, horúčavy, suchá, častejšie požiare a záplavy. Stabilné prostredie holocénu s malými zmenami globálnej teploty, v ktorom sa bezpečne rozvíjali ľudské civilizácie a darilo sa prírodným druhom, je za nami.
 

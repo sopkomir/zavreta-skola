@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/sk.jpg"
+views: 1122
 ---
 Pravidlá hry Spoznaj Slovensko
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/az1.jpg"
+views: 959
 ---
 Matematika, gramatika.....
 Učenie a precvičovanie zábavnou - účinnou, aktivizujúcou formou.

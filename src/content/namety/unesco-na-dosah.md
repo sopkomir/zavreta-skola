@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unesco-na-dosah.jpg"
+views: 1254
 ---
 Organizácia Košice Región Turizmus, ktorá je v zriaďovateľskej právomoci Košického samosprávneho kraja, pripravila projekt UNESCO NA DOSAH. Predstavuje v ňom na interaktívnej mape cestu z Košíc do 100 minút autom až k 18 pamiatkam svetového dedičstva UNESCO. Každá lokalita má vytvorenú virtuálnu prehliadku, hovorený komentár, video a aj množstvo zaujímavostí.
 

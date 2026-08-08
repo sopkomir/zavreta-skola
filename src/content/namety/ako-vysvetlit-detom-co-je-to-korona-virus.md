@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/korona.jpg"
 youtubeId: "ERJp2F25zCU"
+views: 813
 ---
 Vzdelávacie video pre deti, aby naši najmenší vedeli, prečo sú doma a nechodia do škôlky či školy. Aby chápali, čo nás ohrozuje a ako môžeme ochrániť seba a našich rodičov či starých rodičov. Animované video jednoducho a jasne opisuje, čo je to korona vírus, ako sa pred ním môžeme chrániť, a ako sa treba správať, keď niekoho stretneme.
 

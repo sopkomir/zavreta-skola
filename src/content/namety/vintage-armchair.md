@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["2. stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/safe_image.png"
+views: 1436
 ---
 Kto nájde viac slov?
 Podľa veku dieťaťa sa môžu hľadať napríklad:

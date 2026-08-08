@@ -6,6 +6,7 @@ categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-2.png"
 youtubeId: "1rxK95FSx00"
+views: 1739
 ---
 Diktát na vybrané slová po B 3.-4-ročník ZŠ
 

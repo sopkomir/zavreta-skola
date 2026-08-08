@@ -5,6 +5,7 @@ author: "Katka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/LOGO-J.png"
+views: 1760
 ---
 Poznávanie a upevňovanie hlások a písmen. Pomenovanie obrázkov a určovanie prvej hlásky v slove, priradenie k písmenu.
 

@@ -6,5 +6,6 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/2106562-1.png"
 youtubeId: "YQc7EdA6Y8Q"
+views: 1105
 ---
 Matematika 8. ročník - zostroj dotyčnicu ku kružnici z bodu M, ktorý neleží na kružnici

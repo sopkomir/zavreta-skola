@@ -45,8 +45,14 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
           {namet.data.title}
         </h1>
 
-        <div class="text-sm text-ink/50 mb-6 font-mono">
-          {namet.data.pubDate.toLocaleDateString('sk-SK')}
+        <div class="text-sm text-ink/50 mb-6 font-mono flex items-center gap-3">
+          <span>{namet.data.pubDate.toLocaleDateString('sk-SK')}</span>
+          {namet.data.views != null && (
+            <>
+              <span>•</span>
+              <span title="počet zobrazení">👁 {namet.data.views.toLocaleString('sk-SK')} zobrazení</span>
+            </>
+          )}
         </div>
 
         {namet.data.image && (

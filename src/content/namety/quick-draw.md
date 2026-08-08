@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Anglický jazyk - 1- stupeň", "Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["APPKA", "CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/quickdraw.jpg"
+views: 1620
 ---
 Toto je riadna paradzina na angličtinu v kombinácii s výtvarkou 🙂 Hodí vám to slovíčko a vy ho máte za 20 sekúnd nakresliť (aspoň trafiť obrys) a ten systém priebežne komentuje, čo v tom tvare vidí (samozrejme po anglicky ;o) a keď trafíte, tak povie: "Oh, I see..." 😃 Som zvedavý, čo na to povedia decká 🙂
 

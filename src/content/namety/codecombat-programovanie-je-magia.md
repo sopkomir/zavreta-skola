@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ", "Informatika - SŠ"]
 types: ["APPKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/codecombat_1_0.png"
+views: 1023
 ---
 Ak sa chceš naučiť programovať, musíš napísať veľa kódu.
 Úlohou CodeCombatu je programovanie s úsmevom.

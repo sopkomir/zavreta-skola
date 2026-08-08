@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "aogK8hsLqWU"
+views: 855
 ---
 Rozprávanie Marty Szilárdovej, ktorá prežila vyhladzovací tábor Osvienčim a pochod smrti pred koncom druhej svetovej vojny.
 

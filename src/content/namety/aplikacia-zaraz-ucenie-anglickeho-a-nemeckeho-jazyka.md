@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["APPKA", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/skoly-program1.jpg"
+views: 934
 ---
 Aplikácia ZARAZ anglicky a nemecky pre učenie angličtiny a nemčiny bola navrhnutá tak, aby čo najjednoduchšie naučila slovnú zásobu bez bifľovania slovíčok. Naučí tiež slovíčka správne napísať. Ponúka aj úplne ZADARMO doplnkový vzdelávací jazykový program pre základné a stredné školy.
 

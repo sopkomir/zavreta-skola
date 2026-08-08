@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Geografia"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/geograf.in_.jpg"
+views: 919
 ---
 Veľa hier a príležitostí ako si vylepšiť zemepisné vedomosti. Projekt Andreja Probsta a jeho tímu.
 

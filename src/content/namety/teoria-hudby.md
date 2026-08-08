@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Hudobná výchova - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/teoria-hudby.jpg"
+views: 934
 ---
 Autor: Janka Geschy Horňanská
 

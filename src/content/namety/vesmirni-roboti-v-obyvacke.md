@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/roboti3.jpg"
+views: 777
 ---
 Otázky a odpovede k téme nájdete na FB: <a href="https://www.facebook.com/groups/3015401618523810/" rel="noopener noreferrer" target="_blank">https://www.facebook.com/groups/3015401618523810/  </a>
 Autor: ‎Mišo Smíšo‎ pre Zavretá škola

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Biológia", "Chémia", "Fyzika", "Geografia", "Matematika - 2. stupeň"]
 types: ["APPKA", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/phet-logo-trademarked.png"
+views: 2009
 ---
 Fyzika, Chémia, Biológia - to sú do veľkej miery pokusy a experimenty, ale kde vziať pokusy a experimenty v čase dištančného vzdelávania? 
 Skúste na stránkach, nájdete tam kopec fajnových simulácií z projektu PhET Interactive Simulation University of Colorado Boulder.

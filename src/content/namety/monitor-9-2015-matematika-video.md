@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
 youtubeId: "d9rAhtbSR_Q"
+views: 1022
 ---
 Riešenia príkladov monitora "9" 2015 aj s vysvetlením príkladov. Môže slúžiť ako pomôcka pri príprave žiakov na každoročný monitor "9".
 

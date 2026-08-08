@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/38033403_1193123977497150_4193001757325918208_n.jpg"
+views: 789
 ---
 Dokument o Downovom syndróme - prierezovka
 

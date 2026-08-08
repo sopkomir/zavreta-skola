@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/sanity-1024x1024-1.png"
+views: 950
 ---
 Podpor svoje duševné zdravie s aplikáciou Sanity
 Stiahnite si aplikáciu VÚDPaP, ktorá vám pomôže zlepšiť a udržať duševnú pohodu a zmierniť stav úzkosti.

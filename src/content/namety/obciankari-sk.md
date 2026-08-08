@@ -5,6 +5,7 @@ author: "Miroslav Sopko"
 categories: ["Občianska náuka"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo_obn_sw.png"
+views: 2859
 ---
 Dovoľujem si Vám predstaviť obnovené stránky internetovej komunity nielen pre učiteľov a žiakov/študentov jedného z najpodceňovanejších a zároveň najdôležitejších predmetov v našom vzdelávacom systéme – občianskej náuky.
 

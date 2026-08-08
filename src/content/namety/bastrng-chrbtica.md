@@ -6,6 +6,7 @@ categories: ["Biológia"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/bio.jpg"
 youtubeId: "7iURQqSbgsY"
+views: 989
 ---
 Michal Kubovčík zaujímavo o chrbtici
 

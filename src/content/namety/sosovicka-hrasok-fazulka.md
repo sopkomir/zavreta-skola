@@ -5,6 +5,7 @@ author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["NÁVOD", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/beans-3637372_1280.jpg"
+views: 1089
 ---
 Ahojte kamaráti,
 vedeli ste, že pravidelnou konzumáciou fazule si vraj predlžujeme život. Čo všetko potrebujeme, aby taká fazuľka vyklíčila a narástla? Koľko asi vyrastie za jeden deň?

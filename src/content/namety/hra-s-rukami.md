@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ms-e1584770698130.jpg"
+views: 868
 ---
 Krátke video s námetom na jednoduchú hru s rukami zameranú na pozornosť a šikovnosť
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/20190620024600_204.png"
+views: 1041
 ---
 Včielka - Zábavné precvičovanie doma aj v škole - čítanie, angličtina a španielčina na počítači, tablete aj telefóne.
 

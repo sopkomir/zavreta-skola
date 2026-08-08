@@ -5,6 +5,7 @@ author: "Jozef Zvolensky"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/jozef-zvolensky-ucitel-trieda-skycov-clanokW.jpg"
+views: 962
 ---
 Všetko, čo potrebujete vedieť o zlomkoch na základnej škole.
 

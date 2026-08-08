@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/oskole.jpg"
+views: 14769
 ---
 Všetko o deťoch a pre deti:
 

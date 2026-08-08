@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/prezentacia2.png"
+views: 1319
 ---
 Prezentácia, ktorá má dve časti:
 - Poznávanie - názov, obrázok, zvuk

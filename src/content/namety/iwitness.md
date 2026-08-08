@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/09/iwitness.png"
+views: 925
 ---
 <div id="main">
 <div id="content">

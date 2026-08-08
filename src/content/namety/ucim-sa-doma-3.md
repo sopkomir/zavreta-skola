@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ucim-sa-doma1.jpg"
+views: 1033
 ---
 Zaujímavé aktivity na každý deň......
 

@@ -6,6 +6,7 @@ categories: ["Prvouka a prírodoveda"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-1.jpg"
 youtubeId: "UX2lak-K-Sw"
+views: 845
 ---
 seriál o planétach a vesmíre ( po česky) - Paxi
 

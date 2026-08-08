@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/banany.jpg"
+views: 779
 ---
 Banány sú najpredávanejším ovocím na svete. Nepotrebujú reklamu, každý ich chce. Každý ich chce čo najlacnejšie. 	 
 

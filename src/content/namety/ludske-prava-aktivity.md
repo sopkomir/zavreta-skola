@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Občianska náuka - SŠ"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
+views: 3107
 ---
 Súbor aktivít zameraných na tematiku ľudských práv ako jeden z pilierov demokraticky fungujúceho štátu.
 V prípade domácej prípravy vypracovať úlohy, námety, podnety písomne. V závislosti od vypracovania úloh a potrieb učiteľa nastaviť klasifikáciu výstupov žiakov.

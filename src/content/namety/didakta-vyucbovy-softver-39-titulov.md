@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["APPKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/d4.jpg"
+views: 2852
 ---
 Ponuka od spoločnosti SILCOM Multimedia SK
 

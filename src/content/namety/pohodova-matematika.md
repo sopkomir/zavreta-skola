@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Matematika - 2. stupeň"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/pm.jpg"
+views: 1135
 ---
 Pohodová matematika - vysvetlenie učiva, príklady, testy, materiály pre žiakov i učiteľov.
 

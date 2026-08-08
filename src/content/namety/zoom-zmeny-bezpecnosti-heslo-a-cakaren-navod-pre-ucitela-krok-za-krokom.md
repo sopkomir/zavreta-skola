@@ -6,6 +6,7 @@ categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zoom_navod.jpg"
 youtubeId: "2EHPXV5OggA"
+views: 2870
 ---
 Toto video od Tomáša Truchlého zachytáva zmenu v Zoom konfigurácií, ktorá sa Vám udiala automaticky 5.4.2020.
 Ukážeme si:

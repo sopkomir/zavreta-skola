@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/komiks-obalka-web.jpg"
+views: 594
 ---
 Autor: Karolina Kučerová a Geofyzikální ústav AV ČR
 Jedinečná vzdelávacia pomôcka - komiks v češtine o vzniku seizmických vĺn počas zemetrasení a ich význame pre poznávanie stavby našej Zeme. Komiks je určený pre žiakov 1. a 2. stupňa základných škôl. Keď sa dozviete o príbehu seizmických vĺn, zahrajte si stolovú hru, budete potrebovať len figúrky a kocku.

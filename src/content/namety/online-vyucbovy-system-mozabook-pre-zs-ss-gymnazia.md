@@ -5,6 +5,7 @@ author: "Peter Benkovic"
 categories: ["Technická podpora pre učiteľov"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/banner_mozabook_fbprispevok_insta.png"
+views: 952
 ---
 Ideálna pomôcka pre online vzdelávanie s možnosťou zdieľania obrazovky napr. prostredníctvom ZOOM nielen pre učiteľov, ale aj pre rodičov a žiakov. Vhodný pre všetky stupne ZŠ, všetky SŠ aj gymnáziá. 
 - tematicky rozdelené celky podľa vyučovacieho procesu,

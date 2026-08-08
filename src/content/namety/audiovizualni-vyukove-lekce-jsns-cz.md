@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/jsns_cz.jpg"
+views: 564
 ---
 Viac ako 50 audiovizuálnych lekcií v češtine, ktoré umožňujú rozvíjať mediálnu gramotnosť žiakov. Ponúka „výukový plán“ Krok za krokom rozdelený do 3 úrovní podľa náročnosti tém:
 

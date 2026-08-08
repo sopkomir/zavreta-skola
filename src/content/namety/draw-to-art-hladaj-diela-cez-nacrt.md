@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: ["APPKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/draw02.jpg"
+views: 1095
 ---
 Mnoho skvelých umeleckých diel začalo ako náčrt, ale čo keby vám vaše náčrty umožnili objavovať umenie? Pomocou Draw to Art špecializovaný softvér slúži na priraďovanie vašej skice k maľbám, kresbám a sochám. Načrtnite, čo vás napadne, a preskúmajte státisíce umeleckých diel z múzeí po celom svete!
 

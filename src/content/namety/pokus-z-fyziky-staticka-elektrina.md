@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["Fyzika"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/IMG_3933-compressed.jpg"
+views: 1883
 ---
 Ako najjednoduchšie oddelíte zmiešané zrnká soli od korenia, bez toho aby ste kradli čarovnú paličku Harrymu Potterovi? Jednoduché fyzikálne „kúzlo“, v ktorého hlavnej úlohe je statická elektrina, zvládne každý.  Na vykonanie tohto kúzla vám pritom bude stačiť trochu soli, korenia a tanier. 
 

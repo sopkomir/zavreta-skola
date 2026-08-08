@@ -6,6 +6,7 @@ categories: ["Informatika - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/aurel.jpg"
 youtubeId: "5IpsYRphcjE"
+views: 935
 ---
 <span class="style-scope yt-formatted-string" dir="auto">🤔Viete, na čo sa používa superpočítač Aurel?🦸‍♂️💻 Z akých komponentov sa skladá, na čo slúži a po kom bol vlastne pomenovaný❓ </span>
 

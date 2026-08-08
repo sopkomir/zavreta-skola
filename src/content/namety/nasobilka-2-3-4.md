@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/nasobky02.jpg"
-wordwallEmbed: "https://wordwall.net/embed/9959983"
+wordwallEmbed: "https://wordwall.net/embed/b434145c457047238630f88b28de42ac?themeId=65&templateId=30&fontStackId=0"
+views: 1084
 ---
 Hra na násobky č. 2, 3, 4 s krtom, klik na správneho krtka a pokračuj, postupne je to rýchlejšie a krtkov je viac :-) Užite si zábavu!
 

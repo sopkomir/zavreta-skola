@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vyb-slova1.jpg"
+views: 1792
 ---
 Prezentácie a dokumenty na stiahnutie
 

@@ -5,6 +5,7 @@ author: "caroslovnik"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Caroslovnik_001.jpg"
+views: 1035
 ---
 Čaroslovník je zábavno-vzdelávací seriál pre deti, v ktorom sa na vtipný a deťom blízky spôsob vysvetľuje význam jednotlivých slov.
 

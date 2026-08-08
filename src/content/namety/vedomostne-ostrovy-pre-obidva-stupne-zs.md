@@ -5,6 +5,7 @@ author: "Peter Benkovic"
 categories: ["2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vedomostne-ostrovy-banner-z-mailingu.jpg"
+views: 839
 ---
 - jedinečný projekt na podporu moderného vzdelávania na ZŠ,
 - množstvo zaujímavostí z techniky, nemeckého jazyka, ekológie a fyziky,

@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/matemagika.png"
 youtubeId: "JGUm46F6Zqo"
+views: 1218
 ---
 alebo aj "Matematika pre inteligentných trojkárov a štvorkárov"
 

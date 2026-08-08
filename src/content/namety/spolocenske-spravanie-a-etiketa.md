@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/etiketa.png"
+views: 1663
 ---
 Vytvorený playlist obsahuje súbor videí, ktoré sú zamerané na spoločenské správanie a etiketu.
 Videá sú nahraté v kontinuite a vzájomnej náväznosti, ich celková minutáž je cca 114 min.

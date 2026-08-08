@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/235835281_4875078759175821_5737790671324507270_n.jpg"
+views: 1993
 ---
 Autor: Michaela Mušinská Vráblová
 

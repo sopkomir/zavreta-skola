@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/hero-desktop-88d3988e25de4f6459e4b2ec104c89e7.png"
+views: 1235
 ---
 Ak potrebujete realizovať videokonferenciu s minimálnymi vstupnými požiadavky na vybavenie účastníkov (tj. Vaša škola nemá zavedenú infraštruktúru na Google alebo MS a teraz je nereálne tieto služby narýchlo rozchodiť, vytvoriť všetkým používateľské kontá, preškoliť učiteľov ...) skúste tieto dve služby, ktoré možno používať len v internetovom prehliadači a nie sú potrebné ani žiadne prihlasovacie údaje.
 

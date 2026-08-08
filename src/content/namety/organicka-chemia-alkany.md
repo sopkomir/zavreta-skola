@@ -6,6 +6,7 @@ categories: ["Chémia"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/chem.jpg"
 youtubeId: "qdQX_QZiui4"
+views: 1362
 ---
 Video o nasýtených uhľovodíkoch
 

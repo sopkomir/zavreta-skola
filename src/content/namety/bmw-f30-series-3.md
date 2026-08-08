@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/DSC01802.jpg"
+views: 959
 ---
 Už je to nějaký pátek, co jsem Andulce z města přivezla rámeček pro vyšívání a "tupé" vyšívací jehly. Byla nadšená. Od té doby musím opravovat oblečení tajně po nocích, protože jinak mi je bere a zašívá sama - v kvalitě čtyřleté švadlenky, co vám budu povídat :)
 Připravila jsem pro ni jednoduchý trenažér pro přišívání knoflíků (barevné knoflíky pro šedého pána). Vytisknout, podlepit, šít.

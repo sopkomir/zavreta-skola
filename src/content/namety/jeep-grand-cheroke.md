@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/90441570_10157258242908182_4181442844986179584_n.jpg"
+views: 898
 ---
 Táto publikácia vznikla ako doplnkový vzdelávací materiál pre učiteľov a učiteľky v školách, ale aj pre potreby neformálneho vzdelávania.
 Príručka pozostáva z dvoch častí - úvodná časť – informačný text – približuje fenomén zodpovednej spotreby. Predstavuje koncept 3R (z angličtiny: Reduce – Reuse – Recycle). V ďalšej časti sme sa zamerali na niektoré vybrané predmety dennej spotreby – plasty, pa<span class="text_exposed_show">pier, elektroniku a textil – teda predmety, s ktorými väčšina mladých ľudí prichádza denne do kontaktu. Ku každému predmetu sme pripravili krátky informačný text. Ten môže vám i vašim žiakom a žiačkam pomôcť lepšie pochopiť, akým spôsobom spotreba daného produktu vplýva na spoločnosť a životné prostredie.

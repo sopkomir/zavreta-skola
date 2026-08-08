@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/kvizy1.jpg"
+views: 1109
 ---
 Vzdelávacie videá online - Matematika
 

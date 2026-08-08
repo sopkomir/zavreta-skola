@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/mpc.png"
+views: 1030
 ---
 Odborno - metodická pomoc na stránke MPC
 

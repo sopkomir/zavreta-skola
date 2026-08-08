@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/nasobky09.jpg"
-wordwallEmbed: "https://wordwall.net/embed/9960172"
+wordwallEmbed: "https://wordwall.net/embed/0ce54211c37b4fb5aa6226349a0b71bb?themeId=22&templateId=45&fontStackId=0"
+views: 1936
 ---
 Ako pomôcť  hrou naučiť sa a precvičiť násobky č. 5, 6, 7, 8, 9
 

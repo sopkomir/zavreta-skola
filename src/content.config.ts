@@ -12,6 +12,7 @@ const namety = defineCollection({
     image: z.string().optional(),
     youtubeId: z.string().optional(),
     wordwallEmbed: z.string().optional(),
+    views: z.number().optional(),
   }),
 });
 

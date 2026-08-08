@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/efk.jpg"
+views: 1075
 ---
 - ozvučený obrázkový slovník, precvičovacie hry a pracovné listy online aj k vytlačeniu
 

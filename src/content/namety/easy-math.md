@@ -5,6 +5,7 @@ author: "Marta Izsofova"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/easymath.jpg"
+views: 844
 ---
 Youtube kanál venovaný matematike, hlavne druhého stupňa základnej školy. 
 #matematika #video 

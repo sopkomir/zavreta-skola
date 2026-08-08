@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Biológia"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/bio.jpg"
+views: 1521
 ---
 náučné video o fotosyntéze z produkcie youtube kanálu <a href="https://www.youtube.com/channel/UCgX8Jck8Dbw1cnY1UWNHXBQ/about" target="_blank" rel="noopener noreferrer">Edisco - Videovýpisky</a>, kde môžete nájsť okrem takýchto fyzikálnych i dejepisné.
 

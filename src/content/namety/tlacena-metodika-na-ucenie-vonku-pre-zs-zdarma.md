@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/huravon-prac-listy-15-vizualizacia-1-e1613128072482.jpg"
+views: 898
 ---
 Leto je čas na oddych, ale aj na prípravu na jeseň a znovuotvorenie škôl. Spojte príjemné s užitočným a <strong>prelistujte si metodiky na učenie vybraných predmetov</strong> <strong>vonku</strong>, aby ste v septembri mohli vyskúšať nové a efektívne metódy učenia.
 

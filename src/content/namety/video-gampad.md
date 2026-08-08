@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/ms_kafomet.jpg"
+views: 1133
 ---
 <span id="fbPhotoSnowliftCaption" class="fbPhotosPhotoCaption" tabindex="0" aria-live="polite" data-ft="{&quot;tn&quot;:&quot;K&quot;}"><span class="hasCaption">Zadarmo pracovne listy pre škôlkárov.</span></span>
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/home_edukit2.jpg"
+views: 859
 ---
 Vzdelávacia sada s množstvom školských aktivít a on-line zdrojov pre učiteľov a vzdelávateľov.
 Materiál s aktivitami, hrami, ale aj teoretickým základom k témam Zmena klímy, Environmentálna migrácia a Environmentálna spravodlivosť. Vďaka za tip od Silvii Szaboovej.

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/theme2.png"
+views: 883
 ---
 Jazyk: český
 

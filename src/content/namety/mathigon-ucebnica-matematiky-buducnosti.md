@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/mathigon.jpg"
 youtubeId: "vwyIZsi0b98"
+views: 1788
 ---
 <a href="https://mathigon.org/about#team" target="_blank" rel="noopener">Autori tohto projektu</a> v angličtine píšu, že všetko v našom svete sa riadi matematickými zákonmi: od pohybu hviezd a galaxií, až po prenos telefónnych signálov, cestovné poriadky autobusov, predpoveď počasia a online bankovníctvo. Matematika nám umožňuje popísať a vysvetliť všetky tieto príklady a môže odhaliť hlboké pravdy o ich základných vzorcoch.
 

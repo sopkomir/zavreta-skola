@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/parlamentne_volby.jpg"
+views: 872
 ---
 Ďalší skvelý kurz od <a href="https://www.zmudri.sk/" target="_blank" rel="noopener noreferrer">Zmudri.sk</a>.
 <p class="text-course-description" data-v-83996318="" data-v-3f78f7a8="">Blížia sa parlamentné voľby. Či sa ti to páči, alebo nie, ovplyvnia aj <b data-v-83996318="" data-v-3f78f7a8=""> TVOJU </b> budúcnosť. Mnohí z vás využijú právo voliť prvýkrát. Ale máte ty a tvoji rovesníci dostatok informácií, aby ste sa rozhodli zodpovedne? Vieš, aké právomoci má parlament, vláda, ako vznikajú zákony, ktoré ovplyvňujú tvoj život a ako nenaletieť falošným sľubom?</p>

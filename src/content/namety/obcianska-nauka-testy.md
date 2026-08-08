@@ -5,6 +5,7 @@ author: "bojnak"
 categories: ["Občianska náuka - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/bojnak.jpg"
+views: 6104
 ---
 Pre učiteľov občianskej náuky okrem mojich pracovných zošitov vydaných a sprístupnených vydavateľstvom Orbis Pictus Istropolitana, ponúkam svoje online testy ku všetkým učivám v rámci uvedených zošitov pre študenta. Učiteľom prajem veľa trpezlivosti :)
 

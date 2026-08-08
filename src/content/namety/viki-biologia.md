@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Biológia"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-viki-header.png"
+views: 2567
 ---
 S Viki je učenie efektívnejšie, atraktívnejšie a žiakov viac baví. V škole aj doma. Na tomto najväčšom slovenskom vzdelávacom portáli nájdete množstvo skvelých online materiálov.
 

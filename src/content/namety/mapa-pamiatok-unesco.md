@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unesco-map.jpg"
+views: 1206
 ---
 Pozrite si túto interaktívnu mapu všetkých pamiatok UNESCO, budete príjemne prekvapený ich pestrosťou a zistíme, aký je krásny náš svet vo svojej rôznorodosti.
 

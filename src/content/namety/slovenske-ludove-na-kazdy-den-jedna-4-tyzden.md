@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Darmo-ma-mamičko.jpg"
+views: 1693
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom
 Môj manžel je bývalý učiteľ na 1.st. (kedysi sme mávali spoločnú triedu, on doobeda učil, ja poobede v družine), je tiež bývalým kaviarenským klaviristom a na dôchodku notografom.

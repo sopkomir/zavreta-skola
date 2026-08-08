@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ovce.sk_.jpg"
+views: 812
 ---
 Projekt Sheeplive (slovenský originál OVCE.sk) vznikol z iniciatívy eSlovensko o.z. ako súčasť projektov Zodpovedne.sk, Pomoc.sk a Stopline.sk. Projektovými partnermi sú ďalej Ministerstvo vnútra Slovenskej Republiky a Slovenský výbor pre Unicef. Hlavným cieľom projektu je detský animovaný seriál a medzinárodný internetový portál. Projekt sa zameriava na bezpečnosť detí a mládeže, najmä na riziká internetu, mobilov a nových technológií. Pre nižšiu vekovú kategóriu detí projekt pôsobí ako prevencia, mládeži vtipne nastavuje zrkadlo ich nevhodného správania sa a dospelých chce projekt poučiť.
 

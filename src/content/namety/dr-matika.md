@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Matematika - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/05/drmatika.jpg"
+views: 660
 ---
 Na tomto kanáli nájdete výukové videá z matematického portálu www.drmatika.cz, kde nájdete mnoho ďalších materiálov a interaktívnych nástrojov, aby vám pomohli "vyliečiť" vaše problémy s matematikou.
 

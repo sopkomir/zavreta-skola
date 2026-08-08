@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/poplach.jpg"
 youtubeId: "kFEfesYLjqM"
+views: 874
 ---
 je voľne dostupná spoločenská stolová hra pre deti od 10 rokov a ich rodiny,  ktorej cieľom je hravou a prístupnou formou vysvetliť dôležitosť sociálneho odstupu. 
 

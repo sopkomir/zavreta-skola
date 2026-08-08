@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/zaskoma.jpg"
+views: 1169
 ---
 <div class="rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t gs1a9yip owycx6da btwxx1t3 ihqw7lf3 cddn0xzi">
 <div class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t g5gj957u marjyy4e hpfvmrgz rj1gh0hx buofh1pr hv4rvrfc dati1w0a">

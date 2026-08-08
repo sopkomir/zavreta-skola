@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/slobodovo.jpg"
+views: 719
 ---
 Sebavedomé Slovensko v roku 2019 pripravilo interaktívny workshop pre školy, ktorý vznikol za podpory veľvyslanectva Spojeného kráľovstva. Jeho cieľom bolo nielen zvýšiť záujem žiakov o naše dejiny a občianske práva a slobody, ale inšpirovať ich samotných ako aj aj ich pedagógov, že štúdium môže mať formát interaktívnej hry. Tým sa dosiahne efekt, že sa zvýši pozornosť a záujem žiakov o preberanú tému a ich osobný vklad prispeje k tomu, že lekciu z hodiny nezabudnú, ale budú jej lepšie a praktickejšie rozumieť ešte dlho po skončení workshopu.
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s">

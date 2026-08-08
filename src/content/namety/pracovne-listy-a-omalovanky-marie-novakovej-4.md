@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Jarný-rybník.jpg"
+views: 2685
 ---
 Pracovné listy a omaľovánky na vytlačenie. Vhodné pre predškolákov a mladších školákov.
 

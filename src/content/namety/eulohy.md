@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/eZ1.png"
+views: 1426
 ---
 autor textu: <strong>Monika Tomcsanyiova</strong>
 

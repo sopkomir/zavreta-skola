@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/IMG_9583-compressed.jpg"
+views: 875
 ---
 Jednoduchá harmonika a jej príprava je neobyčajný hudobný pokus, v ktorom si deti môžu sami vyrobiť jednoduchý hudobný nástroj a preskúmajú vedu zvuku.
 Vysvetlenie je skutočne jednoduché: Fúkanie do harmoniky spôsobuje, že gumička vibruje a vydáva vtipný zvuk.

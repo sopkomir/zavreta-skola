@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/sd1.png"
+views: 832
 ---
 Portál v češtine s vzdelávacími metodikami k relácii Slavné dny internetovej televízie Stream.cz.
 

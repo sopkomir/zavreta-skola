@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/es3.png"
+views: 830
 ---
 Najlepšou interaktívnou tabuľou je realita. Hľadajme spôsoby, aby učitelia menej učili a žiaci viac pochopili.
 link: <a href="https://edusmile.sk/" target="_blank" rel="noopener noreferrer">www.edusmile.sk/</a>

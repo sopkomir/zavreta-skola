@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Prvouka a prírodoveda"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť.png"
+views: 921
 ---
 vzdelávací portál
 

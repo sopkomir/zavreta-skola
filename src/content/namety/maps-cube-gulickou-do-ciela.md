@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mapcube.jpg"
+views: 720
 ---
 Hra od Google, kde je vašou úlohou dopraviť guličku do cieľa správnym nakláňaním kocky. Spoznávate pri tom lokality známych svetových veľkomiest.
 

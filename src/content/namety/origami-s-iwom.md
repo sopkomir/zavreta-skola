@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/07/origami_s_iwom.jpg"
 youtubeId: "OppogcAncY8"
+views: 847
 ---
 Vítame Vás v sekcií videí pána Sedláčka 🎬 Origami s Iwom, kde sú uverejňované výborné videá s origami - papierovými skladačkami. 
 Sledujte, skladajte a učte sa ;)

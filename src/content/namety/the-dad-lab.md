@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Prvouka a prírodoveda"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-1-1.jpg"
+views: 778
 ---
 Tony pokusov realizovatelnych aj v domacom prostredi
 

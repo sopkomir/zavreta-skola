@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/settera.png"
+views: 3139
 ---
 <a href="https://online.seterra.com/sk" rel="noopener noreferrer" target="_blank">Slepé mapy pre celý svet</a> od výmyslu sveta. Tieto sú v slovenčine.
 Stačí si kliknúť a hrať.

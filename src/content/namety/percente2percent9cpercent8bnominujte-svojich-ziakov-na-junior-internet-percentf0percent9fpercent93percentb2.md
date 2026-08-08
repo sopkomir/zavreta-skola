@@ -5,6 +5,7 @@ author: "richter@amavet.sk"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/1.jpg"
+views: 440
 ---
 ✋Nominujte svojich žiakov - programátorov, grafikov, blogerov 👱‍♀️👦
 Online konferencia pre žiakov ZŠ a SŠ - v kategóriách WEB, APP, BLOG, DESIGN, LEARN, TEXT

@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "4a2cXOKcLjw"
+views: 781
 ---
 Príbeh Kláry Chlamtáčovej, ktorú nacisti tehotnú deportovali do Terezína, kde porodila zdravé dievčatko.
 

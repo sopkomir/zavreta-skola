@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/openlab-logo.png"
+views: 712
 ---
 Milí učitelia IT 🧑‍💻👩‍💻
 Vo vzdelávacej organizácii OpenLab robíme kroky smerom k učiteľom IT - zverejňujeme naše učebné materiály vytvorené odborníkmi z praxe pre 3 tech smery (vývoj aplikácií, hier a IoT) a chystáme školenia pre učiteľov IT primárne na stredných školách, aby sme im pomohli s materiálmi pracovať.

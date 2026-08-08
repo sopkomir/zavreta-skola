@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Post-Bellum-vystavy-Trstena-2-1024x576-1.jpg"
 youtubeId: "5TN1J-Tvdik"
+views: 863
 ---
 <a href="https://www.postbellum.sk/o-nas/" target="_blank" rel="noopener noreferrer">Post Bellum SK</a> je nezisková organizácia, ktorá od roku 2011 na Slovensku vyhľadáva a dokumentuje spomienky pamätníkov kľúčových momentov 20. storočia. Ich Príbehy 20. storočia sú sú krátke filmy ľudí, ktorí prežili 2. svetovú vojnu a metodiky vznikli vďaka podpore Európskej únie, v programe Európa pre občanov / Europe for citizens.
 

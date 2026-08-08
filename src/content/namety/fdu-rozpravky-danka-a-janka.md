@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vyr_26200237.jpg"
+views: 1178
 ---
 Mária Ďuríčková vnímala detskú dušu nesmierne citlivo. Necháva otvorenú hranicu medzi reálnym a fantastickým, ktoré sa navzájom prelínajú.
 Knižka Danka a Janka je pokladom vo svete detských rozprávok.

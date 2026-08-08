@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Fyzika - SŠ"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/05/fyzika-ze-vsech-stran.jpg"
+views: 763
 ---
 Predstavujeme jednoduché aj nevšedné fyzikálne pokusy, ktoré majú za úlohu ukázať študentom naučené teoretické znalosti v praxi. A to všetko jednoduchou a zábavnou formou. Experimenty sú vybrané tak, aby pokryli čo najviac odborov fyziky. Videá sa môžu uplatniť priamo pri výučbe, alebo pri domácom štúdiu.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stevko.jpg"
+views: 973
 ---
 Animované video z produkcie <a href="http://snp.ucebna.org/" target="_blank" rel="noopener noreferrer">Vzdelávacieho centra Múzea Slovenského národného povstania</a>.
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slovniky.jpg"
+views: 2257
 ---
 Súčasné slovníky
 Krátky slovník slovenského jazyka 4 z r. 2003 – kodifikačná príručka

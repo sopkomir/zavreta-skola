@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/naberanku1.jpg"
+views: 1126
 ---
 Prezentácie, testy, videá, cvičenia, námety na stránke českej školy ZŠ a MŠ Na Beránku, Praha 12.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/DMS.jpeg"
+views: 1079
 ---
 <strong>Pri príležitosti 80. výročia založenia Geografického ústavu Slovenskej akadémie vied a 30. výročia založenia Kartografickej spoločnosti SR vyšla špeciálna popularizačná publikácia venujúca sa súťaži <a href="https://www.facebook.com/detskamapasveta">Detská mapa sveta</a>.</strong><span id="more-1301"></span>
 

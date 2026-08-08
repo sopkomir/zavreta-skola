@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vyznam_slov01.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10044928"
+wordwallEmbed: "https://wordwall.net/embed/b5aed5e885854ee7bd5175e00ac161bb"
+views: 1193
 ---
 Dve aktivitky na vybrané slová a ich význam. Stačí priložiť slovo k správnemu významu.
 

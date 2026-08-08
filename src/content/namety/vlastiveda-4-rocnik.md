@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Vlastiveda"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/vl1.png"
+views: 2254
 ---
 Mestá na Slovensku majú svoje vlastné web stránky na ktorých môžeme načerpať veľa informácií a obrazového materiálu. Vytvorená web stránka má slúžiť vyučujúcim na prvom stupni ZŠ. Je doplnkom k výučbe vlastivedy. Fotografie miest, obcí, prírodných rezervácií sú z fotogalérií rodičov a učiteľov na ZŠ Ulca mieru v Bytči. Aby naše deti zlepšili svoju digitálnu gramotnosť, pripravili sme pre nich veľa vlastivedných úloh, pri ktorých môžu informácie a fotografie vyhľadávať, triediť a pri tom využívať svoje zručnosti v oblasti IKT.
 

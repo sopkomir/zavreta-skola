@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/simulacie1.jpg"
+views: 948
 ---
 Interaktívne simulácie
 - fyzika

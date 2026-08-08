@@ -5,5 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89214235_10221976203256931_8853878152158511104_n.jpg"
+views: 1260
+youtubeId: "kbA1YDXBtnM"
 ---
 Naučme detičky umývať si správne ručičky! Pomôže im k tomu pesnička a pridať sa môžu aj starší súrodenci!

@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/canva.jpeg"
 youtubeId: "sj8jH32b_3I"
+views: 2949
 ---
 autor: Zuzana Diová
 

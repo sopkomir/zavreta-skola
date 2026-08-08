@@ -6,6 +6,7 @@ categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/imagine_dragons_birds-592.jpg"
 youtubeId: "vOXZkm9p_zY"
+views: 1844
 ---
 Na hudobnom podklade slávnej popovej skupiny Imagine Dragons vznikol krátky animovaný, emotívne silný príbeh, ktorý je aj výchovne využiteľný. Otvára témy diskriminácie, predsudkov, šikanovania, netolerancie .
 Pracovať s príbehom sa môže nasledovne :

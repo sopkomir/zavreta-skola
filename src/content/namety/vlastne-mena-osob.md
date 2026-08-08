@@ -1,13 +1,12 @@
 ---
-title: Vlastné mená osôb
+title: "Vlastné mená osôb"
 pubDate: 2021-03-17
-author: Fialka
-categories:
-  - Slovenský jazyk - 1. stupeň
-types:
-  - HRA
-image: https://www.zavretaskola.sk/wp-content/uploads/2021/03/vlastne-mena.jpg
-wordwallEmbed: https://wordwall.net/sk/embed/44bcd57cf1af410fb3626a2d08ea2aab?themeId=48&templateId=2&fontStackId=0
+author: "Fialka"
+categories: ["Slovenský jazyk - 1. stupeň"]
+types: ["HRA"]
+image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/vlastne-mena.jpg"
+wordwallEmbed: "https://wordwall.net/embed/44bcd57cf1af410fb3626a2d08ea2aab"
+views: 1045
 ---
 Triedenie vlastných mien osôb s ostatnými podstatnými menami.
 

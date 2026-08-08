@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vcielky.jpg"
+views: 2237
 ---
 Z včelařství naučil jsem se přírodu více znáti a více milovati, než z mnoha knih učených. J. A. Komenský
 

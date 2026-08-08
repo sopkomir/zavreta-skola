@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Geografia - SŠ"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/realie1.jpg"
+views: 819
 ---
 Link: http://rr.moa-jc.cz/
 

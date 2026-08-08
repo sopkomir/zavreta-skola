@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Fyzika"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Speaker_17563.jpg"
+views: 794
 ---
 Dr. Shini Somara vysvetľuje so svojimi hosťami fyziku
 

@@ -6,6 +6,7 @@ categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/benuska-fyzika01.jpg"
 youtubeId: "cwluQy9VNY0"
+views: 750
 ---
 Autor: Jozef Beňuška
 

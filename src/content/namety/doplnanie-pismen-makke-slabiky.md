@@ -5,7 +5,8 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/d.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10106306"
+wordwallEmbed: "https://wordwall.net/embed/6402e46a25ce45a29931c7d7e02f6ae7?themeId=2&templateId=2&fontStackId=0"
+views: 1255
 ---
 Cvičenie môžete využiť vo viacerých verziách, 
 Ak ho spustíte na stránke wordwall.net, tak vpravo od cvičenia máte možnosť prepnúť šablónu a aj možnosť výberu tlačovej zostavy. 

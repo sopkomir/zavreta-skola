@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["2. stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/postavy_alone-uc.jpg"
+views: 774
 ---
 Precvičujte pestrú škálu predmetov.
 Kvalitne, zábavne a do hĺbky.

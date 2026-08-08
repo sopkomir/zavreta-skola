@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/matika-berovci.jpg"
 youtubeId: "n8XIY9lSNLw"
+views: 1171
 ---
 Vydavateľstvo LiberaTerra už viac ako 20 rokov píše a vydáva učebnice a pracovné zošity z matematiky. Momentálne vyrábajú aj takéto videá, aby vám uľahčili domáce učenie.
 

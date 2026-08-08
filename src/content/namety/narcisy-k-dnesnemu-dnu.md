@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/narcis-tanierik-obr.jpg"
+views: 1603
 ---
 Táto jarná aktivita z portálu Našedetičky.sk je ideálna na tvorenie s malými deťmi. Narcisy sú jedným zo symbolov jari a ich žiarivá žltá farba určite rozžiari aj detské očká.
 

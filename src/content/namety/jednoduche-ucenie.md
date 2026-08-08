@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "HRA", "NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/Snímka.png"
+views: 957
 ---
 Námety a hry pre uľahčenie učiva - predškoláci, mladší žiaci
 

@@ -5,7 +5,8 @@ author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/pady-podstatnych-mien.jpg"
-wordwallEmbed: "https://wordwall.net/embed/35734160"
+wordwallEmbed: "https://wordwall.net/embed/7782657b3c904276bccce5f7f6f86916"
+views: 989
 ---
 Autor: Zuzana Lašticová
 Zoradenie skupiny - presunutím umiestnite každú položku do svojej pracovnej skupiny

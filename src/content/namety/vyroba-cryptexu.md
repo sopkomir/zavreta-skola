@@ -5,6 +5,7 @@ author: "Jozef Zvolensky"
 categories: ["Technická výchova"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/cryptext.jpg"
+views: 1499
 ---
 Spojenie rysovania, manuálnej prace aj roztočenia mozgových závitov. Zábava pre šikovných majstrov.
 

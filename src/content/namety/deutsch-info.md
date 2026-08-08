@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Nemecký jazyk 2. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/11/deutsch.jpg"
+views: 934
 ---
 deutsch.info je internetová stránka na učenie sa nemčiny, ktorá využíva moderné didaktické násroje a súčasne ponúka praktické informácie o živote a práci v Nemecku a Rakúsku.
 

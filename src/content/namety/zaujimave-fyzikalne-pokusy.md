@@ -6,6 +6,7 @@ categories: ["Fyzika"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/fyz.jpg"
 youtubeId: "kFB9XYP7654"
+views: 1058
 ---
 Pedagóg vtipnou formou vo videu vysvetľuje pokusy
 

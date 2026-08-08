@@ -6,6 +6,7 @@ categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/ms_teams.jpg"
 youtubeId: "TQAVsvBAPZQ"
+views: 1469
 ---
 <span class="style-scope yt-formatted-string" dir="auto">Skvelý Youtube kanál <a href="https://www.youtube.com/channel/UClrUn2lkKLcCSt3Aq3tvbtA">Pohodová informatika</a> v tomto videu reaguje na problémy na hodinách s vyzužívaním Microsoft Teams: </span>
 

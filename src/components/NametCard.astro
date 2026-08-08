@@ -36,6 +36,9 @@ const tilt = index % 2 === 0 ? '-rotate-[1deg]' : 'rotate-[1deg]';
     </h2>
     <div class="mt-auto pt-3 border-t-2 border-dashed border-ink/15 flex justify-between text-xs text-ink/50 font-mono">
       <span class="font-semibold text-ink/70">{namet.data.author}</span>
+      {namet.data.views != null && (
+        <span title="počet zobrazení">👁 {namet.data.views.toLocaleString('sk-SK')}</span>
+      )}
       <span>{namet.data.pubDate.toLocaleDateString('sk-SK')}</span>
     </div>
   </div>

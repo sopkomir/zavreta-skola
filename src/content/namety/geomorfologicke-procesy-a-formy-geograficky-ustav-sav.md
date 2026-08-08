@@ -6,6 +6,7 @@ categories: ["Geografia - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/geomorfologia.png"
 youtubeId: "hOaJvVpFPaU"
+views: 1401
 ---
 <span class="style-scope yt-formatted-string" dir="auto">Tému "Geomorfologické procesy a formy" spracovala Šárka Horáčková z Geografického ústavu SAV. Téma je súčasťou osnov pre prvý ročník stredných škôl. </span><a class="yt-simple-endpoint style-scope yt-formatted-string" dir="auto" spellcheck="false" href="https://www.youtube.com/results?search_query=%23vedaporazikoronu">#vedaporazikoronu</a>
 

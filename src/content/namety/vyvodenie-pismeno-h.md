@@ -5,7 +5,8 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/h.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10100832"
+wordwallEmbed: "https://wordwall.net/embed/faf5e0cc8744440b9eb3b9b80b13d8a5"
+views: 1174
 ---
 Nácvik rozpoznávania hlásky (písmena) v slove
 

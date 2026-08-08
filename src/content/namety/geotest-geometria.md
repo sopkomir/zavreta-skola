@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Matematika - 2. stupeň"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/geo.jpg"
+views: 1062
 ---
 GeoTest je učebná pomôcka pre zadávanie a riešenie rovinných geometrických konštrukčných úloh. Jadrom GeoTestu je GeoGebra, program pre tvorbu geometrických konštrukcií.
 

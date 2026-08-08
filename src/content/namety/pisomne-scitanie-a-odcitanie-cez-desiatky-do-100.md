@@ -5,6 +5,7 @@ author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/thumb101311833561276242.jpg"
+views: 2637
 ---
 Pracovný zošit - ktorý je online.  Po správne napísaných výsledkoch klik úplne dolu na modré okienko Finish. Dieťa sa vie skontrolovať. 
 

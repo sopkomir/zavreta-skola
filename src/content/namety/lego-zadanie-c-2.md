@@ -6,6 +6,7 @@ categories: ["Technická výchova"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/tech.jpg"
 youtubeId: "BHdPCSdMSG0"
+views: 833
 ---
 Nová úloha pre mladých legonadšencov. Pokračujeme v sérii jednoduchých úloh na stavbu modelov z lega zameraných na predmet technika za základnej škole.
 

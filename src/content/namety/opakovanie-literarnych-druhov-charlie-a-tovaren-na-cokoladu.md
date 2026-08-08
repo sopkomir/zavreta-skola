@@ -5,6 +5,7 @@ author: "Kristina"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/charlie.jpg"
+views: 1202
 ---
 Pracovný list na opakovanie literárnych druhov. Cvičenie s dialógom som upravila (vzhľadom ku karanténe ho majú nahrať na mobil a vypočujeme si ho spoločne na hodine).
 

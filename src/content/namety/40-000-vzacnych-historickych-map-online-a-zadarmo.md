@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/british_library.jpg"
+views: 924
 ---
 <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
 <div dir="auto">The British Library sprístupnila milovníkom histórie ohromujúci výber archívnych máp, architektonických výkresov a ďalších geografických pokladov.</div>

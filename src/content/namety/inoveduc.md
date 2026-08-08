@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["APPKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/03/main1.png"
+views: 594
 ---
 Inovatívne metódy vzdelávania na podporu partnerstiev
 

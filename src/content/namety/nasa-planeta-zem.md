@@ -5,6 +5,7 @@ author: "Edita"
 categories: ["0. Materská škola"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/3.jpg"
+views: 6534
 ---
 obrázky, omaľovanky  a prezentácia venovaná našej planéte, aktuálne ku Dňu Zeme.
 

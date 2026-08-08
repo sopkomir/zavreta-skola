@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Vlastiveda"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/liptov.jpg"
+views: 745
 ---
 Autor: Mária Mačuhová
 Cyklus opakovania z predmetu Vlastiveda o povrchových celkoch na Slovensku

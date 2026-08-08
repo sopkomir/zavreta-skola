@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/vida1.png"
+views: 737
 ---
 Vždycky vás zajímalo, jak fungují běžné věci, na které denně narážíte? Máme pro vás sérií videí, která odhalí základní fyzikální a chemické jevy do 90 vteřin.
 

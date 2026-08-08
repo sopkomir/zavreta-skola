@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/FB_IMG_1596291375886.jpg"
+views: 983
 ---
 🕖 Zostrojiť si slnečné hodiny nie je až tak komplikované, ako sa môže na prvý pohľad zdať.
 🧒🌳🌱 Prinášame vám ďalší námet na aktivitu, ktorú môžete realizovať so svojimi deťmi.

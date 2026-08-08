@@ -6,6 +6,7 @@ categories: ["Prvouka a prírodoveda"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/prvouka.jpg"
 youtubeId: "PedajVADLGw"
+views: 942
 ---
 Sice po anglicky, ale velmi dobre pochopitelne aj len z videa - vyvoj kuriatka vo vajicku <a href="https://www.youtube.com/watch?v=PedajVADLGw&amp;fbclid=IwAR0gcciyWm1YlX4uoA9EBsq_cGrQ3Kt3Qa9mTO5mhZT0dPS5Jx63NCTe0lw" target="_blank" rel="nofollow noopener noreferrer" data-lynx-mode="asynclazy" data-lynx-uri="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPedajVADLGw%26fbclid%3DIwAR0gcciyWm1YlX4uoA9EBsq_cGrQ3Kt3Qa9mTO5mhZT0dPS5Jx63NCTe0lw&amp;h=AT0Z3aDlcNzuB-KwcYu9UZ_cEWcZlXOxX5DJYAYgr7DD2a82XIv1sfNJgChIqayy_ofZtH4KbIPN8-JLEBnbgU4gYHSDwTycjswxYwOFE_Aiirk-Z7v3LZOf4KrozOGIKw">https://www.youtube.com/watch?v=PedajVADLGw</a>
 a ako dycha vo vajicku

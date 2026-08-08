@@ -5,6 +5,7 @@ author: "Margaréta Knapiková"
 categories: ["Prvouka a prírodoveda"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/Pat_3-370x260-1.jpg"
+views: 938
 ---
 Audio a online príbeh o zvieracích kamarátoch, ktorí zistili, že v krajine chýba voda a snažia sa to vyriešiť.
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["APPKA", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/pismo2.jpg"
+views: 3223
 ---
 Výborná pomôcka 
 - ukážka ku každému písmenku

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/divadlo.jpg"
+views: 810
 ---
 Interaktívne divadelné predstavenia s piesňami a videami pre deti, rodičov, aj pre nás. Zábava, hra a výchova, prostredníctvom rozprávky = ZáBaVKy!
 

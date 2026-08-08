@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["CVIKA", "NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/Snimka4.png"
+views: 941
 ---
 Z dlhodobého hľadiska je dôležité, že na stránke nájdete materiály vhodné k poznávaniu vtáctva, ich vzhľadu, vhodných spôsobov kŕmenia.... spracované formou plagátu, prezentácie, pracovných listov a obrázkov.
 

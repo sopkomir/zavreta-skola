@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/farebne-prsty.png"
+views: 935
 ---
 🎨KLUB FAREBNÝCH PRSTOV 🎨
 Farebné prsty, neposedné deti a hlavne mamičky a oteckovia, ktorým dochádza FANTÁZIA, alebo naopak superkreatívni ľudkovia, ktorí chcú posunúť svoje hranice tvorenia

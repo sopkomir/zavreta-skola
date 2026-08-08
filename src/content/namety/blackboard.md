@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/90082761_10221860892777853_1578869345679835136_o.jpg"
+views: 788
 ---
 Dnes varíme na zahrade zazracny lektvar. Ale da sa aj doma ci v lese.
 V zaklade precvicujete pracu podla zadania "najprv, potom, nakoniec,..."

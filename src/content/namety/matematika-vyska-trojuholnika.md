@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/trojuholnik.jpg"
 youtubeId: "LR_GouPYH0k"
+views: 2799
 ---
 vysvetlenie výpočtov výšok rôznych trojuholníkov 6. ročník
 

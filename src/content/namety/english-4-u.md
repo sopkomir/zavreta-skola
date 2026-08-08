@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/89353351_247652519583051_7799909034739367936_n.jpg"
+views: 793
 ---
 Stránka na učenie angličtiny, špeciálne pre ESL/EFL študentov prvého ročníka štúdia
 

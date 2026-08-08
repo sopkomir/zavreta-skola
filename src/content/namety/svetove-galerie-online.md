@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Umenie a kultúra"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/galerie.jpg"
+views: 1038
 ---
 Veľké a slávne galérie zavesili na internet svoje zbierky obrazov. Pre lepšie vyhľadávanie je dostupná aj mapa :)
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Deti s ADD/ADHD"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/adhd1.png"
+views: 1058
 ---
 autor: 
 Centrum pedagogicko-psychologického poradenstva a prevencie Tvrdošín

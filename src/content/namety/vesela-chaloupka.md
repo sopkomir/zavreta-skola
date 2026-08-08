@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "HRA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vesela.jpg"
+views: 837
 ---
 Pár slov na úvod…
 

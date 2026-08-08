@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/prezidentske_volby.jpg"
+views: 756
 ---
 Takto múdro motivovali ľudia z portálu <a href="https://zmudri.sk/" target="_blank" rel="noopener noreferrer">Zmudri.sk</a> prezidentské voľby.
 

@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO", "HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/play-games.jpg"
+views: 1064
 ---
 Stránka obsahuje množstvo informácií o Európskej únii. Formou počítačových hier sa žiaci oboznamujú s históriou, vznikom, kultúrou krajín tvoriacich najväčšie európske spoločenstvo.
 Súčasťou hier je užívateľský návod s možnosťou nastavenia vekovej kategórie a výberu témy.

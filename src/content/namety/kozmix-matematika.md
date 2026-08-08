@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Matematika - 1. stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť.png"
+views: 832
 ---
 Rôzne matematické úlohy v príjemnom prostredí
 

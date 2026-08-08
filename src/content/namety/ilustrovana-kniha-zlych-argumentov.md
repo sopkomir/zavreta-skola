@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ilustrovana-kniha-zlych-argumentov.jpg"
+views: 926
 ---
 Ak ste niekedy strávili čas na sociálnych sieťach alebo diskusných fórach na internete, či pred televíziou sledujúc poltické debaty, isto ste zachytili argumenty, ktoré pre vás postrádali logiku, boli manipulatívne, klamlivé alebo zavádzajúce. Takéto techniky tiež bývajú obľúbenou súčasťou argumentácie propagandy a manipulátorov. V tomto kontexte sa čoraz častejšie spomínajú takzvané <strong>logické</strong> alebo <strong>argumentačné fauly</strong> alebo <strong>klamlivé argumenty</strong> (z angl.: logical fallacies).
 

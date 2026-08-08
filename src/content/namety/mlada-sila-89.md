@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "yI299CKQEwU"
+views: 710
 ---
 Zuzana Mistríková o študentskom hnutí, mladej sile v roku 1989
 

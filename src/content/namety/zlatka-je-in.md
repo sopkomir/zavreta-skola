@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/zlatka_in.jpg"
+views: 1020
 ---
 zábavné financie, úlohy týkajúce sa nakupovania, hospodárenia, pôžičiek, bankomatov, sporenia, pokladníc...
 

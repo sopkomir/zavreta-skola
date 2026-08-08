@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/CB1.png"
+views: 1513
 ---
 Veľmi ľahko použiteľná webappka na prácu na zdieľanej tabuli vo virtuálnom priestore v cloude, môže slúžiť ako náhrada digitálneho zošita, alebo internetová tabuľa, máte možnosť si tabule ukladať a napríklad pripraviť ... užitočné pre bežný život ale aj covidovú krízu ... zadarmo, vyskúšajte.
 

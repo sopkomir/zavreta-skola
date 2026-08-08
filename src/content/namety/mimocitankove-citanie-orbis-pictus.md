@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/41.jpg"
+views: 1552
 ---
 Výber z online dostupných  titulov Orbis Pictus: 
 

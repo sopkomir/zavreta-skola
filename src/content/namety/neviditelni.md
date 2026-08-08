@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Deti s PAS"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/319564337_904658030669906_4942313186096972277_n.jpg"
+views: 860
 ---
 Projekt, ktorého cieľom je vytvoriť sériu dokumentárnych filmov o autizme. Vznikajú z rozhovorov s desiatkami, potom stovkami rodičov, ktorí majú deti s diagnózou autizmus.
 

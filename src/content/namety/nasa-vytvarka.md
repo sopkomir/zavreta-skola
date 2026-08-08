@@ -5,6 +5,7 @@ author: "Lucia"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/naša-výtvarka.jpg"
+views: 1127
 ---
 Nápady a inšpirácie: 
 - výtvarné tvorenie žiakov na hodinách výtvarnej výchovy rozdelené podľa techniky 

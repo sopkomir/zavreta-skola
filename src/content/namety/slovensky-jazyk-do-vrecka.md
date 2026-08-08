@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/SJ-do-vrecka.jpg"
+views: 1667
 ---
 DOBRÝ DEŇ
 Slovenský jazyk je podľa niektorých žiakov jednoduchý, iným sa zdá komplikovaný. Mnohí z nich si v kníhkupectvách kupujú rôzne tabuľky a prehľady, ktoré sumarizujú učivo v základných bodoch.

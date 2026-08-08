@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zachrana-hradov.jpg"
 youtubeId: "UfQQc9Xa-aY"
+views: 864
 ---
 Pri príležitosti dnešného Svetového dňa kultúrneho dedictva si pripomeňme aj prácu množstva dobrovoľníkov na záchrane našich hradov. 
 

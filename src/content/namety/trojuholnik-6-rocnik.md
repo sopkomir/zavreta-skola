@@ -6,6 +6,7 @@ categories: ["Matematika - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-1.png"
 youtubeId: "IXxiXQxIkiw"
+views: 1336
 ---
 Pedagogička vysvetľuje učivo.
 <div id="content" class="style-scope ytd-expander">

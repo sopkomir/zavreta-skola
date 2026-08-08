@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/valka.png"
+views: 845
 ---
 <span class="notranslate">Predstavujeme vám špeciálne vydanie National Geographic venované dejinám najväčšieho svetového vojnového konfliktu.</span>
 <span class="notranslate">2. svetová vojna je tu zobrazená na prehľadných mapách a venuje sa všetkým vojnovým frontom.</span>

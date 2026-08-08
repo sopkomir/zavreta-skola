@@ -5,6 +5,7 @@ author: "Silvia"
 categories: ["Prvouka a prírodoveda"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
+views: 882
 ---
 Krásna aktivita pre rodinu s dieťaťom od 8 rokov. Pokus vhodný pre prírodovedu na prvom stupni.
 <a href="https://www.dobre-napady.sk/pre-skolakov/pokusy-pre-kazdeho/1119-vyrabame-syr-z-kyslej-smotany" rel="noopener noreferrer" target="_blank">www.dobre-napady.sk/pre-skolakov/pokusy-pre-kazdeho/1119-vyrabame-syr-z-kyslej-smotany  </a>

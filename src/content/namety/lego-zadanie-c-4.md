@@ -6,6 +6,7 @@ categories: ["Technická výchova"]
 types: ["AUDIO/VIDEO", "HRA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/tech.jpg"
 youtubeId: "W6tRQIKpZ0g"
+views: 798
 ---
 Ďalšia úloha pre mladých lego staviteľov. Vyrob pohyblivý, najlepšie chodiaci model.
 

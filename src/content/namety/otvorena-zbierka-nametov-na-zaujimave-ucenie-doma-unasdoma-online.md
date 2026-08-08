@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/badaj1.jpg"
 youtubeId: "ycZwy6LNCNg"
+views: 896
 ---
 Prebádaj svoju domácnosť
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/anj.jpg"
+views: 912
 ---
 Ak chcete nudiaceho sa školáka zdokonaliť v angličtine, potom určite stojí za vyskúšanie YouTube kanál nadšeného učiteľa z Brna Bronislava Sobotku .
 Lektor vo videách preberá rôzne témy, náhodne vyberáme napríklad "Ako sa zaručene strápniť v angličtine" či "Najčastejšie zle vyslovované slová v angličtine".

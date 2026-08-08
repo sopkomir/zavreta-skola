@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Školský klub detí"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/image.jpg"
+views: 2329
 ---
 Mili rodicia a ucitelia,
 

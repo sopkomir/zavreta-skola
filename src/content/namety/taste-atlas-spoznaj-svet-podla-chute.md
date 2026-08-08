@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/11/tasteatlas.jpg"
+views: 971
 ---
 TasteAtlas je encyklopédia chutí, svetový atlas tradičných jedál, lokálnych surovín a autentických reštaurácií.
 

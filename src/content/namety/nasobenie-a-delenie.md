@@ -5,6 +5,7 @@ author: "TOGlic.sk"
 categories: ["Matematika - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/toglic-nasobeni-cviceni.png"
+views: 1700
 ---
 Jednoduché precvičenie násobenia (násobky 5, 6, 7) - úloha obsahuje 5 príkladov (náhodne se generujú pri každom zobrazení).
 Výsledok je automaticky vyhodnotený (správne/nesprávne).

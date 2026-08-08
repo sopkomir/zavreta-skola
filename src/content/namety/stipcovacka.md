@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/DSC_0190-200x200-1.jpg"
+views: 1045
 ---
 <span dir="ltr"><span class="_3l3x">
 Trenovanie i a y formou zabavnej hry stipcovacky. Stipcom oznaci dieta i alebo y podla svojho uvazenia.</span></span>

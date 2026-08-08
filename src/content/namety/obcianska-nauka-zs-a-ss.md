@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/natalia.jpg"
+views: 1064
 ---
 Storytelling  - rozprávanie príbehov a pomocou nich sa spoločne zamyslieť a hľadať riešenia, ako začať spolu hovoriť a zastaviť poukazovanie na rozdiely a predsudky medzi nami. Otvorený prístup k niektorým videám , ktoré sú zamerané na život ťažko skúšaných skupín.
 V prílohe nájdete podrobnú metodiku vo formáte PDF k videu "Natália", obsahujúcu prácu s video príbehom, pokrytie viacerých vzdelávacích oblastí, prierezové témy a scenár vyučovacej hodiny pomocou trojfázového modelu E - U - R.

@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89227315_10157784740006531_7501216766794661888_o.jpg"
+views: 944
 ---
 Ponúkam tipy na výtvarné spracovanie niektorých rozprávok, ktoré tento týždeň (do štvrtka) vysiela skvelé Rádio Junior.
 

@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["Prvouka a prírodoveda"]
 types: ["CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Kvety-meniace-farbu.jpg"
+views: 1374
 ---
 Či už hľadáte jednoduché vedecké experimenty pre predškolákov alebo pre staršie deti, tento zábavný vedecký experiment je úžasný. Deti budú fascinované, ako lupienky kvetov menia farbu a naučia sa, že kvety rovnako aj iné rastliny, zvieratá a ľudia, pijú vodu, pretože ju potrebujú pre svoj život!
 

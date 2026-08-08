@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["1. stupeň", "Iné tipy"]
 types: ["APPKA", "HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/superhrdina-recyklator.png"
+views: 988
 ---
 <h3 class="reveal fadeInUp mb-3" data-wow-delay="0.2s">Staň sa Superhrdinom Recyklátorom
 v apke na tvojom tablete či telefóne</h3>

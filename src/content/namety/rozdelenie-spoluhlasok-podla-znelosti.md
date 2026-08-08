@@ -6,6 +6,7 @@ categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["APPKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/spoluhlasky-parove-znele.jpg"
 wordwallEmbed: "https://wordwall.net/play/10182/662/264"
+views: 1209
 ---
 Jednoduchá hra určená na precvičenie rozdelenia spoluhlások podľa znelosti.
 

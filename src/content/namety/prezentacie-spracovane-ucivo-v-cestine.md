@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/prezentacie.jpg"
+views: 970
 ---
 Učivo 6. - 9. ročníka
 

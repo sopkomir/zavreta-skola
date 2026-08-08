@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/B82F09BC.jpg"
+views: 998
 ---
 <div class=".col-md-8">
 

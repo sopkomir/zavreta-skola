@@ -6,6 +6,7 @@ categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vyvodenie_Z.jpeg"
 youtubeId: "Ee-KiFpEzqY"
+views: 1744
 ---
 autor: Lívia Skýpalova
 

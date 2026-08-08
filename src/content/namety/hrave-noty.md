@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Hudobná výchova - 1. stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/89716209_248765456138424_5784294712521261056_o.jpg"
+views: 1420
 ---
 Množstvo pesničiek aj s notovým záznamom a konkrétnymi aktivitami pre hudobnú výchovu. Materiál je vo formáte .pdf k stiahnutiu z portálu <a href="http://tankonyvkatalogus.hu/">Tankönyvek és segédletek</a>
 

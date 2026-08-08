@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/paper-tulips3.jpg"
+views: 1591
 ---
 Vytvorte si podľa video návodu krásne papierové tuilpány
 

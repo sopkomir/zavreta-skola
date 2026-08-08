@@ -5,6 +5,7 @@ author: "Ucimsadoma"
 categories: ["Ponúkam pomoc"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/ucimsadoma.jpg"
+views: 1224
 ---
 <a href="https://ucimsadoma.sk/" target="_blank" rel="noopener noreferrer">Sme skupina ľudí</a>, ktorá sa venuje dlhodobo vzdelávaniu. V tejto náročnej situácii sme sa rozhodli dať hlavy dokopy a pomôcť, tak ako vieme. Každý pracovný deň pridávame sadu úloh, ktorá kombinuje medzipredmetové znalosti a rozvíja u detí myslenie a kreativitu.
 Ako to robíme:

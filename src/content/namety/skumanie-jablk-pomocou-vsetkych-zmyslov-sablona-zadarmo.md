@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["NÁVOD", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Skúmanie-jabĺk-všetkými-zmyslami.jpg"
+views: 943
 ---
 Keď prvé listy na stromoch začínajú hrať farbami, viem že sa začína blížiť september a s ním sezóna jabĺk plná priestoru na skúmanie, objavovanie, učenie sa a hranie.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Barbara-Józefowicz-Home-party-1024x737-1.jpg"
+views: 983
 ---
 Pozrite si takmer 200 diel z celého sveta na spoločnej online výstave. Ešte stále môžete rozhodnúť o tom, kto získa cenu divákov.
 

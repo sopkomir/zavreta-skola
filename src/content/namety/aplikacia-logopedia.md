@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["APPKA", "HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/logopedka_tablet_2.jpg"
+views: 5622
 ---
 Je určená pre deti, ktoré chodia na logopédiu a učia sa správnu výslovnosť, precvičovanie výslovnosti (Android, iPAD)
 ponúka precvičovanie výslovnosti hlások v slovách a vo vetách.

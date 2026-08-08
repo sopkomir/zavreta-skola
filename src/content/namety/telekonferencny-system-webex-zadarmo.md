@@ -6,6 +6,7 @@ categories: ["Technická podpora pre učiteľov"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/webex-logo.png"
 youtubeId: "qlQ8c0uMz7I"
+views: 1116
 ---
 <strong>Odporúčam profesionálny telekonferenčný systém WebeX od firmy CISCO.</strong>
  

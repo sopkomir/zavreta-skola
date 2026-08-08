@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/Komix-2.jpg"
+views: 874
 ---
 <a href="http://eduma.sk/" target="_blank" rel="noopener">EDUMA</a> vytvorila v spolupráci s <a href="https://digiq.sk/" target="_blank" rel="noopener">DigiQ</a> tento komiks pre deti, kde sa môžu naučiť ako si chrániť súkromie v online svete. Vďaka vedomostiam, ktoré ponúka táto príručka, sa deti môžu rozhodovať bezpečnejšie a istejšie v tom, čo a ako budú zdieľať online.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Ruský jazyk"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/11/russky.jpg"
+views: 833
 ---
 russky.info je viacjazyčná stránka pre učenie ruštiny online
 

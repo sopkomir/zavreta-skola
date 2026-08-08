@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/kolibrik.jpg"
+views: 908
 ---
 Svet je obrovský, a my ľudia sa oproti jeho veľkým problémom cítime byť často maličkí a bezmocní. Máme pocit, že naša snaha o zlepšenie situácie okolo nás je be<span class="text_exposed_show">zvýznamná a nestojí za našu námahu. Vypočujme si, čo o tom hovorí ľudová múdrosť. Čo sa stane, ak to nevzdáme a budeme robiť pre zlepšenie sveta okolo nás všetko, čo môžeme? </span>
 

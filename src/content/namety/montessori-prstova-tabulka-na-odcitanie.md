@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/montessori-tabulka-odcitanie.jpg"
+views: 1609
 ---
 Pomôcka na trénovanie odčítania, ktorú na našu facebookovú skupinu pridala Danka Lacíková.
 

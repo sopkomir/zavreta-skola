@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/vyvoj-rastlin.jpg"
+views: 1149
 ---
 Denník pozorovania vývoja rastlín. Projekt „Monitorovanie rastu rastlín." Pozorovania vývoja rastlín
 

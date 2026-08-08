@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/body.jpg"
-wordwallEmbed: "https://wordwall.net/embed/9868801"
+wordwallEmbed: "https://wordwall.net/embed/ec4a369879fb454dacd92a392e3bcff5"
+views: 804
 ---
 Hra na postupné učenie slov na tému BODY, je to prispôsobené aj materskej škole, 1. ročníku vďaka obrázkom.
 

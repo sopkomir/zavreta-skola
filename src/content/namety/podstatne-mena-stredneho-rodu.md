@@ -5,6 +5,7 @@ author: "Kristina"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89354887_247652442916392_2399361425253335040_n-1.jpg"
+views: 1578
 ---
 Pracovný list vhodný pre šiestakov pre zopakovanie podstatných mien stredného rodu.
 

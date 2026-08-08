@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/90559982_3730504876991387_8799070027249614848_o.jpg"
+views: 719
 ---
 Dokumentárne filmy ako nástroj vzdelávania.<span class="_5mfr"><span class="_6qdm">📽</span></span><span class="_5mfr"><span class="_6qdm">👩‍🎓</span></span><span class="_5mfr"><span class="_6qdm">💪</span></span>
 

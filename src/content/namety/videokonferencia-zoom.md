@@ -6,6 +6,7 @@ categories: ["Technická podpora pre učiteľov"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/zoom-1.jpg"
 youtubeId: "nIvMg63WdmU"
+views: 1303
 ---
 Hľadáte cesty, možnosti, riešenia.... ako sa spojiť so žiakmi a rodičmi?
 Chýba im kontakt so svojou sociálnou školskou skupinou. Jednou z free možností je využitie ZOOM - videokonferencie.

@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Fyzika"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89765664_3357917710890859_4710893655521492992_o.jpg"
+views: 768
 ---
 interaktívne prednášky z fyziky pre deti
 

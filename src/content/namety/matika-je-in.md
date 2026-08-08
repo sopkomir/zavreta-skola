@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/rodo-w-szkole-640x360-1.jpg"
+views: 1059
 ---
 Stránka je aj v slovenčine. "ONLINE PROCVIČOVÁNÍ ÚLOH Z MATEMATIKY PRO DĚTI NA PRVNÍM STUPNI
 ZÁKLADNÍCH ŠKOL, KDE SE VYUČUJE HEJNÉHO METODOU. POMŮŽE I TAM,

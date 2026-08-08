@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/tsv2.jpg"
+views: 898
 ---
 <h2>O<sub>2</sub> Športová akadémia Mateja Tótha</h2>
 

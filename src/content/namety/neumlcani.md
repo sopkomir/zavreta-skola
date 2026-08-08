@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/neumlcani.jpg"
+views: 876
 ---
 Pocta ľuďom, ktorí prežili prenasledovanie a väznenie diktátorských režimov - nacistického a komunistického.
 Tento pôvodný dokumentárny seriál z produkcie TV JOJ vznikol ako pocta ľuďom, ktorí prežili prenasledovanie a väznenie obidvoch diktátorských režimov - nacistického a komunistického.

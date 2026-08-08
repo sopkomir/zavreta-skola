@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň", "Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/06/diktaren.jpg"
+views: 1599
 ---
 Počúvaj diktáty pre základné školy od Vlasty Tokošovej
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/matoha.jpg"
+views: 1376
 ---
 Povesť je veľmi blízka rozprávke.
 Slovenské povesti sú krásne aj tým, že okrem príbehu, zobrazujú často aj nádhernú slovenskú krajinu.

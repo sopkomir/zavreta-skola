@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/etv3.png"
+views: 3995
 ---
 Napriek tomu, že dostupné materiály sú v češtine, sú určite vhodnou pomôckou aj pre pedagógov a žiakov slovenských škôl :-)
 

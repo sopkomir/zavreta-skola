@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/small_village.jpg"
+views: 1263
 ---
 Premena náčrtu na prepracovaný obrázok pomocou umelej inteligencie.
 

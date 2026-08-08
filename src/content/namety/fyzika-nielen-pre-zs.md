@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/fyzika1.jpg"
+views: 944
 ---
 Všetko dôležité z fyziky ...
 

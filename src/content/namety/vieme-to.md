@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/viemeto.jpg"
+views: 975
 ---
 Precvičovanie jednoducho a kvalitne
 Precvičujte pestrú škálu predmetov.

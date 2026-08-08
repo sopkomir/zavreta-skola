@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Snímka-obrazovky-2020-04-12-o-9.43.45.png"
+views: 792
 ---
 <div id="js_1l" class="_5pbx userContent _3576" data-testid="post_message" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
 

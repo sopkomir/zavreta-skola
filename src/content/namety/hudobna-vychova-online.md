@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Hudobná výchova - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/hv.jpg"
+views: 2582
 ---
 Zaujímavá inšpirácia, tentokrát ako pomoc pri vyučovaní hudobnej výchovy.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/supr4-e1554744030632.jpg"
+views: 1086
 ---
 Pozvite deti, aby spoznali skutočné moria! Nech spoznajú významné prístavy, rieky, ktoré sa do morí vlievajú, maximálnu hĺbku, priľahlé štáty a významné ostrovy.
 

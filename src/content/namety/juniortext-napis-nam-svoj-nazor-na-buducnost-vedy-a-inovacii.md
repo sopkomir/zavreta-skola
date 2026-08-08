@@ -5,6 +5,7 @@ author: "richter@amavet.sk"
 categories: ["Slovenský jazyk a literatúra - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/fb.jpg"
+views: 644
 ---
 AMAVET vyhlasuje v rámci 16. ročníka jedinečnej konferenčnej súťaže JUNIOR INTERNET a v spolupráci so Zastúpením Európskej komisie na Slovensku tému pre súťažnú kategóriu JuniorTEXT.
 

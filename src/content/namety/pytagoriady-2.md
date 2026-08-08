@@ -5,6 +5,7 @@ author: "Jozef Zvolensky"
 categories: ["Matematika - 2. stupeň"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/rectangular-153525_960_720.png"
+views: 1442
 ---
 Všetky použiteľné ročníky matematickej súťaze Pytagoriáda spracované formou online testov. Viac ako 3000 príkladov.
 

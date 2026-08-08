@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/IMG_0524-e1562189502217-scaled.jpg"
+views: 838
 ---
 <div class="wpb_text_column wpb_content_element ">
 <div class="wpb_wrapper">

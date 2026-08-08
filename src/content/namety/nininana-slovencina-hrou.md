@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["APPKA", "CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/nininana_slovencia_hrou-820x394-1.jpg"
+views: 1847
 ---
 Jazyková vzdelávacia aplikácia s názvom NiniNana – Slovenčina hrou je primárne určená pre deti vo veku od dvoch do šiestich rokov ako prostriedok na výučbu primárneho alebo aj cudzieho jazyka.
 

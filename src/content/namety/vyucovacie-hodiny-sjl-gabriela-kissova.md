@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/gk.jpg"
+views: 1316
 ---
 Pozrite sa ako učí slovenčinu Gabriela Kiššová, kontakt na ňu je ucitelkask@gmail.com.
 

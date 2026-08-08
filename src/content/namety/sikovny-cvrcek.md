@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/sikovny-cvrcek.jpg"
+views: 1081
 ---
 Čo je Šikovný cvrček?
 (Informácie o projekte)

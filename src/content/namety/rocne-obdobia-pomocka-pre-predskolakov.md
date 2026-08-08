@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Spájanie-ročných-období.jpg"
+views: 3490
 ---
 Podporite u detí vnímanie zmien, ktoré sa dejú počas jednotlivých ročných období aj pomocou kreatívnych aktivít na doma. Tých je vskutku neúrekom od zmyslových fliaš pre najmenšie deti, cez rôzne kreatívne aktivity pre predškolákov.
 

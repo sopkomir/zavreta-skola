@@ -5,6 +5,7 @@ author: "Jozef Zvolensky"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/gambar-penggaris-png-5.png"
+views: 891
 ---
 Zatiaľ viac ako 40 videonávodov na konštrukcie a výpočty z geometrie pre 6.,7.,8. a 9. ročník. Pravidelne aktualizované :)
 

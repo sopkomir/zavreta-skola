@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["AUDIO/VIDEO", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/kresby.png"
+views: 979
 ---
 Jednoduché návody na jednoduché kresby - zvieratká, rastliny, postavičky.....
 

@@ -5,6 +5,7 @@ author: "Katka"
 categories: ["Deti s NKS"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/logopedia-zvierata.png"
+views: 1640
 ---
 Poznávanie hlások a písmen - spoluhlásky Z,V,J,P.
 

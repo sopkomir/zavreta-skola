@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/planeta-c-19.jpg"
+views: 1051
 ---
 Inšpirované dobou a Malým princom
 Autor a prednes: Barbora Špániková

@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "MSZ5tDXZszU"
+views: 788
 ---
 Peter Tatár o dokumente Bratislava Nahlas a o práci VPN počas Nežnej revolúcie
 

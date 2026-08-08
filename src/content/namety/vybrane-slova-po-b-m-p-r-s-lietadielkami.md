@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/lietadielka.jpg"
-wordwallEmbed: "https://wordwall.net/embed/9516957"
+wordwallEmbed: "https://wordwall.net/embed/dd4adb759b5f46d6847e89de919734e7"
+views: 1029
 ---
 Hra s vybranými slovami po B, M, P, R s lietadielkami,
 zahrajte sa s nami,  je to zábava :-)

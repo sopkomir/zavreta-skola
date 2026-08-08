@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["HRA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/sezam.png"
+views: 746
 ---
 História SEZAMu je dosť dlhá. Seminár začal fungovať už v roku 1986 (čo ste vtedy robili? <img class="emoji" role="img" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f609.svg" alt="😉" /> ). Pri jeho úplných začiatkoch stál Ján Perenčaj, vtedy učiteľ na VŠDS, Fero Bobenič, študent tamtiež (a pár jeho spolužiakov), a Hynek Bachratý, čerstvo skončený na MFF UK. Začínali pod názvom SPIKOMAT, S bolo ako stredoslovenský, a PIKOMAT bol názov podobného seminára v Bratislave. Začiatkom 90-tych rokov sa názov zmenil na SEZAM (SEminár ZAujímavej Matematiky).
 

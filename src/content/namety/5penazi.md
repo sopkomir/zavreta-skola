@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["APPKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/aboutimg-700x700-ct.png"
+views: 1081
 ---
 Projekt 5peňazí.sk vytvorili experti Národnej banky Slovenska. Na tvorbe vzdelávacích aktivít a materiálov sa podieľajú aj odborníci z externého prostredia.
 

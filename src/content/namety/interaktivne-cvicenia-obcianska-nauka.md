@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Občianska náuka - SŠ"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/itc-on-ukazka.jpg"
+views: 2693
 ---
 Stránka Interaktívne cvičenia z občianskej náuky obsahuje úlohy, ktorých cieľom je precvičiť a utvrdiť učivo preberané na hodinách občianskej náuky. Interaktívne cvičenia sú utriedené podľa okruhov v ľavom menu. Spracované sú zatiaľ iba niektoré časti. Priebežne pracujeme na vytváraní ďalších cvičení.
 

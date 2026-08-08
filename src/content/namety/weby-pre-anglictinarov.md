@@ -5,6 +5,7 @@ author: "Anna Jancova"
 categories: ["Anglický jazyk - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/anglictinatov.jpg"
+views: 1096
 ---
 Zbierka webových linkov pre učiteľov  angličtiny, ale aj ich žiakov, rozdelená podľa zručností či možností použitia.
 

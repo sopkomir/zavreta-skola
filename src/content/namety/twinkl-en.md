@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/twinkl_logo_cropped_300px.png"
+views: 814
 ---
 studnica pracovnych listov - sice v anglictine, ale pouzitelne na vsetko - grafomotorika, strihanie, logicke ulohy, hocico... Vzhladom na epidemiu korony ponukaju rodicom mesacne clenske zadarmo s heslom PARENTSTWINKLHELPS
 

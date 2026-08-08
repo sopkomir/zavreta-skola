@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ilo_hranol_s_popisom_sk.png"
 youtubeId: "dhJMDzw86HM"
+views: 958
 ---
 Už poznáte hranoly??? Ešte chrumkavé vysvetlenie z mojej dielne <span class="_5mfr" title="Emotikon wink"><span class="_6qdm">;)</span></span> Ponúkam kolegom aj rodičom aj žiakom... čerpám z obsahu viki.iedu.sk a ich materiálu (vôbec sa neštítim priznať ich autorstvo - eventuelne autorstvo planéty vedomostí - planetavedomosti.sk a firmy Edulab) ...
 Pod videom nájdete linku aj priamo k celej lekcii, pozor však, musíte povoliť Flash <span class="_5mfr" title="Emotikon wink"><span class="_6qdm">;)</span></span>

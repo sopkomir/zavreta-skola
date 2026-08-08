@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89765664_3357917710890859_4710893655521492992_o.jpg"
+views: 815
 ---
 Online „stand-up“ přednáška Jak se dostat na Mars?
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Anglický jazyk - SŠ", "Chémia - SŠ", "Fyzika - SŠ", "Iné tipy", "Matematika - SŠ", "Slovenský jazyk a literatúra - SŠ"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/06/165210306_111943007650980_8113290405199653820_n.jpg"
+views: 1131
 ---
 Amos Academy je iniciatíva, ktorá ma za cieľ podporiť a zlepšiť školskú úspešnosť žiakov základných škôl a študentov stredných škôl prostredníctvom online doučovania.
 

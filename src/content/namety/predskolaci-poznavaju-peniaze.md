@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/peniaze_predskolaci.png"
+views: 1069
 ---
 Nadácia pre deti Slovenska vytvorila metodickú príručku Možnosti rozvíjania finančnej gramotnosti u detí predškolského veku. Metodická príručka súvisí s úspešne zrealizovaným a overeným integrovaným edukačným projektom s vybranou cieľovou skupinou detí predškolského veku v podmienkach predprimárnej edukácie, ktorého cieľom bolo oboznámiť deti s tak fascinujúcou témou ako sú peniaze a ich význam pre ľudský život.
 

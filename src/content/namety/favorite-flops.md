@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/08stone-superJumbo.jpg"
+views: 757
 ---
 odporúčam stránku NY TIMES pre prácu s obrázkami. Ja zadávam žiakom jeden z obrázkov a majú odpovedať na tieto otázky, ktoré ich učia kriticky myslieť:
 •What do you see?

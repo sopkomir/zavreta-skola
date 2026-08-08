@@ -5,6 +5,7 @@ author: "Soficreo"
 categories: ["2. stupeň"]
 types: ["APPKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Teemea_Twopager_SK1-scaled.jpg"
+views: 2120
 ---
 Teemea je vzdelávacia platforma, prostredníctvom ktorej učitelia tvoria online kurzy pre svojich žiakov. Teemea umožňuje:
 <ul>

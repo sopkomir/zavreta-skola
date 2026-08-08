@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Vlastiveda"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/flexi_1.jpg"
+views: 777
 ---
 Aby bylo domácí učení ještě příjemnější, rozhodli jsme se ve spolupráci s Nakladatelstvím Fraus zpřístupnit do odvolání zdarma naše interaktivní atlasy. <span class="_5mfr"><span class="_6qdm">👩‍🎓</span></span>
 <span class="_5mfr"><span class="_6qdm">ℹ️</span></span> Veškeré informace najdete na našich stránkách a webu Nakladatelství Fraus:

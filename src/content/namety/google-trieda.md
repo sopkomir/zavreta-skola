@@ -5,6 +5,7 @@ author: "riman22"
 categories: ["Technická podpora pre učiteľov"]
 types: ["APPKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/unnamed.png"
+views: 1365
 ---
 Učebňa pomáha učiteľom šetriť čas, organizovať triedy a zlepšovať komunikáciu so študentmi.
 

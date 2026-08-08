@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/maxresdefault.jpg"
 youtubeId: "Oo4KXZVApsQ"
+views: 956
 ---
 Ďakujem za námet stránke <a href="https://www.facebook.com/copozeratsdetmi/" rel="noopener noreferrer" target="_blank">Čo pozerať s deťmi</a>.
 

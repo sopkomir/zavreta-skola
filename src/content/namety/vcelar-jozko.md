@@ -5,6 +5,7 @@ author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/20200520_145328-1024x768-1.jpg"
+views: 1388
 ---
 Vedeli ste, že včielka vystrieda za svoj život až 6 povolaní? Prečo je včielka najužitočnejší hmyz na planéte?
 Pohodlne sa usaďte a čítajte :)

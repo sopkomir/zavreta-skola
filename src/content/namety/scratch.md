@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["2. stupeň", "Informatika - 2. stupeň ZŠ"]
 types: ["APPKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/Scratch.jpg"
+views: 1293
 ---
 So Scratchom môžeš programovať svoje vlastné interaktívne príbehy, hry a animácie - a zdieľať svoje výtvory s ostatnými v online komunite.
 

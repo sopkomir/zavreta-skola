@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ako2.jpg"
+views: 758
 ---
 Séria 5 minútových videí s českým dabingom zo série How It's Made od Dicovery Channel.
 

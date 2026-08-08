@@ -2,6 +2,33 @@ import { XMLParser } from 'fast-xml-parser';
 import fs from 'fs';
 import path from 'path';
 import slugify from 'slugify';
+import crypto from 'crypto';
+
+function contentHash(str) {
+  return crypto.createHash('sha1').update(str).digest('hex');
+}
+
+// Zapíše súbor len ak: (a) ešte neexistuje, alebo (b) sa od posledného importu nezmenil ručne.
+// Ak bol súbor ručne upravený v CMS (jeho aktuálny hash nesedí s hashom, ktorý sme si naposledy uložili),
+// PRESKOČÍME ho a ponecháme ručnú úpravu nedotknutú.
+function writeIfSafe(filePath, freshBodyContent) {
+  const freshHash = contentHash(freshBodyContent);
+  const withMarker = freshBodyContent + `\n<!-- wp-source-hash: ${freshHash} -->\n`;
+
+  if (fs.existsSync(filePath)) {
+    const existing = fs.readFileSync(filePath, 'utf8');
+    const markerMatch = existing.match(/<!-- wp-source-hash: ([a-f0-9]+) -->/);
+    const existingWithoutMarker = existing.replace(/\n<!-- wp-source-hash: [a-f0-9]+ -->\n?$/, '');
+    const existingActualHash = contentHash(existingWithoutMarker);
+
+    if (!markerMatch || markerMatch[1] !== existingActualHash) {
+      return 'preskočené (ručne upravené)';
+    }
+  }
+
+  fs.writeFileSync(filePath, withMarker, 'utf8');
+  return fs.existsSync(filePath) ? 'ok' : 'ok';
+}
 
 // ---- Nastavenia ----
 const XML_PATH = process.argv[2] || 'exports/wordpress.xml';
@@ -157,10 +184,10 @@ function resolveImage(item, meta, rawContent) {
 
 // ================= NÁMETY (classified) =================
 fs.mkdirSync(NAMETY_DIR, { recursive: true });
-fs.rmSync(NAMETY_DIR, { recursive: true, force: true });
-fs.mkdirSync(NAMETY_DIR, { recursive: true });
 
 let nametyImported = 0;
+let nametySkipped = 0;
+const skippedFiles = [];
 const nametySlugs = new Set();
 const leafCategoryCounts = new Map(); // meno kategórie (leaf, ako je v .md) -> počet
 
@@ -178,6 +205,8 @@ for (const item of items) {
   const image = resolveImage(item, meta, rawContent);
   const youtubeId = extractYouTubeId(rawContent);
   const wordwallEmbed = extractWordwallEmbed(rawContent);
+  const viewsRaw = meta['_pe_base_popular_posts_count'] || meta['_terraclassifieds_popular_posts_count'];
+  const views = viewsRaw ? parseInt(viewsRaw, 10) : null;
 
   for (const c of categories) leafCategoryCounts.set(c, (leafCategoryCounts.get(c) || 0) + 1);
 
@@ -194,10 +223,16 @@ for (const item of items) {
   if (image) lines.push(`image: ${yamlString(image)}`);
   if (youtubeId) lines.push(`youtubeId: ${yamlString(youtubeId)}`);
   if (wordwallEmbed) lines.push(`wordwallEmbed: ${yamlString(wordwallEmbed)}`);
+  if (views !== null && !isNaN(views)) lines.push(`views: ${views}`);
   lines.push('---', '');
 
-  fs.writeFileSync(path.join(NAMETY_DIR, `${slug}.md`), lines.join('\n') + content + '\n', 'utf8');
-  nametyImported++;
+  const result = writeIfSafe(path.join(NAMETY_DIR, `${slug}.md`), lines.join('\n') + content);
+  if (result === 'preskočené (ručne upravené)') {
+    nametySkipped++;
+    skippedFiles.push(slug);
+  } else {
+    nametyImported++;
+  }
 }
 
 // ---- Hierarchický súbor kategórií (pre /kategoria stránky) ----
@@ -227,10 +262,9 @@ fs.writeFileSync(path.join(DATA_DIR, 'categories.json'), JSON.stringify(topLevel
 
 // ================= ČLÁNKY (post) =================
 fs.mkdirSync(CLANKY_DIR, { recursive: true });
-fs.rmSync(CLANKY_DIR, { recursive: true, force: true });
-fs.mkdirSync(CLANKY_DIR, { recursive: true });
 
 let clankyImported = 0;
+let clankySkipped = 0;
 const clankySlugs = new Set();
 
 for (const item of items) {
@@ -259,11 +293,18 @@ for (const item of items) {
   if (youtubeId) lines.push(`youtubeId: ${yamlString(youtubeId)}`);
   lines.push('---', '');
 
-  fs.writeFileSync(path.join(CLANKY_DIR, `${slug}.md`), lines.join('\n') + content + '\n', 'utf8');
-  clankyImported++;
+  const result = writeIfSafe(path.join(CLANKY_DIR, `${slug}.md`), lines.join('\n') + content);
+  if (result === 'preskočené (ručne upravené)') {
+    clankySkipped++;
+  } else {
+    clankyImported++;
+  }
 }
 
 console.log(`\n✅ Hotovo!`);
-console.log(`   Námety: ${nametyImported} do ${NAMETY_DIR}/`);
+console.log(`   Námety: ${nametyImported} aktualizovaných/nových, ${nametySkipped} preskočených (ručne upravené) do ${NAMETY_DIR}/`);
+if (skippedFiles.length > 0) {
+  console.log(`   Ručne upravené (nedotknuté): ${skippedFiles.join(', ')}`);
+}
 console.log(`   Kategórie: ${topLevelTree.length} hlavných, ${topLevelTree.reduce((s, c) => s + c.children.length, 0)} podkategórií -> ${DATA_DIR}/categories.json`);
-console.log(`   Články: ${clankyImported} do ${CLANKY_DIR}/`);
+console.log(`   Články: ${clankyImported} aktualizovaných/nových, ${clankySkipped} preskočených (ručne upravené) do ${CLANKY_DIR}/`);

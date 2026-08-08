@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["APPKA", "CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/12/Zmenseny-nahled-modelu-idealniho-ostrova-scaled.jpg"
+views: 1139
 ---
 Fantastická pomôcka na rozvoj mapových zručností. Okrem množstva online úloh s mapou v aplikáciách ponúka aj komplexnú stolovú hru na stiahnutie zdarma.
 

@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/12/site.jpg"
 youtubeId: "A-GXrz-6jxs"
+views: 1173
 ---
 Viac ako 30 rokov som učiteľom matematiky na ZŠ Skýcov. Počas svojej pedagogickej praxe intenzívne venujem využívaniu IKT vo vyučovacom procese na základnej škole.
 

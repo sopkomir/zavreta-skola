@@ -5,6 +5,7 @@ author: "Silvia"
 categories: ["Technická výchova"]
 types: ["NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vysivka.jpg"
+views: 907
 ---
 Vyšívanie krížikmi 
 Vhodné pre tretiakov a starších. Vyšívame záložky do knihy. 

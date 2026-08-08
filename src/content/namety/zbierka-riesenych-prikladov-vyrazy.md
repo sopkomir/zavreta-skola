@@ -5,6 +5,7 @@ author: "Jozef Zvolensky"
 categories: ["Matematika - 2. stupeň"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
+views: 1656
 ---
 Zbierka je rozdelená do dvoch hlavných celkov – rozklad na súčin a lomené výrazy. Oba celky sú rozdelené na niekoľko kapitol , ktoré obsahujú stručný teoretický prehľad, vysvetlený postup pri riešení vzorových príkladov a vyriešené príklady.
 

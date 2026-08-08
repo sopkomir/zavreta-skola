@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/atlas.jpg"
+views: 3151
 ---
 Interaktívna verzia online atlasu od českého mapového portálu <a href="https://mapy.cz/" target="_blank" rel="noopener noreferrer">Mapy.cz</a>.
 

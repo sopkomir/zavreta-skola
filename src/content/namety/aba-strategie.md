@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Deti s PAS"]
 types: ["AUDIO/VIDEO", "HRA", "NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/28276577_482296748833869_3267000454164748385_n.jpg"
+views: 1022
 ---
 videá, ako je možné rozvíjať motiváciu a hru u týchto detí - niektoré z hier sa dajú využiť pri výučbe
 

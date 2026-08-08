@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/dejinoviny.jpg"
+views: 1298
 ---
 Vzdelávacia aplikácia na prácu s historickými prameňmi a digitalizáciu vzdelávania s mnohými učebnými figúrami.
 

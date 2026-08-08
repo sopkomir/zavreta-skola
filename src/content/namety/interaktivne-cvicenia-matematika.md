@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Matematika - SŠ"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/itc-mat1.jpg"
+views: 2250
 ---
 Kompletné učivo SŠ a niečo aj pre ZŠ v predmete matematika.
 Autori interaktívnych cvičení:

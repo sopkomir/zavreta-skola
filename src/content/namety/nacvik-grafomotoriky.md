@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["AUDIO/VIDEO", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/grafomotorika.png"
+views: 1703
 ---
 Prvá pomoc pri nácviku grafomotoriky
 

@@ -5,6 +5,7 @@ author: "Michal Surina"
 categories: ["Anglický jazyk - SŠ"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/Youtube_FB_kocka.png"
+views: 888
 ---
 Na stručných videách Vám v prehľadnom systéme a na príkladoch vysvetlíme anglickú gramatiku.
 

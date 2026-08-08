@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["CVIKA", "HRA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/p3.jpg"
+views: 1698
 ---
 Prezentácie sú väčšinou zamerané na vyvodenie a následné precvičovanie  učiva. Sú umiestnené online, takže netreba sťahovať a ukladať súbory.
 PL sú aj s vyhodnotením a vyznačenými chybami. Ak ich riešenie chcete dostať, musíte byť zaregistrovaný na stránke <a href="https://www.liveworksheets.com/" rel="noopener noreferrer" target="_blank">www.liveworksheets.com</a> - je to BEZPLATNÉ. 

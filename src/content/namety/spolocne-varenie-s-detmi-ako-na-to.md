@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Spoločné-varenie.jpg"
+views: 967
 ---
 Spoločné varenie je skvelá príležitosť ako u detí budovať pozitívny vzťah k jedlu a priblížiť im zdravé stravovanie. Deti bývajú väčšinou výberové a varenie im môže pomôcť otvoriť sa novým chutiam. Okrem toho môže varenie pomôcť starším deťom precvičovať si matematiku a zlepšovať si jazykové znalosti. Na konci na deti čaká nezabudnuteľný pocit úspechu, ktorý podporuje budovanie sebadôvery.
 

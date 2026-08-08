@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/07/ms-erasmus.png"
+views: 772
 ---
 Program EÚ pre vzdelávanie, odbornú prípravu, mládež a šport Erasmus+ vydal novú publikáciu💪 ➡➡ Materské a základné školy v programe Erasmus+ 👀
 

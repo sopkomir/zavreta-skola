@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zdu1.jpg"
+views: 817
 ---
 Cieľom tejto ativity je popularizácia prírodovedných a technických predmetov, zvýšenie záujmu detí o štúdium matematiky, prírodovedy, prípadne fyziky, chémie a biológie vo vyšších ročníkoch ZŠ.
 

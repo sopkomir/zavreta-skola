@@ -5,6 +5,7 @@ author: "IRVslovensko"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/irv.png"
+views: 1034
 ---
 Dvojjazyčný podklad aj s výslovnosťou
 

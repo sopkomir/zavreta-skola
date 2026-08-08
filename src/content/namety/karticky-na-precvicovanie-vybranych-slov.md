@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/vybrane-slova-karticky-obr.jpg"
+views: 975
 ---
 Naučiť sa správne písať vybrané slová môže byť niekedy veru poriadne ťažký oriešok. Ak hľadáte nejaký rýchly spôsob, ako si ich “natlačiť” do hlavy, tak skúste vyskúšať tieto kartičky.
 

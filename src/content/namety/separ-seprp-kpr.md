@@ -6,6 +6,7 @@ categories: ["Biológia"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/KPR.jpg"
 youtubeId: "dh3QpBszxh0"
+views: 1254
 ---
 song o kardiopulmonálnej resuscitácii KPR od Michala Kubovčíka a jeho perfektného projektu Baštrng.
 

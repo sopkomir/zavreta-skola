@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["1. stupeň"]
 types: ["NÁVOD", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Tabuľka-odmien.jpg"
+views: 958
 ---
 Nedarí sa vám namotivovať malého školáka na učenie alebo  s deťmi bojujete pri jedení, či inej aktivite? Vyskúšajte našu bezplatnú pomôcku - Tabuľku odmien. 
 

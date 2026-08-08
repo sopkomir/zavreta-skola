@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/postavy_alone-uc.jpg"
+views: 2797
 ---
 Diktáty pre 1.stupen
 

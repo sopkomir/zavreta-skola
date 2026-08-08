@@ -6,6 +6,7 @@ categories: ["Geografia"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slnko.jpg"
 youtubeId: "9ZXX9F7A9fA"
+views: 1185
 ---
 <span class="style-scope yt-formatted-string" dir="auto">Téma je súčasťou osnov pre piatakov základných škôl a slovenský preklad i komentár zabezpečili Astronomický ústav SAV, Ústav informatiky SAV a Referát pre komunikáciu a médiá SAV.
 Pozrite si tieto 3 časti spracované príťažlivou formou animácie aj pre mladších žiakov.</span>

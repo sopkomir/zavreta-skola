@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/90884425_3078205468865446_3171366107193802752_o.jpg"
+views: 1322
 ---
 Dobble na vybrané slová (+ cy, fy, ly)
 Hráme podľa klasických pravidiel Dobble hry. Hru tvorí všetkých 6 súborov spolu. Ak je pre vaše deti príliš zložitá, môžete použiť menší počet kartičiek, v tom prípade ale odporúčam kartičky striedať, aby sa postupne každé slovíčko dostalo do hry.

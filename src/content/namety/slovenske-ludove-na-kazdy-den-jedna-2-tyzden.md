@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Biela-ruža-rozkvitala.jpg"
+views: 2468
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom
 

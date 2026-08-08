@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/skoda-hrou.jpg"
+views: 925
 ---
 Interaktívna dopravná výchova v češtine.
 

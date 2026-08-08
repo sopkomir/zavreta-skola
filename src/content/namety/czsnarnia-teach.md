@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/czs_narnia.jpg"
+views: 869
 ---
 Kreatívne videá učiteľov z Cirkevnej základnej školy Narnia v Bratislave.
 

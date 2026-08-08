@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/diplomat.png"
 youtubeId: "2KKE6ardXA8"
+views: 1662
 ---
 Aké sú média na Slovensku? Ako rozoznať seriózne média od konšpiračných?
 

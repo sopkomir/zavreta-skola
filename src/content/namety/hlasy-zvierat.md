@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/hlasy.jpg"
+views: 946
 ---
 Počas prechádzok do prírody počujete mnohé hlasy zvierat. Nerozoznáte ich? Skúste sa to naučiť.
 

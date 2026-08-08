@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Červený-kacheľ-biela-pec.jpg"
+views: 2513
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom
 Môj manžel je bývalý učiteľ na 1.st. (kedysi sme mávali spoločnú triedu, on doobeda učil, ja poobede v družine), je tiež bývalým kaviarenským klaviristom a na dôchodku notografom.

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["0. Materská škola"]
 types: ["CVIKA", "HRA", "NÁVOD", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
+views: 1148
 ---
 Milí priatelia dobrých nápadov,
 Píšem Vám, aby som Vám dala do pozornosti web <a href="http://www.dobre-napady.sk" target="_blank" rel="noopener noreferrer">www.dobre-napady.sk</a>, ktorý už viac ako dvanásť rokov

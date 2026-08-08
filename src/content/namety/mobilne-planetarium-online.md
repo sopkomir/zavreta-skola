@@ -6,6 +6,7 @@ categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/mp1.jpg"
 youtubeId: "ZqJEdcFFB3k"
+views: 962
 ---
 Nový cyklus o kosmonautice s předsedou Astronautické sekce České astronomické společnosti Milanem Halouskem
 

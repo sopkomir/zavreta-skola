@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Prvouka a prírodoveda"]
 types: ["HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/traviaca-sustava.jpg"
-wordwallEmbed: "https://wordwall.net/embed/12302979"
+wordwallEmbed: "https://wordwall.net/embed/aac971583ac5437ba886b9ba757167e0"
+views: 2386
 ---
 Správne spájanie slova so správnym orgánom tela
 

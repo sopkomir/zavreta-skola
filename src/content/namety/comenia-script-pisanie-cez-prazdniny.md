@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/cs1.png"
+views: 3392
 ---
 Autorka písma Comenia Script, Rada Lencová, pripravila pracovné listy “Písanie na prázdniny” aj pre slovenských školákov.
 

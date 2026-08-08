@@ -6,6 +6,7 @@ categories: ["Technická výchova"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/IMG_20191210_122736-scaled.jpg"
 youtubeId: "da_6XKcAXR0"
+views: 1768
 ---
 Jednoduchý obrazový návod, ako vyrobiť domček z kartónu. V závere videa sú domčeky našich žiakov, ktoré sme predávali na vianočnej burze.
 

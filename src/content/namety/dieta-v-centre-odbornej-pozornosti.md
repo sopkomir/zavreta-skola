@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vudp1.jpg"
+views: 937
 ---
 Výskumný ústav detskej psychológie a patopsychológie pomáha pri domácom vzdelávaní.
 Výskumný ústav detskej psychológie a patopsychológie, priamo riadená organizácia ministerstva školstva, je počas prerušenia vyučovania v školách nápomocný nielen učiteľom, školským špeciálnym pedagógom a sociálnym pedagógom, školským psychológom, asistentom učiteľa, ale aj rodičom a žiakom.

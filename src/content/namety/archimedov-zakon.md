@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/archimedov1.jpg"
+views: 1582
 ---
 Na stránke sa dozviete veľa zaujímavých vecí:
 - Históriu a život Archimeda, 

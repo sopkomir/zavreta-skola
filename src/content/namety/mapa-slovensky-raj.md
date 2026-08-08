@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slovensky-raj.jpg"
+views: 935
 ---
 <div class="tutorial ng-pristine ng-valid ng-binding" data-handler="adminHandlers.updateFrontPage" data-invoker="settings.adminModeEnabled" data-ng-model="project.translation.tutorial" data-ng-bind-html="valueHolder" data-compiled="true">
 <div>Národný park Slovenský raj sa nachádza na východnom Slovensku. Je považovaný za jednu z najkrajších prírodných oblastí Slovenska. Nachádza sa tu 11 národných prírodných rezervácií, 8 prírodných rezervácií a 350 jaskýň. NP Slovenský raj ponúka okolo 300 km turistických chodníkov.</div>

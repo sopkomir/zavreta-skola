@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vety.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10220045"
+wordwallEmbed: "https://wordwall.net/embed/eecdf006a02f4f6da7f915a9bde837eb?themeId=41&templateId=5&fontStackId=0"
+views: 1501
 ---
 Vety, v ktorých sú slová so slabikotvorným ŕ, ľ na zopakovanie a vybraných slov na precvičenie pravopisu.
 Využiť sa dá rôznym spôsobom:

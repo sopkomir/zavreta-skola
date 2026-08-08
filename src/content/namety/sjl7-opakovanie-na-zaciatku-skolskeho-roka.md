@@ -5,7 +5,8 @@ author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/opakovanie_sjl07.jpg"
-wordwallEmbed: "https://wordwall.net/embed/35357077"
+wordwallEmbed: "https://wordwall.net/embed/ee45983d13874a7ea51f20f77001938c"
+views: 762
 ---
 Autor: Zuzana Lašticová
 Kvíz s viacerými možnosťami s časovačom, pomôckami a bonusovým kolom

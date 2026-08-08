@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/cokoroboti.jpg"
+views: 1043
 ---
 Umelá inteligencia (AI) je už desaťročia neoddeliteľnou súčasťou našej spoločnosti a jej význam v budúcnosti nepochybne porastie. Ako sa na tento fenomén pozerá generácia, ktorú jej vývoj ovplyvní najviac? Akú podobu umelej inteligencie by si mladí ľudia ideálne predstavovali?
 V komikse sa objavujú pohľady mladých ľudí vo veku od 11 do 19 rokov, od odľahčených tém, ako sú napríklad chocoboti, až po vážne diskusie o deepfake technológiách.

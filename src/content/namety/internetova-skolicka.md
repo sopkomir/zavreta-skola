@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/uceni-online.jpg"
+views: 781
 ---
 Úlohy, testy, námety v českom jazyku.
 

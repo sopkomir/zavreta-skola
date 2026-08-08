@@ -5,6 +5,7 @@ author: "Marta Izsofova"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Fotka-na-easy.jpg"
+views: 1249
 ---
 Neustále dopĺňaný kanál venovaný matematike tvorím už siedmy rok. Vo videách vysvetľujem základné pojmy a postupy, stratégie výpočtov a riešim vzorové príklady. Kanál je odporúčaný aj Ministerstvom školstva na portáli ucimenadialku.sk, rovnako sú tieto videá linkované do interaktívnych online učebníc matematiky vydavateľstva Libera Terra.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Deti so špeciálnymi potrebami"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/07/znaky_ticha.jpg"
+views: 1064
 ---
 Časopis <a href="https://www.facebook.com/stromacik/" rel="noopener noreferrer" target="_blank">Stromáčik</a> je jedinečný mesačník zameraný na environmentálnu výchovu. Vytvoril videokurz pre spoznanie Slovenského posunkového jazyka, ktorý môžeme čoraz častejšie vídať v našich médiách. 👌🤙🖐️
 ❤ každý týždeň vám prinesú nové video s niekoľkými základnými posunkami, ktoré sa môžete naučiť aj vy.

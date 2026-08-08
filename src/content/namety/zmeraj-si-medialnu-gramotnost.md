@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/medialna-gramotnost.jpg"
+views: 1382
 ---
 Webovú aplikáciu MQtester si kladie za cieľ hravou formou vzdelávať v oblasti médií. Môžu ju využívať ako žiaci, tak aj široká verejnosť. Výzva "Zmerajte si mediálna gramotnosť" je určená všetkým.
 

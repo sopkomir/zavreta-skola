@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/rusko-1-1536x1152-1.jpg"
+views: 886
 ---
 Bábkoherci z Bratislavského bábkového divadla sa malým divákom prihovárajú online prostredníctvom nového formátu <a href="http://www.babkovedivadlo.sk/repertoar/rozpravky-spod-ruska/" rel="noopener noreferrer" target="_blank">„Rozprávky spod rúška“</a>.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/channels4_banner.jpg"
+views: 997
 ---
 Príbehy a pesničky k základným slovíčkam z rôznych oblastí, ľahká anglická konverzácia.
 

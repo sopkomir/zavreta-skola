@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Korkové-aktivity.jpg"
+views: 1037
 ---
 Aj u vás sa po dlhých večeroch v karanténe začínajú kopiť korkové zátky 🤭? Tak ako sme mali minule veľa zábavy s toaletnými rolkami, aj s korkami sa dá všeličo vymyslieť. Pečiatky, loďky či obľúbené postavičky (u nás konečne pre zmenu Čarovná lienka)…  Po veľkom úspechu aktivít s rolkami nájdete na stránke nový článok venovaný kreatívnym nápadom na zábavu s korkami. 
 

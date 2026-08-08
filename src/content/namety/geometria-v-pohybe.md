@@ -6,6 +6,7 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/vysky.jpg"
 youtubeId: "rQ63Oh-j6Bg"
+views: 1543
 ---
 Perfektný námet od <a href="https://sopusik.wordpress.com/" target="_blank" rel="noopener noreferrer">Miloša Belíka</a>.
 <p data-adtags-visited="true">Geometria je krásna. Krásna a náročná. Náročná na vysvetlenie, náročná na pochopenie. Ale to preto, že my učitelia to často vysvetľujeme nešťastným spôsobom. Na statických obrázkoch či náčrtoch.</p>

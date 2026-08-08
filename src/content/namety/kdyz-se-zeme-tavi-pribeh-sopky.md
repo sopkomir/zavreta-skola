@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/komiks-3_sopky_komplet_domaci-tisk_stranka_01-scaled.jpg"
+views: 666
 ---
 Autor: Karolina Kučerová a Geofyzikální ústav AV ČR
 

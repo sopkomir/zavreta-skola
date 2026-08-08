@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Občianska náuka"]
 types: ["CVIKA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
+views: 1226
 ---
 Spracovaný výučbový materiál pokrýva obsah občianskej náuky pre 6.ročník v 2. polroku a korešponduje s učebnicou určenou pre tento predmet.
 Odporúča sa pracovať s prezentačným materiálom postupne, t.z. rozdeliť, roztriediť a "odstrihnúť"jednotlivé časti prezentácie podľa potrieb učiteľa a sprístupniť ich žiakom pomocou platformy, ktorá slúži na online komunikáciu učiteľ - žiak.

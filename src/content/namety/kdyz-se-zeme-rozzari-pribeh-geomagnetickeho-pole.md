@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/komiks2_obrazek_stranka_01.jpg"
+views: 612
 ---
 Autor: Karolina Kučerová a Geofyzikální ústav AV ČR
 

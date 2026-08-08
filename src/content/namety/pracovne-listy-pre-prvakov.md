@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["1. stupeň"]
 types: ["CVIKA", "PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo_x114.png"
+views: 1573
 ---
 Sada rôznych pracovných listov pre prvákov z portálu Naše detičky.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Geografia"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/atlas-titulka.jpg"
+views: 887
 ---
 Atlas, ktorý vytvoril Peter Farárik ako tvorca jedinečného portálu <a href="http://www.lepsiageografia.sk/" target="_blank" rel="noopener noreferrer">Lepšia Geografia</a>, obsahuje niekoľko interaktívnych máp venovaných obyvateľstvu a mestám Slovenskej republiky.
 

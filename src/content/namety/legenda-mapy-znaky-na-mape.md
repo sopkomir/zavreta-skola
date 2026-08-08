@@ -5,7 +5,8 @@ author: "spravca"
 categories: ["Vlastiveda"]
 types: ["APPKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/legenda_mapy.jpg"
-wordwallEmbed: "https://wordwall.net/embed/36332172"
+wordwallEmbed: "https://wordwall.net/embed/604cd1f2eae94df59f61fded61ac9aab"
+views: 1371
 ---
 Autor: Mária Mačuhová 
 Vlastiveda – 4. ročník: Legenda mapy - Znaky na mape

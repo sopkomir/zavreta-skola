@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["Fyzika"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/IMG_9534.jpg"
+views: 1197
 ---
 Odhaľte s deťmi rozdiely v sile hustoty a konvekčné prúdenie pomocou jednoduchej rakety z čajových sáčikov.
 

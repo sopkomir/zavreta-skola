@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Matematika - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/03/mabak.png"
+views: 657
 ---
 Volá sa Peter Druska a je stredoškolský učiteľ matematiky. Jeho snahou je popularizovať matematiku skrze rôznorodé videá a posty o známych i neznámych matematických faktoch. Niektoré sú intuitívne, niektoré nečakané.
 

@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vcela.jpg"
+views: 1048
 ---
 - prezentácie
 - texty

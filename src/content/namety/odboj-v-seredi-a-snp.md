@@ -6,6 +6,7 @@ categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "vNAKhd0FOJ4"
+views: 855
 ---
 Príbeh Šmuela Givoniho, ktorý so spolubojovníkmi organizoval odbojové hnutie Kolektiva v seredskom koncentračnom tábore a zapojil sa i do SNP.
 

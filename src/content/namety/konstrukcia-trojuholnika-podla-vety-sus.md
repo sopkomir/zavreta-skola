@@ -6,5 +6,6 @@ categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/gambar-penggaris-png-5.png"
 youtubeId: "v2wk7kYSxsI"
+views: 1310
 ---
 6. ročník - matematická videolekcia Jozefa Zvolenského

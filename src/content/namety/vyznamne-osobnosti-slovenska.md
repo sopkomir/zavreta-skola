@@ -5,7 +5,8 @@ author: "Fialka"
 categories: ["Vlastiveda"]
 types: ["HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/osobnosti.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10007414"
+wordwallEmbed: "https://wordwall.net/embed/06d217f605094cdfbf9b94c42c7cb9d9"
+views: 1685
 ---
 Hra s významnými osobnosťami Slovenska, vytvorené na základe učiva v 3. ročníku, nerozširovala som to, deti mám z rôznych miest.
 

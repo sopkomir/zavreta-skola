@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/testy-ukazka2.jpg"
+views: 9712
 ---
 Testy vytvorené podla otázok z prírodovedného testovania zverejnených na stránkach NÚCEM.
 

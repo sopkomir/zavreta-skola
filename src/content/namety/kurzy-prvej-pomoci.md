@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/pp.jpg"
+views: 936
 ---
 Kurzy prvej pomoci
 Hranica medzi životom a smrťou je tenká ako niť. Každý z nás môže zabrániť jej pretrhnutiu.

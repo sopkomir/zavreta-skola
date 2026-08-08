@@ -5,6 +5,7 @@ author: "Silvia"
 categories: ["0. Materská škola"]
 types: ["WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/prestieranie-dokresli.png"
+views: 1343
 ---
 Pracovné listy na voľné stiahnutie po registrácii zadarmo. 
 Vhodné na precvičovanie jemnej motoriky, počúvania s porozumením a nastavovania latky priestorovej predstaivivosti a logického úsudku.

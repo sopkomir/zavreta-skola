@@ -5,7 +5,8 @@ author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["APPKA", "HRA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/vzory-stredny-rod.jpg"
-wordwallEmbed: "https://wordwall.net/embed/12374568"
+wordwallEmbed: "https://wordwall.net/embed/fc85ea66e8f64c72a6a924be4e161aa2"
+views: 1077
 ---
 autor: Zuzana Lašticová
 

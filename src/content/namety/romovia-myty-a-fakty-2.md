@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89379240_10218932340238599_2566399970479439872_n.jpg"
+views: 873
 ---
 <div class="_xlr">
 <div id="id_5e77d9f7141774d94925929" class="text_exposed_root text_exposed">"Väčšina Rómov žije v chatrčiach, sú špinaví, majú v krvi hudbu a nechce sa im pracovať."

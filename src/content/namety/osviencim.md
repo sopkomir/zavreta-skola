@@ -5,6 +5,7 @@ author: "Milan"
 categories: ["Dejepis - SŠ"]
 types: ["APPKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/dej.jpg"
+views: 1261
 ---
 Virtuálna prehliadka jedného z najznámejších koncentračných táborov v Osvienčime.
 Niektoré zábery sú spracované formou 360 stupňového pohľadu, keď sa sami môžete rozhliadnuť po jednotlivých miestnostiach a časť z nich je spracovaných ako fotografie, ktoré si môžete ľubovoľne približovať. Ku každej je pridaný osobitný text, ktorý približuje nielen funkciu jednotlivých priestorov, ale taktiež vysvetľuje niektoré fakty z týchto dejín.

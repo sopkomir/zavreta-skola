@@ -5,7 +5,8 @@ author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/iy-po-l.jpg"
-wordwallEmbed: "https://wordwall.net/embed/10051019"
+wordwallEmbed: "https://wordwall.net/embed/cef784db937e4a1882bcb53f6beb4282?themeId=43&templateId=5&fontStackId=0"
+views: 1324
 ---
 Precvičenie pravopisu - 
 

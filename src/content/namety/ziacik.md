@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ziacik.jpg"
+views: 1867
 ---
 Program Žiačik je určený pre všetky školopovinné deti, ktorým chce rodič spestriť učenie a precvičovanie vybraných kapitol učiva formou zábavy.
 

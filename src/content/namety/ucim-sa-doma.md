@@ -5,6 +5,7 @@ author: "Lucia Rosáková"
 categories: ["Ponúkam pomoc"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/ucimsadoma.jpg"
+views: 1154
 ---
 Pavol Koprda, Barbora Marečáková, Hana Hozzanková, Mojmír Majdiš, Katarína Marčeková, Ivana Janotíková, Martina Kalašová stoja za iniciatívou Učím sa doma.
 

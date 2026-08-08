@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/viemeposlovensky.jpg"
+views: 7158
 ---
 Každý môže mať perfektnú slovenčinu.
 <h1>Precvičovanie slovenčiny online.</h1>

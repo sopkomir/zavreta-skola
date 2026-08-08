@@ -5,6 +5,7 @@ author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["HRA", "PRINT"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Nákupný-zoznam-pomôcka.jpg"
+views: 985
 ---
 Montessori nákupný zoznam pre deti od 2-6 rokov je inšpirovaný obľúbenou metódou Montessori, ktorá po celom svete podporuje deti v spoznávaní sveta a učení hrou.
 

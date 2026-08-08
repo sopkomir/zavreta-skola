@@ -5,6 +5,7 @@ author: "TOGlic.sk"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/krizovka-AJ2.png"
+views: 1071
 ---
 Aká predložka sa spája s údajom v tajničke? Žiak zapíše odpoveď do riadku a vytvorí s časovým údajom vetu, kedy príde dedo. (My grandpa comes / arrives on Wednesday.)
 --------------------------

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/008-5.jpg"
+views: 797
 ---
 Dnes našich najmenších, ale aj tých starších, poteší rozprávka z Javorovej doliny :)
 Číta: Slávka Sedlačková, FDU, 3. ročník.

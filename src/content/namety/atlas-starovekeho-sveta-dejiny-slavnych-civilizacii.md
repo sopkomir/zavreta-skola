@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["PRINT", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/starovek.png"
+views: 911
 ---
 <span class="notranslate">Chcete sa dozvedieť zaujímavé fakty o staroveku, ale nebaví vás pátrať v objemných učebniciach histórie?</span>
 <span class="notranslate">Chcete mať po ruke niekoľko prehľadných článkov doplnených ilustráciami, fotografiami a mapami, ktoré vám zábavnou formou priblíži niekoľko tisíc rokov existencie našich dávnych predkov?</span>

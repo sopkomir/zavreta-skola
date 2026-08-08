@@ -5,6 +5,7 @@ author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/SetWidth700-2019-10-22-181114.jpg"
+views: 826
 ---
 Poznáte hru preberanie motúzikov? Áno? Tak si ju môžete znova pripomenúť s vašimi deťmi. Nie? Môžete sa ju naučiť :)
 

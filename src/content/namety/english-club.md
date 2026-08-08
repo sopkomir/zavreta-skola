@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "HRA", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ec2.jpg"
+views: 958
 ---
 ENGLISH CLUB
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Dejepis"]
 types: []
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/pravek-velka-morava.jpg"
+views: 921
 ---
 Slovenské národné múzeum poskytuje množstvo vypracovaných metodík využiteľných pri návšteve jeho expozícií. Obsahuje množstvo aktivít ako deťom a mládeži čo najlepšie predstaviť jednotlivé historické obdobia na základe vystavených exponátov.
 

@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/maTykar.jpg"
+views: 3786
 ---
 Zdieľam skvelý youtube edukanál skvelého <a href="https://www.facebook.com/MaTYkarSK/" rel="noopener noreferrer" target="_blank">MaTYkára Tomáša Mikulovského</a> :)
 

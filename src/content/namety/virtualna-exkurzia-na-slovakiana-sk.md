@@ -5,6 +5,7 @@ author: "spravca"
 categories: ["Umenie a kultúra"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/galeria.jpg"
+views: 1122
 ---
 Virtuálna exkurzia na portáli kultúrneho dedičstva <a href="https://www.slovakiana.sk/" target="_blank" rel="noopener noreferrer">Slovakiana</a> je výnimočný priestor, kde sa ktokoľvek môže z pohodlia svojho príbytku poprechádzať po virtuálnom múzeu, galérii, či pamiatkach Slovenska.
 

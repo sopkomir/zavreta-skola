@@ -5,6 +5,7 @@ author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ph2.jpg"
+views: 1258
 ---
 YouTube kanál s videami pre výučbu fyziky (nielen) na základných školách. Videá vytvorené v rámci diplomovej práce a jedná sa o záznamy veľmi rýchlych (voľný pád, deformácie, ...) a veľmi pomalých javov (kryštalizácie, zmena skupenstva, ...). 
 

@@ -5,6 +5,7 @@ author: "Peter Benkovic"
 categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
 image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/iDoctum_banner.jpg"
+views: 1046
 ---
 Interaktívny vzdelávací softvér vyvinutý učiteľmi.
 Ponúka prierez učiva daného predmetu.
