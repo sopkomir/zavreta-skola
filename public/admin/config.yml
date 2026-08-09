@@ -5,6 +5,8 @@ backend:
   name: github
   repo: sopkomir/zavreta-skola
   branch: main
+  base_url: https://zavreta-skola.vercel.app
+  auth_endpoint: api/auth
 
 local_backend: true
 
