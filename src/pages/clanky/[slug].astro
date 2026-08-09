@@ -47,6 +47,19 @@ const autorPocet = allClanky.filter((c) => c.data.author === clanok.data.author)
             <iframe class="w-full h-full" src={`https://www.youtube.com/embed/${clanok.data.youtubeId}`} title="YouTube video" allowfullscreen></iframe>
           </div>
         )}
+        {clanok.data.embedHtml && (
+          <div class="mb-8 [&_iframe]:w-full [&_iframe]:rounded-tile [&_iframe]:border-2 [&_iframe]:border-ink" set:html={clanok.data.embedHtml} />
+        )}
+        {clanok.data.gallery && clanok.data.gallery.length > 0 && (
+          <div class="mb-8">
+            <h2 class="font-display text-base font-bold text-ink mb-3">Fotogaléria</h2>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              {clanok.data.gallery.map((img) => (
+                <img src={img} alt={clanok.data.title} class="w-full h-32 object-cover rounded-tile border-2 border-ink" loading="lazy" />
+              ))}
+            </div>
+          </div>
+        )}
         <div class="namet-content max-w-none">
           <Content />
         </div>

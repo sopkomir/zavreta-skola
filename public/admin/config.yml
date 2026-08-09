@@ -1,8 +1,9 @@
-# Zatiaľ lokálny režim - beží len na vašom počítači, netreba GitHub/GitLab.
-# Spustite popri "npm run dev" v druhom termináli: npx decap-server
-# Keď si založíte GitHub repozitár, zmeňte backend.name na "github" a doplňte repo.
+# V produkcii (na Verceli) sa prihlasuje cez GitHub OAuth (viď /api/auth a /api/callback).
+# Lokálne, keď beží "npx decap-server", sa automaticky prepne na jednoduchý
+# režim bez prihlásenia vďaka nastaveniu local_backend nižšie.
 backend:
-  name: git-gateway
+  name: github
+  repo: sopkomir/zavreta-skola
   branch: main
 
 local_backend: true
@@ -15,6 +16,8 @@ collections:
     label: "Námety"
     label_singular: "Námet"
     folder: "src/content/namety"
+    create: true
+    delete: true
     extension: "md"
     format: "frontmatter"
     identifier_field: "title"
@@ -32,15 +35,32 @@ collections:
         name: "types"
         widget: "list"
         hint: "Napr. HRA, AUDIO/VIDEO, APPKA, WEBKA, CVIKA, NÁVOD, PRINT"
-      - { label: "Obrázok (URL)", name: "image", widget: "string", required: false }
+      - label: "Hlavný obrázok"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Nahrajte súbor, alebo môžete priamo vložiť/prilepiť URL adresu existujúceho obrázka."
+      - label: "Fotogaléria (voliteľné)"
+        name: "gallery"
+        widget: "list"
+        field: { label: "Obrázok", name: "image", widget: "image" }
+        required: false
+        hint: "Ľubovoľný počet ďalších fotiek k tomuto námetu."
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false, hint: "Len samotné ID z odkazu (11 znakov), nie celá URL" }
       - { label: "Wordwall embed URL", name: "wordwallEmbed", widget: "string", required: false }
+      - label: "Iný vložený obsah (embed kód)"
+        name: "embedHtml"
+        widget: "text"
+        required: false
+        hint: "Sem vložte CELÝ <iframe>... kód, ktorý dostanete napr. z Facebooku, Instagramu, Genially, H5P a podobne. Zobrazí sa presne tak, ako je vložený."
       - { label: "Text", name: "body", widget: "markdown" }
 
   - name: "clanky"
     label: "Články"
     label_singular: "Článok"
     folder: "src/content/clanky"
+    create: true
+    delete: true
     extension: "md"
     format: "frontmatter"
     identifier_field: "title"
@@ -50,6 +70,20 @@ collections:
       - { label: "Dátum", name: "pubDate", widget: "date", format: "YYYY-MM-DD" }
       - { label: "Autor", name: "author", widget: "string" }
       - { label: "Rubrika", name: "rubrika", widget: "list" }
-      - { label: "Obrázok (URL)", name: "image", widget: "string", required: false }
+      - label: "Hlavný obrázok"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Nahrajte súbor, alebo môžete priamo vložiť/prilepiť URL adresu existujúceho obrázka."
+      - label: "Fotogaléria (voliteľné)"
+        name: "gallery"
+        widget: "list"
+        field: { label: "Obrázok", name: "image", widget: "image" }
+        required: false
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false }
+      - label: "Iný vložený obsah (embed kód)"
+        name: "embedHtml"
+        widget: "text"
+        required: false
+        hint: "Sem vložte CELÝ <iframe>... kód (Facebook, Instagram, Genially, H5P a pod.)."
       - { label: "Text", name: "body", widget: "markdown" }

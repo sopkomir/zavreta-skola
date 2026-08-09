@@ -82,6 +82,21 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
           </div>
         )}
 
+        {namet.data.embedHtml && (
+          <div class="mb-8 [&_iframe]:w-full [&_iframe]:rounded-tile [&_iframe]:border-2 [&_iframe]:border-ink" set:html={namet.data.embedHtml} />
+        )}
+
+        {namet.data.gallery && namet.data.gallery.length > 0 && (
+          <div class="mb-8">
+            <h2 class="font-display text-base font-bold text-ink mb-3">Fotogaléria</h2>
+            <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              {namet.data.gallery.map((img) => (
+                <img src={img} alt={namet.data.title} class="w-full h-32 object-cover rounded-tile border-2 border-ink" loading="lazy" />
+              ))}
+            </div>
+          </div>
+        )}
+
         <div class="namet-content max-w-none">
           <Content />
         </div>

@@ -10,8 +10,10 @@ const namety = defineCollection({
     categories: z.array(z.string()).default([]),
     types: z.array(z.string()).default([]),
     image: z.string().optional(),
+    gallery: z.array(z.string()).default([]),
     youtubeId: z.string().optional(),
     wordwallEmbed: z.string().optional(),
+    embedHtml: z.string().optional(),
     views: z.number().optional(),
   }),
 });
@@ -24,7 +26,9 @@ const clanky = defineCollection({
     author: z.string().default('Zavretá škola'),
     rubrika: z.array(z.string()).default([]),
     image: z.string().optional(),
+    gallery: z.array(z.string()).default([]),
     youtubeId: z.string().optional(),
+    embedHtml: z.string().optional(),
   }),
 });
 
