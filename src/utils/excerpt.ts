@@ -1,6 +1,7 @@
 // Vytiahne krátky čistý textový popis z markdown obsahu (na SEO/OG popis,
 // keď ho autor v CMS ručne nevyplní).
-export function excerpt(text: string, length = 155): string {
+export function excerpt(text: string | undefined | null, length = 155): string {
+  if (!text) return '';
   const plain = text
     .replace(/<[^>]+>/g, ' ') // HTML tagy
     .replace(/!\[.*?\]\(.*?\)/g, ' ') // obrázky
