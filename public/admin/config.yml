@@ -14,6 +14,23 @@ media_folder: "public/uploaded-images"
 public_folder: "/uploaded-images"
 
 collections:
+  - name: "settings"
+    label: "Nastavenia webu"
+    files:
+      - name: "seo"
+        label: "SEO a zdieľanie na sociálnych sieťach"
+        file: "src/data/site-settings.json"
+        fields:
+          - { label: "Názov webu", name: "siteTitle", widget: "string" }
+          - label: "Predvolený SEO popis"
+            name: "defaultDescription"
+            widget: "text"
+            hint: "Použije sa všade tam, kde konkrétny námet/článok nemá vlastný SEO popis."
+          - label: "Predvolený náhľadový obrázok (pre zdieľanie)"
+            name: "defaultOgImage"
+            widget: "image"
+            hint: "Zobrazí sa pri zdieľaní domovskej stránky a kdekoľvek, kde nie je vlastný obrázok."
+
   - name: "namety"
     label: "Námety"
     label_singular: "Námet"

@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import siteSettings from '../data/site-settings.json';
 
 interface Props {
   title: string;
@@ -9,12 +10,13 @@ interface Props {
 }
 const {
   title,
-  description = 'Kartotéka overených učebných materiálov, hier a videí pre učiteľov a rodičov — Zavretá škola.',
-  image = 'https://www.zavretaskola.sk/wp-content/uploads/2022/10/zavreta-skola-logo-white.png',
+  description = siteSettings.defaultDescription,
+  image = siteSettings.defaultOgImage,
   type = 'website',
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.site).toString();
 ---
 <!doctype html>
 <html lang="sk">
@@ -30,13 +32,13 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <meta property="og:locale" content="sk_SK" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
-  <meta property="og:image" content={image} />
+  <meta property="og:image" content={absoluteImage} />
   <meta property="og:url" content={canonicalURL} />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
-  <meta name="twitter:image" content={image} />
+  <meta name="twitter:image" content={absoluteImage} />
 </head>
 <body class="bg-paper text-ink min-h-screen font-body antialiased">
   <header class="chalk-texture bg-chalkboard text-chalk sticky top-0 z-20 shadow-lg">
