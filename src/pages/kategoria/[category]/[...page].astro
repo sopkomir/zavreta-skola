@@ -33,7 +33,7 @@ export async function getStaticPaths({ paginate }) {
 
 const { page, categoryName } = Astro.props;
 ---
-<Layout title={`${categoryName} — Zavretá škola`}>
+<Layout title={`${categoryName} — Zavretá škola`} description={`Učebné materiály, hry a videá v kategórii ${categoryName} na Zavretej škole.`}>
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <a href="/kategoria/" class="text-sm text-marker hover:underline font-mono">← všetky kategórie</a>
     <h1 class="font-display text-3xl sm:text-4xl font-semibold mt-3">{categoryName}</h1>

@@ -1,8 +1,33 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import categories from '../../data/categories.json';
+import categoryTree from '../../data/categories.json';
+
+// Hierarchia (názvy, sluhy, vzťah rodič/dieťa) ostáva statická z categories.json,
+// ale POČTY počítame vždy nanovo z aktuálneho obsahu, aby zohľadňovali
+// zmazané/pridané námety cez CMS.
+const allNamety = await getCollection('namety');
+const leafCounts = new Map<string, number>();
+for (const n of allNamety) {
+  for (const c of n.data.categories) {
+    leafCounts.set(c, (leafCounts.get(c) || 0) + 1);
+  }
+}
+
+const categories = categoryTree
+  .map((top) => {
+    const children = top.children
+      .map((child) => ({ ...child, count: leafCounts.get(child.name) || 0 }))
+      .filter((c) => c.count > 0)
+      .sort((a, b) => b.count - a.count);
+    const directCount = leafCounts.get(top.name) || 0;
+    const childCount = children.reduce((sum, c) => sum + c.count, 0);
+    return { ...top, count: directCount + childCount, children };
+  })
+  .filter((c) => c.count > 0)
+  .sort((a, b) => b.count - a.count);
 ---
-<Layout title="Kategórie — Zavretá škola">
+<Layout title="Kategórie — Zavretá škola" description="Prehľad všetkých kategórií učebných materiálov na Zavretej škole podľa stupňa a predmetu.">
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <h1 class="font-display text-3xl sm:text-4xl font-semibold">Kategórie</h1>
     <p class="text-chalk/70 font-mono text-sm mt-2">{categories.length} hlavných kategórií podľa stupňa</p>

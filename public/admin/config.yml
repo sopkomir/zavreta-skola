@@ -55,6 +55,11 @@ collections:
         widget: "text"
         required: false
         hint: "Sem vložte CELÝ <iframe>... kód, ktorý dostanete napr. z Facebooku, Instagramu, Genially, H5P a podobne. Zobrazí sa presne tak, ako je vložený."
+      - label: "SEO popis (voliteľné)"
+        name: "metaDescription"
+        widget: "text"
+        required: false
+        hint: "Krátky popis (ideálne do 155 znakov) pre Google a náhľad pri zdieľaní na Facebooku/WhatsAppe. Ak necháte prázdne, vygeneruje sa automaticky zo začiatku textu."
       - { label: "Text", name: "body", widget: "markdown" }
 
   - name: "clanky"
@@ -88,4 +93,9 @@ collections:
         widget: "text"
         required: false
         hint: "Sem vložte CELÝ <iframe>... kód (Facebook, Instagram, Genially, H5P a pod.)."
+      - label: "SEO popis (voliteľné)"
+        name: "metaDescription"
+        widget: "text"
+        required: false
+        hint: "Krátky popis (ideálne do 155 znakov) pre Google a náhľad pri zdieľaní. Ak necháte prázdne, vygeneruje sa automaticky."
       - { label: "Text", name: "body", widget: "markdown" }

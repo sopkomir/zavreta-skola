@@ -14,6 +14,7 @@ const namety = defineCollection({
     youtubeId: z.string().optional(),
     wordwallEmbed: z.string().optional(),
     embedHtml: z.string().optional(),
+    metaDescription: z.string().optional(),
     views: z.number().optional(),
   }),
 });
@@ -29,6 +30,7 @@ const clanky = defineCollection({
     gallery: z.array(z.string()).default([]),
     youtubeId: z.string().optional(),
     embedHtml: z.string().optional(),
+    metaDescription: z.string().optional(),
   }),
 });
 

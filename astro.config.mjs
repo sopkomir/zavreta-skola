@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import rehypeExternalLinks from 'rehype-external-links';
 
 export default defineConfig({
+  site: 'https://zavreta-skola.vercel.app',
   vite: {
     plugins: [tailwindcss()],
   },

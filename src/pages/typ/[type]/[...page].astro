@@ -24,7 +24,7 @@ export async function getStaticPaths({ paginate }) {
 
 const { page, typeName } = Astro.props;
 ---
-<Layout title={`${typeName} — Zavretá škola`}>
+<Layout title={`${typeName} — Zavretá škola`} description={`Učebné materiály typu ${typeName} na Zavretej škole.`}>
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <a href="/typ/" class="text-sm text-marker hover:underline font-mono">← všetky typy</a>
     <h1 class="font-display text-3xl sm:text-4xl font-semibold mt-3">{typeName}</h1>

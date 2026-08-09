@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import { catSlug } from '../../utils/catSlug';
+import { excerpt } from '../../utils/excerpt';
 
 export async function getStaticPaths() {
   const clanky = await getCollection('clanky');
@@ -22,7 +23,12 @@ const dalsieClanky = allClanky
 
 const autorPocet = allClanky.filter((c) => c.data.author === clanok.data.author).length;
 ---
-<Layout title={`${clanok.data.title} — Zavretá škola`}>
+<Layout
+  title={`${clanok.data.title} — Zavretá škola`}
+  description={clanok.data.metaDescription || excerpt(clanok.body)}
+  image={clanok.data.image}
+  type="article"
+>
   <main class="max-w-6xl mx-auto px-4 py-10">
     <a href="/clanky/" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
       ← späť na články

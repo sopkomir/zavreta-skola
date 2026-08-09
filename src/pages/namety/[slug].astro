@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import NametCard from '../../components/NametCard.astro';
 import NametCardCompact from '../../components/NametCardCompact.astro';
 import { catSlug } from '../../utils/catSlug';
+import { excerpt } from '../../utils/excerpt';
 
 export async function getStaticPaths() {
   const namety = await getCollection('namety');
@@ -24,7 +25,12 @@ const podobne = allNamety
 
 const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).length;
 ---
-<Layout title={`${namet.data.title} — Zavretá škola`}>
+<Layout
+  title={`${namet.data.title} — Zavretá škola`}
+  description={namet.data.metaDescription || excerpt(namet.body)}
+  image={namet.data.image}
+  type="article"
+>
   <main class="max-w-6xl mx-auto px-4 py-10">
     <a href="/" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
       ← späť na prehľad

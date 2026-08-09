@@ -11,7 +11,7 @@ export async function getStaticPaths({ paginate }) {
 
 const { page } = Astro.props;
 ---
-<Layout title={`Články — Zavretá škola`}>
+<Layout title={`Články — Zavretá škola`} description="Novinky a články zo sveta vzdelávania na Zavretej škole.">
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <h1 class="font-display text-3xl sm:text-4xl font-semibold">Novinky a články</h1>
     <p class="text-chalk/70 font-mono text-sm mt-2">{page.total} článkov · strana {page.currentPage} / {page.lastPage}</p>
