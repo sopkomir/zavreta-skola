@@ -13,3 +13,7 @@ types:
 youtubeId: twSUPAFuOZI
 ---
 Ako sa dá využiť zápalková krabička pre precvičovanie predchodcu alebo nasledovníka prirodzeného čísla :)
+
+
+
+Pôvodná inšpirácia: \[Estrategias para el Aprendizaje Infantil](https://www.facebook.com/elmundodeaprendizaje12/) (video už nie je dostupné)
