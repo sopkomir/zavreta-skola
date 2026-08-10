@@ -14,8 +14,6 @@ types:
   - CVIKA
   - HRA
 ---
-Materiál pre prácu s predchodcom a nasledovníkom.
+Tento domáci "kolotoč" z kartónu a paličiek od nanukov robí učenie čísel naozaj zábavným — matematika stretáva kreativitu! 🎡✨
 
-Zdroj: <a href="https://www.facebook.com/elmundodeaprendizaje12/" target="_blank" rel="noopener">Estrategias para el Aprendizaje Infantil</a>
-
-&nbsp;
+Zdroj: \[Crafty Little Ones](https://www.instagram.com/crafty.little.ones/) (Instagram)
