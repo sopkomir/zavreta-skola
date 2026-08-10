@@ -3,7 +3,7 @@ title: TAXEDU - Daňami sa buduje moja budúcnosť
 pubDate: 2026-08-11
 author: spravca
 categories:
-  - Občianska náuka - 2. stupeň
+  - Občianska náuka
 types:
   - WEBKA,CVIKA,APPKA
 image: /uploaded-images/TAXEDU_TXD_LP_FB_01-03.png
