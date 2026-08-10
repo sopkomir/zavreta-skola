@@ -16,4 +16,4 @@ types:
 ---
 Tento domáci "kolotoč" z kartónu a paličiek od nanukov robí učenie čísel naozaj zábavným — matematika stretáva kreativitu! 🎡✨
 
-Zdroj: \[Crafty Little Ones](https://www.instagram.com/crafty.little.ones/) (Instagram)
+Zdroj: [Crafty Little Ones](https://www.instagram.com/crafty.little.ones/) (Instagram)
