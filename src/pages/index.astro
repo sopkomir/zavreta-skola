@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import NametListing from '../components/NametListing.astro';
 import NametCard from '../components/NametCard.astro';
 import categories from '../data/categories.json';
 
@@ -132,9 +133,7 @@ const najnovsieClanky = allClanky
 
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
     <h2 class="font-display text-xl font-semibold text-ink mb-4">Všetky námety</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {pageData.map((namet, i) => <NametCard namet={namet} index={i} />)}
-    </div>
+    <NametListing items={pageData} />
     {totalPages > 1 && (
       <nav class="mt-12 flex items-center justify-center gap-3 font-mono text-sm">
         <span class="text-ink/50 px-2">strana 1 / {totalPages}</span>

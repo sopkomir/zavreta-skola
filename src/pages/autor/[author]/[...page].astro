@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import NametListing from '../../../components/NametListing.astro';
 import NametCard from '../../../components/NametCard.astro';
 import Pagination from '../../../components/Pagination.astro';
 import { catSlug } from '../../../utils/catSlug';
@@ -40,9 +41,7 @@ const { page, authorName, clanky } = Astro.props;
     {page.data.length > 0 && (
       <div>
         <h2 class="font-display text-lg font-bold text-ink mb-4">Námety</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {page.data.map((namet, i) => <NametCard namet={namet} index={i} />)}
-        </div>
+        <NametListing items={page.data} />
         <Pagination page={page} />
       </div>
     )}

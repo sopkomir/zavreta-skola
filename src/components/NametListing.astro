@@ -1,0 +1,61 @@
+---
+import NametCard from './NametCard.astro';
+import NametListRow from './NametListRow.astro';
+
+interface Props {
+  items: any[];
+}
+const { items } = Astro.props;
+---
+<div class="flex justify-end mb-4 gap-2">
+  <button
+    id="view-grid-btn"
+    type="button"
+    class="px-3 py-1.5 rounded-chip border-2 border-ink text-xs font-mono font-bold shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop"
+  >▦ Mriežka</button>
+  <button
+    id="view-list-btn"
+    type="button"
+    class="px-3 py-1.5 rounded-chip border-2 border-ink text-xs font-mono font-bold shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop"
+  >☰ Zoznam</button>
+</div>
+
+<div id="view-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  {items.map((namet, i) => <NametCard namet={namet} index={i} />)}
+</div>
+
+<div id="view-list" class="hidden space-y-2">
+  {items.map((namet) => <NametListRow namet={namet} />)}
+</div>
+
+<script>
+  function initViewToggle() {
+    const gridBtn = document.getElementById('view-grid-btn');
+    const listBtn = document.getElementById('view-list-btn');
+    const gridEl = document.getElementById('view-grid');
+    const listEl = document.getElementById('view-list');
+    if (!gridBtn || !listBtn || !gridEl || !listEl) return;
+
+    function setView(view: string) {
+      if (view === 'list') {
+        gridEl!.classList.add('hidden');
+        listEl!.classList.remove('hidden');
+        listBtn!.classList.add('bg-marker');
+        gridBtn!.classList.remove('bg-marker');
+      } else {
+        listEl!.classList.add('hidden');
+        gridEl!.classList.remove('hidden');
+        gridBtn!.classList.add('bg-marker');
+        listBtn!.classList.remove('bg-marker');
+      }
+      localStorage.setItem('zs-view', view);
+    }
+
+    gridBtn.addEventListener('click', () => setView('grid'));
+    listBtn.addEventListener('click', () => setView('list'));
+    setView(localStorage.getItem('zs-view') || 'grid');
+  }
+
+  initViewToggle();
+  document.addEventListener('astro:page-load', initViewToggle);
+</script>

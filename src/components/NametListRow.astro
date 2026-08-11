@@ -1,0 +1,33 @@
+---
+import { excerpt } from '../utils/excerpt';
+
+interface Props {
+  namet: any;
+}
+const { namet } = Astro.props;
+const desc = excerpt(namet.body, 160);
+---
+<a
+  href={`/namety/${namet.id}`}
+  class="group relative flex gap-3 items-center bg-white border-2 border-ink rounded-tile shadow-pop-sm p-3 transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop"
+>
+  <img
+    src={namet.data.image}
+    alt=""
+    class="w-14 h-14 object-cover rounded-md border-2 border-ink flex-shrink-0"
+    loading="lazy"
+  />
+  <div class="min-w-0 flex-1">
+    <span class="font-mono text-[10px] text-gridblue uppercase">
+      {namet.data.categories[0] || 'Ostatné'}
+    </span>
+    <h3 class="font-display font-bold text-sm text-ink leading-snug truncate group-hover:text-zosit transition-colors">
+      {namet.data.title}
+    </h3>
+    {desc && (
+      <p class="text-xs text-ink/60 line-clamp-1 group-hover:line-clamp-none group-hover:absolute group-hover:left-3 group-hover:right-3 group-hover:top-full group-hover:mt-1 group-hover:bg-white group-hover:border-2 group-hover:border-ink group-hover:rounded-md group-hover:p-2 group-hover:shadow-pop group-hover:z-20">
+        {desc}
+      </p>
+    )}
+  </div>
+</a>

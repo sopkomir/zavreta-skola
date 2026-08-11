@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import NametListing from '../../../components/NametListing.astro';
 import NametCard from '../../../components/NametCard.astro';
 import Pagination from '../../../components/Pagination.astro';
 import categories from '../../../data/categories.json';
@@ -40,9 +41,7 @@ const { page, categoryName } = Astro.props;
     <p class="text-chalk/70 font-mono text-sm mt-2">{page.total} námetov · strana {page.currentPage} / {page.lastPage}</p>
   </section>
   <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {page.data.map((namet, i) => <NametCard namet={namet} index={i} />)}
-    </div>
+    <NametListing items={page.data} />
     <Pagination page={page} />
   </main>
 </Layout>

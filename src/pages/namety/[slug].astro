@@ -33,9 +33,17 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
   type="article"
 >
   <main class="max-w-6xl mx-auto px-4 py-10">
-    <a href="/" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+    <a href="/" id="back-link" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
       ← späť na prehľad
     </a>
+    <script>
+      document.getElementById('back-link')?.addEventListener('click', (e) => {
+        if (document.referrer && document.referrer.includes(window.location.host) && window.history.length > 1) {
+          e.preventDefault();
+          window.history.back();
+        }
+      });
+    </script>
 
     <div class="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8 items-start">
       <article class="bg-white rounded-card border-2 border-ink shadow-pop p-6 sm:p-10 min-w-0">
@@ -52,15 +60,34 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
           {namet.data.title}
         </h1>
 
-        <div class="text-sm text-ink/50 mb-6 font-mono flex items-center gap-3">
+        <div class="text-sm text-ink/50 mb-6 font-mono flex items-center gap-3 flex-wrap">
           <span>{namet.data.pubDate.toLocaleDateString('sk-SK')}</span>
           {namet.data.views != null && (
             <>
               <span>•</span>
-              <span title="počet zobrazení">👁 {namet.data.views.toLocaleString('sk-SK')} zobrazení</span>
+              <span title="zobrazenia zo starého webu">👁 {namet.data.views.toLocaleString('sk-SK')} archívnych</span>
             </>
           )}
+          <span>•</span>
+          <span id="live-views">načítavam zobrazenia...</span>
         </div>
+
+        <script define:vars={{ slug: namet.id }}>
+          fetch(`/api/views?slug=${slug}`)
+            .then((r) => r.json())
+            .then((data) => {
+              const el = document.getElementById('live-views');
+              if (el && data.views != null) {
+                el.textContent = `👁 ${data.views.toLocaleString('sk-SK')} od spustenia nového webu`;
+              } else if (el) {
+                el.textContent = '';
+              }
+            })
+            .catch(() => {
+              const el = document.getElementById('live-views');
+              if (el) el.textContent = '';
+            });
+        </script>
 
         {namet.data.image && (
           <img src={namet.data.image} alt={namet.data.title} class="w-full max-h-96 object-cover rounded-tile border-2 border-ink shadow-pop-sm mb-8" />

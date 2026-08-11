@@ -31,9 +31,17 @@ const autorPocet = allClanky.filter((c) => c.data.author === clanok.data.author)
   type="article"
 >
   <main class="max-w-6xl mx-auto px-4 py-10">
-    <a href="/clanky/" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
+    <a href="/clanky/" id="back-link" class="inline-flex items-center gap-1.5 px-3 py-1.5 mb-6 rounded-chip border-2 border-ink bg-white text-sm font-mono font-bold text-ink shadow-pop-sm transition-[transform,box-shadow] hover:-translate-x-0.5 hover:-translate-y-0.5 hover:shadow-pop">
       ← späť na články
     </a>
+    <script>
+      document.getElementById('back-link')?.addEventListener('click', (e) => {
+        if (document.referrer && document.referrer.includes(window.location.host) && window.history.length > 1) {
+          e.preventDefault();
+          window.history.back();
+        }
+      });
+    </script>
 
     <div class="grid grid-cols-1 lg:grid-cols-[1fr_300px] gap-8 items-start">
       <article class="bg-white rounded-card border-2 border-ink shadow-pop p-6 sm:p-10 min-w-0">
