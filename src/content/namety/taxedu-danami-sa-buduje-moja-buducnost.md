@@ -5,7 +5,9 @@ author: spravca
 categories:
   - Občianska náuka
 types:
-  - WEBKA,CVIKA,APPKA
+  - WEBKA
+  - CVIKA
+  - APPKA
 image: /uploaded-images/TAXEDU_TXD_LP_FB_01-03.png
 gallery: []
 youtubeId: ''
