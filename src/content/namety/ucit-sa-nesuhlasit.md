@@ -5,7 +5,6 @@ author: správca
 categories:
   - Dejepis
   - Občianska náuka
-  - Etická výchova
 types:
   - NÁVOD
   - PRINT
