@@ -42,18 +42,80 @@ collections:
     identifier_field: "title"
     summary: "{{title}} — {{categories}}"
     sortable_fields: ["title", "pubDate", "author"]
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "-"
     fields:
       - { label: "Názov", name: "title", widget: "string" }
       - { label: "Dátum", name: "pubDate", widget: "datetime", type: "date" }
       - { label: "Autor", name: "author", widget: "string" }
       - label: "Kategórie"
         name: "categories"
-        widget: "list"
-        hint: "Presné názvy nájdete v src/data/categories.json (napr. \"Matematika - 1. stupeň\")"
+        widget: "select"
+        multiple: true
+        options:
+          - "0. Materská škola"
+          - "1. stupeň"
+          - "Slovenský jazyk - 1. stupeň"
+          - "Matematika - 1. stupeň"
+          - "Prvouka a prírodoveda"
+          - "Anglický jazyk - 1- stupeň"
+          - "Vlastiveda"
+          - "Výtvarná výchova a pracovné vyučovanie 1. stupeň"
+          - "Informatika - 1. stupeň"
+          - "Hudobná výchova - 1. stupeň"
+          - "Školský klub detí"
+          - "Telesná výchova - 1. stupeň"
+          - "Nemecký jazyk - 1. stupeň"
+          - "2. stupeň"
+          - "Matematika - 2. stupeň"
+          - "Geografia"
+          - "Fyzika"
+          - "Anglický jazyk - 2- stupeň"
+          - "Slovenský jazyk a literatúra - 2. stupeň"
+          - "Dejepis"
+          - "Informatika - 2. stupeň ZŠ"
+          - "Biológia"
+          - "Výtvarná výchova - 2. stupeň"
+          - "Chémia"
+          - "Občianska náuka"
+          - "Technická výchova"
+          - "Nemecký jazyk 2. stupeň"
+          - "Hudobná výchova - 2. stupeň"
+          - "Ruský jazyk"
+          - "3. Stredná škola"
+          - "Dejepis - SŠ"
+          - "Matematika - SŠ"
+          - "Občianska náuka - SŠ"
+          - "Umenie a kultúra"
+          - "Geografia - SŠ"
+          - "Slovenský jazyk a literatúra - SŠ"
+          - "Anglický jazyk - SŠ"
+          - "Fyzika - SŠ"
+          - "Informatika - SŠ"
+          - "Biológia - SŠ"
+          - "Chémia - SŠ"
+          - "Ekonomika"
+          - "Deti so špeciálnymi potrebami"
+          - "Deti s PAS"
+          - "Deti s ADD/ADHD"
+          - "Deti s NKS"
+          - "Iné tipy"
+          - "Ponúkam pomoc"
+          - "Technická podpora pre učiteľov"
       - label: "Typy"
         name: "types"
-        widget: "list"
-        hint: "Napr. HRA, AUDIO/VIDEO, APPKA, WEBKA, CVIKA, NÁVOD, PRINT"
+        widget: "select"
+        multiple: true
+        options:
+          - "APPKA"
+          - "AUDIO/VIDEO"
+          - "CVIKA"
+          - "HRA"
+          - "NÁVOD"
+          - "PRINT"
+          - "WEBKA"
       - label: "Hlavný obrázok"
         name: "image"
         widget: "image"
@@ -61,10 +123,10 @@ collections:
         hint: "Nahrajte súbor, alebo môžete priamo vložiť/prilepiť URL adresu existujúceho obrázka."
       - label: "Fotogaléria (voliteľné)"
         name: "gallery"
-        widget: "list"
-        field: { label: "Obrázok", name: "image", widget: "image" }
+        widget: "image"
+        multiple: true
         required: false
-        hint: "Ľubovoľný počet ďalších fotiek k tomuto námetu."
+        hint: "Môžete vybrať/pretiahnuť viac súborov naraz."
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false, hint: "Len samotné ID z odkazu (11 znakov), nie celá URL" }
       - { label: "Wordwall embed URL", name: "wordwallEmbed", widget: "string", required: false }
       - label: "Iný vložený obsah (embed kód)"
@@ -89,6 +151,10 @@ collections:
     format: "frontmatter"
     identifier_field: "title"
     sortable_fields: ["title", "pubDate", "author"]
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "-"
     fields:
       - { label: "Názov", name: "title", widget: "string" }
       - { label: "Dátum", name: "pubDate", widget: "datetime", type: "date" }
@@ -101,9 +167,10 @@ collections:
         hint: "Nahrajte súbor, alebo môžete priamo vložiť/prilepiť URL adresu existujúceho obrázka."
       - label: "Fotogaléria (voliteľné)"
         name: "gallery"
-        widget: "list"
-        field: { label: "Obrázok", name: "image", widget: "image" }
+        widget: "image"
+        multiple: true
         required: false
+        hint: "Môžete vybrať/pretiahnuť viac súborov naraz."
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false }
       - label: "Iný vložený obsah (embed kód)"
         name: "embedHtml"
