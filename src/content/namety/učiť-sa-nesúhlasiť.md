@@ -17,4 +17,4 @@ metaDescription: 12 vyučovacích stratégií na rozvoj dialógu a argumentácie
 
 Metodická príručka pre učiteľov dejepisu, občianskej náuky a etickej výchovy — 12 konkrétnych vyučovacích stratégií (napr. Akvárium, Boxerský zápas, Tiché prestieranie), ako v triede rozvíjať dialóg, diskusiu a argumentáciu bez zbytočných konfliktov. Súčasťou sú aj hotové hodnotiace schémy.
 
-Zdroj: [Učíme – metodický portál](https://ucime.vzdelavanie21.sk/ucit-sa-nesuhlasit-sprievodca-pre-ucitelov/)
+Zdroj: [Odkaz na stiahnutie príručky (PDF • 1,6 MB)](https://www.euroclio.eu/wp-content/uploads/2021/06/Ucit-sa-nesuhlasit_Sprievodca-pre-ucitelov_Web-Version.pdf)
