@@ -1,6 +1,6 @@
 ---
 title: Učiť sa nesúhlasiť
-pubDate: 2026-08-11
+pubDate: 2026-08-11T10:00:00.000+02:00
 author: správca
 categories:
   - Dejepis
