@@ -1,0 +1,81 @@
+---
+interface Props {
+  images: string[];
+  alt: string;
+}
+const { images, alt } = Astro.props;
+---
+{images.length > 0 && (
+  <div class="mb-8">
+    <h2 class="font-display text-base font-bold text-ink mb-3">Fotogaléria</h2>
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+      {images.map((img) => (
+        <button
+          type="button"
+          class="lightbox-trigger block w-full"
+          data-lightbox-src={img}
+          aria-label="Zväčšiť fotku"
+        >
+          <img
+            src={img}
+            alt={alt}
+            class="w-full h-32 object-cover rounded-tile border-2 border-ink hover:opacity-85 transition-opacity cursor-zoom-in"
+            loading="lazy"
+          />
+        </button>
+      ))}
+    </div>
+  </div>
+)}
+
+<div
+  id="lightbox-overlay"
+  class="fixed inset-0 z-50 hidden items-center justify-center bg-black/90 p-4 sm:p-8"
+>
+  <button
+    id="lightbox-close"
+    class="absolute top-4 right-4 sm:top-6 sm:right-6 text-white text-4xl leading-none hover:text-marker transition-colors"
+    aria-label="Zavrieť"
+  >&times;</button>
+  <img id="lightbox-image" src="" alt="" class="max-w-full max-h-full rounded-md object-contain" />
+</div>
+
+<script>
+  function initLightbox() {
+    const overlay = document.getElementById('lightbox-overlay');
+    const img = document.getElementById('lightbox-image') as HTMLImageElement | null;
+    const closeBtn = document.getElementById('lightbox-close');
+    if (!overlay || !img || !closeBtn) return;
+
+    function open(src: string) {
+      img!.src = src;
+      overlay!.classList.remove('hidden');
+      overlay!.classList.add('flex');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function close() {
+      overlay!.classList.add('hidden');
+      overlay!.classList.remove('flex');
+      document.body.style.overflow = '';
+    }
+
+    document.querySelectorAll('.lightbox-trigger').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const src = (btn as HTMLElement).dataset.lightboxSrc;
+        if (src) open(src);
+      });
+    });
+
+    closeBtn.addEventListener('click', close);
+    overlay.addEventListener('click', (e) => {
+      if (e.target === overlay) close();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') close();
+    });
+  }
+
+  initLightbox();
+  document.addEventListener('astro:page-load', initLightbox);
+</script>
