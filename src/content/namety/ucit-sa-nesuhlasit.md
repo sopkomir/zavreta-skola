@@ -3,9 +3,12 @@ title: Učiť sa nesúhlasiť
 pubDate: 2026-08-11
 author: správca
 categories:
-  - Dejepis, Občianska náuka, Etická výchova
+  - Dejepis
+  - Občianska náuka
+  - Etická výchova
 types:
-  - NÁVOD, PRINT
+  - NÁVOD
+  - PRINT
 image: /uploaded-images/ucit-sa-nesuhlasit.webp
 gallery:
   - /uploaded-images/usn01.webp
