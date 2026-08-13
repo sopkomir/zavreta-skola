@@ -62,29 +62,24 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
 
         <div class="text-sm text-ink/50 mb-6 font-mono flex items-center gap-3 flex-wrap">
           <span>{namet.data.pubDate.toLocaleDateString('sk-SK')}</span>
-          {namet.data.views != null && (
-            <>
-              <span>•</span>
-              <span title="zobrazenia zo starého webu">👁 {namet.data.views.toLocaleString('sk-SK')} archívnych</span>
-            </>
-          )}
           <span>•</span>
-          <span id="live-views">načítavam zobrazenia...</span>
+          <span id="total-views" title={namet.data.views != null ? `${namet.data.views.toLocaleString('sk-SK')} archívnych zo starého webu` : ''}>načítavam zobrazenia...</span>
         </div>
 
-        <script define:vars={{ slug: namet.id }}>
+        <script define:vars={{ slug: namet.id, staticViews: namet.data.views ?? 0 }}>
           fetch(`/api/views?slug=${slug}`)
             .then((r) => r.json())
             .then((data) => {
-              const el = document.getElementById('live-views');
+              const el = document.getElementById('total-views');
               if (el && data.views != null) {
-                el.textContent = `👁 ${data.views.toLocaleString('sk-SK')} od spustenia nového webu`;
+                const total = staticViews + data.views;
+                el.textContent = `👁 ${total.toLocaleString('sk-SK')} zobrazení`;
               } else if (el) {
                 el.textContent = '';
               }
             })
             .catch(() => {
-              const el = document.getElementById('live-views');
+              const el = document.getElementById('total-views');
               if (el) el.textContent = '';
             });
         </script>

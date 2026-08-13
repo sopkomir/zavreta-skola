@@ -74,10 +74,10 @@ const { items } = Astro.props;
         if (!data.views) return;
         placeholders.forEach((el) => {
           const slug = el.getAttribute('data-view-slug');
-          const count = data.views[slug];
-          if (count != null) {
-            el.textContent = `👁 ${count.toLocaleString('sk-SK')}`;
-          }
+          const staticViews = parseInt(el.getAttribute('data-static-views') || '0', 10);
+          const liveViews = data.views[slug] || 0;
+          const total = staticViews + liveViews;
+          el.textContent = `👁 ${total.toLocaleString('sk-SK')}`;
         });
       })
       .catch(() => {});
