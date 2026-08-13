@@ -1,7 +1,7 @@
 ---
 title: TATRA SCOOL - rozvoj finančnej gramotnosti
 pubDate: 2026-08-13T22:37:00.000+02:00
-author: správca
+author: spravca
 categories:
   - Občianska náuka
 types:
