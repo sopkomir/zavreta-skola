@@ -58,4 +58,31 @@ const { items } = Astro.props;
 
   initViewToggle();
   document.addEventListener('astro:page-load', initViewToggle);
+
+  function loadLiveViewCounts() {
+    const placeholders = document.querySelectorAll('.live-views-placeholder[data-view-slug]');
+    if (placeholders.length === 0) return;
+    const slugs = [...new Set([...placeholders].map((el) => el.getAttribute('data-view-slug')))];
+
+    fetch('/api/views-bulk', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ slugs }),
+    })
+      .then((r) => r.json())
+      .then((data) => {
+        if (!data.views) return;
+        placeholders.forEach((el) => {
+          const slug = el.getAttribute('data-view-slug');
+          const count = data.views[slug];
+          if (count != null) {
+            el.textContent = `👁 ${count.toLocaleString('sk-SK')}`;
+          }
+        });
+      })
+      .catch(() => {});
+  }
+
+  loadLiveViewCounts();
+  document.addEventListener('astro:page-load', loadLiveViewCounts);
 </script>
