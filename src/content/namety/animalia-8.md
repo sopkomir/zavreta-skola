@@ -3,7 +3,7 @@ title: Animália 8+
 pubDate: 2026-08-15T00:17:00.000+02:00
 author: spravca
 categories:
-  - Informatika -1.stupeň
+  - Informatika - 1.stupeň
 types:
   - VIDEO
 image: /uploaded-images/animalia.jpg
