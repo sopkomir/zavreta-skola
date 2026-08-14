@@ -7,6 +7,9 @@ categories:
 types:
   - PRINT
 image: /uploaded-images/cvo_postojove_zmeny_obalka_page-0001-1087x1536.jpg
+gallery:
+  - /uploaded-images/cvo_postojove_zmeny_obalka_page-0001-1087x1536.jpg
+  - /uploaded-images/cvo_postojove_zmeny_obsah_1-1024x1020.jpg
 ---
 V tejto príručke je vám predstavených **sedem praktických nástrojov na meranie postojov a ich zmien v triede.** Tie vám umožnia nielen analyzovať aktuálne žiacke postoje a cielene s nimi pracovať, ale aj odmerať efektivitu vášho pedagogického úsilia s odstupom času. Príručka sa venuje najmä témam ako medzinárodná spolupráca, klimatická zmena, migrácia, sociálna spravodlivosť a rodová rovnosť.
 
