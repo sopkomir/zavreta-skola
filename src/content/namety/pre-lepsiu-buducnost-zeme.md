@@ -16,7 +16,7 @@ types:
   - AUDIO/VIDEO
   - HRA
   - WEBKA
-image: https://www.zavretaskola.sk/wp-content/uploads/2022/09/kurz1.png
+image: https://media.zavretaskola.sk/wp-content/uploads/2022/09/kurz1.png
 gallery:
   - /uploaded-images/kurz-klima.jpg
   - /uploaded-images/kurz-hry.jpg
