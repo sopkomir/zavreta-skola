@@ -1,13 +1,6 @@
 ---
 pubDate: 2022-09-01
-<<<<<<< HEAD
-author: "spravca"
-categories: ["Geografia"]
-types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/kurz1.png"
-=======
 author: spravca
->>>>>>> 2100ba291b5f162ff23aca96476d1486401396b0
 views: 635
 title: Pre lepšiu budúcnosť Zeme 1
 categories:
