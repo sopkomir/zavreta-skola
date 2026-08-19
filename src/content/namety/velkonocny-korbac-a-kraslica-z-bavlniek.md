@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "spravca"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/korbac.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/korbac.jpg"
 youtubeId: "qaokW0TIolQ"
 views: 1260
 ---

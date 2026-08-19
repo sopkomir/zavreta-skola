@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/hra-s-krtkom.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/hra-s-krtkom.jpg"
 wordwallEmbed: "https://wordwall.net/embed/20d7787e40ff400f839f279d11f47240"
 views: 2311
 ---

@@ -4,7 +4,7 @@ pubDate: 2020-04-21
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vyr_26200237.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vyr_26200237.jpg"
 views: 1178
 ---
 Mária Ďuríčková vnímala detskú dušu nesmierne citlivo. Necháva otvorenú hranicu medzi reálnym a fantastickým, ktoré sa navzájom prelínajú.

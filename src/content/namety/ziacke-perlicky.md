@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Prvouka a prírodoveda"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/91081552_3453293518019795_636199263444926464_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/91081552_3453293518019795_636199263444926464_n.jpg"
 views: 744
 ---
 Niečo na pobavenie alebo žiacke perličky alebo ako nezabúdať na zmysel na humor ani pri odpovediach:)

@@ -4,7 +4,7 @@ pubDate: 2020-04-29
 author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slovensky-raj.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/slovensky-raj.jpg"
 views: 935
 ---
 <div class="tutorial ng-pristine ng-valid ng-binding" data-handler="adminHandlers.updateFrontPage" data-invoker="settings.adminModeEnabled" data-ng-model="project.translation.tutorial" data-ng-bind-html="valueHolder" data-compiled="true">

@@ -4,7 +4,7 @@ pubDate: 2022-07-19
 author: "edu.sng"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/07/Bez-nazvu-2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/07/Bez-nazvu-2.jpg"
 views: 562
 ---
 Rôzne videonámety na výtvarné aktivity z produkcie edu.SNG

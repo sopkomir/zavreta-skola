@@ -4,7 +4,7 @@ pubDate: 2020-11-11
 author: "spravca"
 categories: ["Biológia - SŠ"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/bunky_elektrina.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/bunky_elektrina.jpg"
 youtubeId: "Wh49NCCS5O4"
 views: 980
 ---

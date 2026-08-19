@@ -3,7 +3,7 @@ title: "Vieme od koho jeme"
 pubDate: 2020-06-03
 author: "spravca"
 rubrika: ["Inšpirácia", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych-potravíin-Mrvova.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych-potravíin-Mrvova.jpg"
 ---
 <p>Mladí reportéri pre životné prostredie zo ZŠ Jána Palárika Majcichov sa zamerali počas vyučovania geografie na nákup potravín praktickými aktivitami. V nakupovaní potravín myslia globálne, ale jedia lokálne.</p>
 
@@ -13,7 +13,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/zakonzervovana-cerstvost-Mrvova-1170x778.jpg" alt="" class="wp-image-6146"/><figcaption>Zakonzervovaná čerstvosť<br>Autor: Viktória Mrvová</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/zakonzervovana-cerstvost-Mrvova-1170x778.jpg" alt="" class="wp-image-6146"/><figcaption>Zakonzervovaná čerstvosť<br>Autor: Viktória Mrvová</figcaption></figure>
 
 
 
@@ -25,7 +25,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/jeme-pre-zem-Moravcikova-1040x780.jpg" alt="" class="wp-image-6145"/><figcaption>Jeme pre Zem<br>Autor: Laura Moravčíková</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/jeme-pre-zem-Moravcikova-1040x780.jpg" alt="" class="wp-image-6145"/><figcaption>Jeme pre Zem<br>Autor: Laura Moravčíková</figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych-potravíin-Mrvova-1170x778.jpg" alt="" class="wp-image-6144"/><figcaption>Mapa regionálnych potravín.<br>Autor: Viktória Mrvová</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/mapa-regionalnych-potravíin-Mrvova-1170x778.jpg" alt="" class="wp-image-6144"/><figcaption>Mapa regionálnych potravín.<br>Autor: Viktória Mrvová</figcaption></figure>
 
 
 

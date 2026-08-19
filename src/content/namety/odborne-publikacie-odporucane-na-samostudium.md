@@ -4,7 +4,7 @@ pubDate: 2020-04-29
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/mpc2.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/mpc2.png"
 views: 923
 ---
 Publikácie dostupné na stránke MPC

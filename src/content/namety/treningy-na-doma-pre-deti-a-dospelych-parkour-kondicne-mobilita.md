@@ -4,7 +4,7 @@ pubDate: 2020-04-13
 author: "parkourskola"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/onlinetg.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/onlinetg.jpg"
 views: 799
 ---
 Ahojte, vytvorili sme online pohybový program, ktorý sa skladá z 3 tréningov týždenne: parkouru, kondičných a mobilizačných cvičení, spoločne s rôznymi tipmi a trikmi ako sa hýbať doma! Všetko zadarmo, prípadne za dobrovoľný príspevok na našu činnosť!

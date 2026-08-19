@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/les.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/les.jpg"
 views: 998
 ---
 Videá:

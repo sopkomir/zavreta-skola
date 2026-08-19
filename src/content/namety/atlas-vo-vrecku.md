@@ -4,7 +4,7 @@ pubDate: 2020-04-23
 author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Screenshot_20200413-095045_PlantNet-768x1664-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Screenshot_20200413-095045_PlantNet-768x1664-1.jpg"
 views: 1027
 ---
 Zaujímavý tip do prebúdzajúcej sa prírody :)

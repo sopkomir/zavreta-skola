@@ -3,7 +3,7 @@ title: "Projekt HOPE"
 pubDate: 2024-04-09
 author: "spravca"
 rubrika: ["PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2024/04/dbaa6088-c8f0-4448-834c-1d7362ed0b1f.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2024/04/dbaa6088-c8f0-4448-834c-1d7362ed0b1f.jpg"
 ---
 Dezinformácie a nimi vytvorená polarizácia poznačili Slovensko a menia ho na nepoznanie. Presvedčili sme sa o tom aj teraz v nedeľu ráno.
 

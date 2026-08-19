@@ -4,7 +4,7 @@ pubDate: 2021-08-25
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["APPKA", "AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/arcadegames-1.gif"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/arcadegames-1.gif"
 youtubeId: "pqKvkqB2sNE"
 views: 989
 ---

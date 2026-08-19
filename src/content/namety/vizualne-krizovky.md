@@ -4,7 +4,7 @@ pubDate: 2021-01-12
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vc.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/vc.jpg"
 youtubeId: "6oiPfCvt3k4"
 views: 1084
 ---

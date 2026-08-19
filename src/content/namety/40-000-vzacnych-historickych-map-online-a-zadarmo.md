@@ -4,7 +4,7 @@ pubDate: 2020-11-25
 author: "spravca"
 categories: ["Geografia - SŠ"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/british_library.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/british_library.jpg"
 views: 924
 ---
 <div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">

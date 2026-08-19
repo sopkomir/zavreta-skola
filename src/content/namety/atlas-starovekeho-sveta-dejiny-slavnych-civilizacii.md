@@ -4,7 +4,7 @@ pubDate: 2020-03-28
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/starovek.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/starovek.png"
 views: 911
 ---
 <span class="notranslate">Chcete sa dozvedieť zaujímavé fakty o staroveku, ale nebaví vás pátrať v objemných učebniciach histórie?</span>

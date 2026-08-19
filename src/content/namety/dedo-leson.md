@@ -4,7 +4,7 @@ pubDate: 2021-02-01
 author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/dedo-leson.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/dedo-leson.png"
 wordwallEmbed: "https://wordwall.net/embed/8332ddda6557459bb99cf8e6977e8f02"
 views: 1605
 ---

@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/fakta1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/fakta1.jpg"
 views: 2220
 ---
 Široká škála testov, hier, cvičení na overenie, ale aj doplnenie  vedomostí z rôznych oblastí

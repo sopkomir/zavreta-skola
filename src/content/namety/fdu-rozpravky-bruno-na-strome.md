@@ -4,7 +4,7 @@ pubDate: 2020-05-03
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/bruno.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/bruno.jpg"
 views: 840
 ---
 Dnes sa dozvieme, ako to je stráviť na strome takmer celý deň v príbehu

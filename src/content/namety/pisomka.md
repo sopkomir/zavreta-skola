@@ -4,7 +4,7 @@ pubDate: 2020-04-09
 author: "spravca"
 categories: []
 types: ["APPKA", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/pisomka_sk.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/pisomka_sk.jpg"
 views: 1126
 ---
 Pisomka.sk je webový portál, na ktorom môžu učitelia testovať vedomosti svojich žiakov elektronicky, ako alternatíva alebo doplnenie klasických papierových písomiek. Už teraz je tam 149 zdieľaných písomiek, ktoré ich tvorcovia vytvorili i pre vás. Otestovať sa môžete v týchto kategóriach:

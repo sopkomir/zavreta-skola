@@ -4,7 +4,7 @@ pubDate: 2021-01-25
 author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vyvodenie_Z.jpeg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/vyvodenie_Z.jpeg"
 youtubeId: "Ee-KiFpEzqY"
 views: 1744
 ---

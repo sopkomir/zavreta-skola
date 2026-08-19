@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["Fyzika - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/laboratorium.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/laboratorium.jpg"
 views: 932
 ---
 Prezentácia experimentov, ktoré nie sú úplne bežné pri výučbe, alebo ktorých príprava na kvalitné prevedenie je inak príliš zdĺhavá.

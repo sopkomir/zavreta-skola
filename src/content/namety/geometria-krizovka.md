@@ -4,7 +4,7 @@ pubDate: 2020-04-13
 author: "TOGlic.sk"
 categories: ["Matematika - 1. stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/krizovka-M-geometria.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/krizovka-M-geometria.png"
 views: 1467
 ---
 Vylúštite krížovku a zamyslite sa nad tajničkou. Už ste niekedy toto slovo počuli? Viete, čo znamená?

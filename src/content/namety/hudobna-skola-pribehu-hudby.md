@@ -4,7 +4,7 @@ pubDate: 2020-04-17
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/hs2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/hs2.jpg"
 views: 973
 ---
 Bratislavský chlapčenský zbor otvára online hudobnú školu "Príbehu hudby" pre všetky deti. Počas obdobia, keď sú klasické školy zatvorené, je tu online škola  pre všetky zvedavé deti, ktoré sa chcú o hudbe dozvedieť viac.

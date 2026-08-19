@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/lp1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/lp1.jpg"
 views: 969
 ---
 Ahoj kamarát!

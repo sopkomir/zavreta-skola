@@ -4,7 +4,7 @@ pubDate: 2021-10-20
 author: "spravca"
 categories: ["Geografia"]
 types: ["AUDIO/VIDEO", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/10/orto.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/10/orto.jpg"
 youtubeId: "iTBs69NvNnI"
 views: 979
 ---

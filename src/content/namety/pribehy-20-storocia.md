@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Post-Bellum-vystavy-Trstena-2-1024x576-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Post-Bellum-vystavy-Trstena-2-1024x576-1.jpg"
 youtubeId: "5TN1J-Tvdik"
 views: 863
 ---

@@ -3,7 +3,7 @@ title: "Výzva: Spravme Vianoce neznámym starkým v domovoch"
 pubDate: 2022-12-06
 author: "spravca"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/12/christmas-800.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/12/christmas-800.jpg"
 ---
 <p style="font-weight: 400;">V adventných kalendároch, ktoré nie sú len o čokoláde, si často deti s rodičmi vyberajú na každý deň jeden dobrý skutok, ktorý môžu urobiť.</p>
 <p style="font-weight: 400;">Urob niekomu radosť, poteš niekoho, obdaruj niekoho ... sú skvelé výzvy, ktoré sú pre deti často „abstraktné“ – deti netušia, čo si pod nimi predstaviť. Ukázať im to a robiť dobro spolu s nimi, tak, aby sa stalo konkrétnym, je zasa náš rodičovský dar – dobrý skutok-každodennosť, ktorú už ani nevnímame. Ďakujeme Vám za to, že to robíte, aj keď vás nikto nevidí  .</p>

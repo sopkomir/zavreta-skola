@@ -4,7 +4,7 @@ pubDate: 2022-12-15
 author: "spravca"
 categories: ["Vlastiveda"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/liptov.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/liptov.jpg"
 views: 745
 ---
 Autor: Mária Mačuhová

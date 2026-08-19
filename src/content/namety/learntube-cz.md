@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "Dana Palatinusova"
 categories: ["3. Stredná škola"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/learntube.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/learntube.jpg"
 views: 1041
 ---
 LearnTube.cz - kanál zameriavajúci sa na prípravu na maturitné skúšky.

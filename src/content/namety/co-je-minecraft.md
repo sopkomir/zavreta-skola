@@ -4,7 +4,7 @@ pubDate: 2020-11-15
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/mcee_javorka-min-e1604398130302.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/mcee_javorka-min-e1604398130302.png"
 youtubeId: "b--XIUZf_Q4"
 views: 1303
 ---

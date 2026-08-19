@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spravca"
 categories: ["Fyzika - SŠ"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/digitalna_fyzika.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/digitalna_fyzika.jpg"
 views: 2088
 ---
 Jozef Beňuška sa rozhodol sprístupniť bezplatne do 30.4.2020 svoju digitálnu učebnicu fyziky pre podporu domáceho vzdelávania. Verziu pre základné školy a aj stredoškolskú verziu.

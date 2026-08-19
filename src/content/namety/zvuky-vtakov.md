@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Biológia"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/50-bird-species-sounds-they-make-scaled.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/50-bird-species-sounds-they-make-scaled.jpg"
 views: 2712
 ---
 Na priloženom linku tejto webovej stránky v angličtine nájdete 50 zvukov vtákov. Stačí iba kliknúť na obrázok a počúvať.

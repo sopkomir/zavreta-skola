@@ -4,7 +4,7 @@ pubDate: 2020-03-28
 author: "Milan"
 categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/etiketa.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/etiketa.png"
 views: 1663
 ---
 Vytvorený playlist obsahuje súbor videí, ktoré sú zamerané na spoločenské správanie a etiketu.

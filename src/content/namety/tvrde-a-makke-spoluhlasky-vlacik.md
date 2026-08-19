@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vlaciky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/vlaciky.jpg"
 views: 2121
 ---
 Vláčik s vagónmi, kde sú napísané slová s tvrdou alebo mäkkou spoluhláskou, nad vláčikom lietajú balóny s i, í, y, ý a dieťa sa musí trafiť do správneho vagóna so správnou samohláskou. 

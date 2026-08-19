@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "spravca"
 categories: ["Hudobná výchova - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Doodle-Chaos-Collater.al-4.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Doodle-Chaos-Collater.al-4.png"
 youtubeId: "vcBn04IyELc"
 views: 1167
 ---

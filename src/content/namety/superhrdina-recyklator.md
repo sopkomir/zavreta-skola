@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "spravca"
 categories: ["1. stupeň", "Iné tipy"]
 types: ["APPKA", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/superhrdina-recyklator.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/superhrdina-recyklator.png"
 views: 988
 ---
 <h3 class="reveal fadeInUp mb-3" data-wow-delay="0.2s">Staň sa Superhrdinom Recyklátorom

@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
 views: 1539
 ---
 Teasty pre siedmakov, otestuj sa online.

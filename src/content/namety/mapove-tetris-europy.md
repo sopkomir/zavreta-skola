@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/statetris.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/statetris.jpg"
 views: 842
 ---
 Statetris je zaujímavá hra, ktorá spája aspekty populárnej hry Tetris a geografie. Namiesto umiestnenia typických blokov Tetrisu umiestnite štáty / krajiny na ich správne miesto.

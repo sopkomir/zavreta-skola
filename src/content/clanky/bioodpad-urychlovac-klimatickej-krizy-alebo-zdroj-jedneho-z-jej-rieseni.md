@@ -3,7 +3,7 @@ title: "Bioodpad – urýchľovač klimatickej krízy, alebo zdroj jedného z je
 pubDate: 2022-04-23
 author: "YRE – Mladí reportéri pre životné prostredie"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Hana-pri-Biokomposte.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Hana-pri-Biokomposte.jpg"
 ---
 Priemerný obyvateľ Slovenska vyhodí ročne približne 100 kg jedla a to napriek tomu, že v krajine žije viac ako pol milióna ľudí na a pod hranicou chudoby, ktorí je nemôžu dopriať dostatok jedla. Slováci tak každoročne zahltia svoju krajinu 545.900 tonami biologicky rozložiteľného odpadu, z ktorého veľké množstvo končí v komunálnom odpade a následne sa stáva súčasťou skládok. Rovnako končí aj množstvo „zeleného“ odpadu – orezov stromov, biohmota z pokosených trávnikov, opadané lístie, orezy stromov a kríkov. To všetko tvorí bioodpad.
 
@@ -11,7 +11,7 @@ V prieskume, ktorý zrealizovali mladé reportérky pre životné prostredie, a�
 
 Mladé reportérky pre životné prostredie Ella Radimská z Gymnázia L.Novomeského a Hana Noščáková zo SOŠPg v Bratislave sa v spolupráci so študentami z Izmirskej súkromnej strednej školy v Çakabey rozhodli problematiku dopadu bioodpadu na klimatickú krízu preskúmať a nájsť, navrhnúť a vyskúšať na úrovni svojich škôl riešenia, ktoré budú v súlade s cieľmi udržateľného života a pomôžu.
 
-<img class="wp-image-7017 size-full" src="https://www.zavretaskola.sk/wp-content/uploads/2022/04/spolupraca.jpg" alt="" width="756" height="694" /> <em>Študenti oboch škôl na stretnutí</em>
+<img class="wp-image-7017 size-full" src="https://media.zavretaskola.sk/wp-content/uploads/2022/04/spolupraca.jpg" alt="" width="756" height="694" /> <em>Študenti oboch škôl na stretnutí</em>
 
 Počas online stretnutí najskôr podrobne študovali ciele udržateľného života, Európsku zelenú dohodu a spôsoby ,akým ich krajiny napĺňajú opatrenia proti klimatickej kríze . V súvislosti s bioodpadom sa ako jasné riešenie ukázalo predchádzanie plytvaniu jedlom a spracovávanie už vzniknutého bioodpadu kompostovaním alebo energetickým zhodnocovaním.
 
@@ -23,19 +23,19 @@ Bratislava sa zaviazala zber kuchynského odpadu rozbehnúť od 1.1. 2023, prič
 
 &nbsp;
 
-<img class="wp-image-7018 size-large" src="https://www.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Hana-pri-Biokomposte-1041x780.jpg" alt="" width="1041" height="780" /> <em>Hana Noščáková s kompostom v biozáhrade, sú to štyri rovnaké ohrádky vedľa seba, kompost sa prekladá a zreje 4 roky</em>
+<img class="wp-image-7018 size-large" src="https://media.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Hana-pri-Biokomposte-1041x780.jpg" alt="" width="1041" height="780" /> <em>Hana Noščáková s kompostom v biozáhrade, sú to štyri rovnaké ohrádky vedľa seba, kompost sa prekladá a zreje 4 roky</em>
 
 Vermikompostér dokázal skompostovať odpad za 8 týždňov, záhradný kompostér za cca 7 mesiacov a tradične prekladaný kompost v biozáhrade zreje až 4 roky. Kvalita kompostu zo všetkých je porovnateľná a rovnako dokážu po skompostovaní obohacovať pôdne zdroje. Školský kompostér je zároveň súčasťou aktívneho učenia sa študentov nielen o triedení, ale aj o tom, ako sa správať a žiť udržateľnejšie, je inšpiráciou a motiváciou ku triedeniu kuchynského odpadu po jeho zavedení aj v domácnostiach študentov.
 
-<img class="size-large wp-image-7019" src="https://www.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Ella-pri-skolskom-komposte-1040x780.jpg" alt="" width="1040" height="780" /> <em>Ella Radimská pri školskom kompostéri, „vyzrietie“ kompstu trvá 7 mesiacov</em>
+<img class="size-large wp-image-7019" src="https://media.zavretaskola.sk/wp-content/uploads/2022/04/Reporterka-Ella-pri-skolskom-komposte-1040x780.jpg" alt="" width="1040" height="780" /> <em>Ella Radimská pri školskom kompostéri, „vyzrietie“ kompstu trvá 7 mesiacov</em>
 
 Študenti z Çakabey mali možnosť spoznať cestu kompostovania pomocou bio-reaktoru, ktorý je unikátnou technológiou a zatiaľ sa používa len na málo miestach vo svete. Na ich prekvapenie dokázal skompostovať 1 tonu bioodpadu z farmy, ktorú majú neďaleko svojej za 36 hodín.
 
-<img class="size-large wp-image-7020" src="https://www.zavretaskola.sk/wp-content/uploads/2022/04/Pri-bioreaktore-1170x658.jpg" alt="" width="1170" height="658" /> <em>Študenti strednej školy pri bioreaktore</em>
+<img class="size-large wp-image-7020" src="https://media.zavretaskola.sk/wp-content/uploads/2022/04/Pri-bioreaktore-1170x658.jpg" alt="" width="1170" height="658" /> <em>Študenti strednej školy pri bioreaktore</em>
 
 Okrem toho sa študentky zamerali aj na skúmanie procesu kompostovania, merali teplotu, pri ktorej prebieha, vlhkosť aj ph, spoznávali procesy a podmienky, za ktorých je možné kompostovať, ale aj skúmanie kvality kompostu, ktorý vznikol za rôznych podmienok rôznymi cestami.
 
-<img class="size-large wp-image-7021" src="https://www.zavretaskola.sk/wp-content/uploads/2022/04/testovanie-PH-kompostu-1040x780.jpg" alt="" width="1040" height="780" /> <em>Meranie PH kompostu</em>
+<img class="size-large wp-image-7021" src="https://media.zavretaskola.sk/wp-content/uploads/2022/04/testovanie-PH-kompostu-1040x780.jpg" alt="" width="1040" height="780" /> <em>Meranie PH kompostu</em>
 
 Kvalita všetkých kompostov sa ukázala byť porovnateľná a všetky sú skvele využiteľné na obohatenie pôdy, ktorá pri bežnom poľnohospodárskom využívaní prichádza o živiny a znehodnocuje sa.
 

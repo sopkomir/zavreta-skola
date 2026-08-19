@@ -4,7 +4,7 @@ pubDate: 2020-07-10
 author: "spravca"
 categories: ["Dejepis"]
 types: ["APPKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/07/historylab.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/07/historylab.png"
 views: 1177
 ---
 česká vzdelávacia aplikácia pre prácu s historickými prameňmi

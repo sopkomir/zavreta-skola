@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/mat.jpg"
 youtubeId: "g4YDkg-4MLc"
 views: 1459
 ---

@@ -4,7 +4,7 @@ pubDate: 2022-09-25
 author: "spravca"
 categories: ["Dejepis"]
 types: ["APPKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/doby-.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/doby-.jpg"
 wordwallEmbed: "https://wordwall.net/embed/eb8608696d674243b24c7b9ab81f6048?themeId=2&templateId=25&fontStackId=0"
 views: 1372
 ---

@@ -3,7 +3,7 @@ title: "Zmudri.sk"
 pubDate: 2020-03-18
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2016/02/hero_image-girl_with_notebook_with_idea_e26tfb.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2016/02/hero_image-girl_with_notebook_with_idea_e26tfb.jpg"
 ---
 <div class="_2cuy _3dgx _2vxa">PRAKTICKÉ A OBČIANSKE TÉMY pre starších základoškolákov a stredoškolákov</div>
 <div class="_2cuy _3dgx _2vxa">Platforma <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fzmudri.sk%2Fp%2Fhome%3Ffbclid%3DIwAR3NyRg7rPj_jOWpg2SjDkDxPha9yeJVL7jHCV5MeZIeyJrTMwd7FZpWspo&amp;h=AT3tq-VCDRC9ADT776hTrJ47OOD_sVmfb00pGagJMS0pqp5G0RTLqzKa-I4dWr_K7SNGZiKiORLJAjq-Qc_Bm_ZCEeEiW0_fg7syPAT5P79GYdtsQSUHHW3nu-6Ef8uCLfOIP5zMo17wiQTV9l8" target="_blank" rel="noopener nofollow noreferrer" data-lynx-mode="asynclazy"><span class="_4yxr">Zmudri.sk</span></a> vytvára video kurzy ZADARMO pre mladých ľudí - v čase, keď sú žiaci doma, môžu absolvovať naše video kurzy, ktoré sú krátke a vtipné. Dozvedia sa</div>

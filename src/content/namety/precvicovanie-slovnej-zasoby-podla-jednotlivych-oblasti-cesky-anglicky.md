@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slova1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/slova1.jpg"
 views: 926
 ---
 Tu nájdete precvičovanie slovnej zásoby podľa jednotlivých oblastí.

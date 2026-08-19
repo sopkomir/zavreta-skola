@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "spravca"
 categories: ["Dejepis"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/arpadovci.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/arpadovci.jpg"
 views: 2077
 ---
 <div id="js_5u7" class="_5pbx userContent _3576" data-testid="post_message" data-ft="{&quot;tn&quot;:&quot;K&quot;}">

@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["HRA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/adamko1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/adamko1.jpg"
 views: 863
 ---
 Námety na vytvorenie denného režimu, učenie sa a hry.

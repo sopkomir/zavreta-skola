@@ -4,7 +4,7 @@ pubDate: 2020-05-01
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/doma-snockou.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/doma-snockou.jpg"
 views: 903
 ---
 Predstavujem vám projekt Národného Osvetového Centra - #SomDomasNOCkou.

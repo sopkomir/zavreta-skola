@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ucimezdomu.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/ucimezdomu.jpg"
 views: 1438
 ---
 Široká škála metodickej pomoci, materiálov a nástrojov prístupná na www.aitec.sk - zadarmo

@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/atlas0.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/atlas0.jpg"
 views: 835
 ---
 Počas prechádzok do prírody sa určite zíde.

@@ -4,7 +4,7 @@ pubDate: 2021-06-28
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/06/sk_about.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/06/sk_about.png"
 views: 846
 ---
 Vydajme sa na dobrodružnú výpravu za novými poznatkami s platformou Naša planéta, naša budúcnosť.

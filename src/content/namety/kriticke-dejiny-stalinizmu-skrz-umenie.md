@@ -4,7 +4,7 @@ pubDate: 2022-07-19
 author: "edu.sng"
 categories: ["Umenie a kultúra"]
 types: ["CVIKA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/07/2-3-scaled-1-676x736-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/07/2-3-scaled-1-676x736-1.jpg"
 views: 613
 ---
 20. storočie predstavuje z hľadiska vyučovania mimoriadne dôležitú, no zároveň náročnú etapu dejín. Medzi zložité dejepisné okruhy patrí polovica minulého storočia – obdobie stalinizmu. Práve umenie môže byť vhodným prostriedkom na otvorenie diskusie o témach spojených s týmto obdobím, ako sú propaganda či budovanie kultu osobnosti. Keďže spoločenské a politické zmeny zasiahli aj umenie a kultúru, prostredníctvom umeleckých diel je možné sledovať a lepšie porozumieť ich vývoju a následkom.

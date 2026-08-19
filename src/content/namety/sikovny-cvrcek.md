@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/sikovny-cvrcek.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/sikovny-cvrcek.jpg"
 views: 1081
 ---
 Čo je Šikovný cvrček?

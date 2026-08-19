@@ -4,7 +4,7 @@ pubDate: 2020-05-16
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "HRA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/CPPPaP.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/CPPPaP.png"
 views: 1141
 ---
 Centrum pedagogicko-psychologického poradenstva a prevencie Tvrdošín

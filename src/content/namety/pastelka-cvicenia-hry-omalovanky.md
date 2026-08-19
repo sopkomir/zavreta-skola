@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/pastelka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/pastelka.jpg"
 views: 1671
 ---
 Táto stránka je určená pre všetky deti a ich kamarátov, ktorí už vedia, že počítačová myška sa neskrýva v diere a klávesnica nemá čierne a biele klávesy, pretože to nie je klavír. Nájdete tu rôzne zaujímavosti, cvičenia, testíky, omaľovánky, hry a mnoho iných vecí. Takže klikajte, čítajte, pozerajte a dajte vedieť, či sa vám páči a čo by ste tu ešte chceli mať.

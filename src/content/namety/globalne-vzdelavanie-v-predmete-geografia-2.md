@@ -4,7 +4,7 @@ pubDate: 2020-11-28
 author: "spravca"
 categories: ["Geografia"]
 types: ["CVIKA", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/geo_obalka-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/geo_obalka-1.jpg"
 views: 942
 ---
 Príručka je určená pre učiteľky a učiteľov 2. stupňa základných a stredných škôl, študentom a študentkám pedagogických vysokých škôl a všetkým ľuďom zaujímajúcim sa o globálne vzdelávanie (GV), ktorí chcú viesť svoje žiačky a žiakov porozumieť svetu v súvislostiach a rozvíjať ich kompetencie pre život pomocou geografie.

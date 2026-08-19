@@ -4,7 +4,7 @@ pubDate: 2020-10-31
 author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/ms_teams.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/ms_teams.jpg"
 youtubeId: "TQAVsvBAPZQ"
 views: 1469
 ---

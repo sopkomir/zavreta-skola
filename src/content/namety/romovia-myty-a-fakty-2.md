@@ -4,7 +4,7 @@ pubDate: 2020-03-22
 author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89379240_10218932340238599_2566399970479439872_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/89379240_10218932340238599_2566399970479439872_n.jpg"
 views: 873
 ---
 <div class="_xlr">

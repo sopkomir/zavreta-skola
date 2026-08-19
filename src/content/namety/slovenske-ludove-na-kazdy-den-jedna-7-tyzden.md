@@ -4,7 +4,7 @@ pubDate: 2020-06-09
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Ešte-vínko-nevykyslo.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/Ešte-vínko-nevykyslo.jpg"
 views: 1335
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

@@ -4,7 +4,7 @@ pubDate: 2020-10-12
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - SŠ"]
 types: ["APPKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/slovnik.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/slovnik.jpg"
 views: 843
 ---
 Milí učitelia na stredných školách,

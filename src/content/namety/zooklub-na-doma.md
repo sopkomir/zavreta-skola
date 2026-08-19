@@ -4,7 +4,7 @@ pubDate: 2020-04-08
 author: "NatalyZOO"
 categories: ["Iné tipy"]
 types: ["HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ZOOKLUB-FB-POST.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/ZOOKLUB-FB-POST.png"
 views: 772
 ---
 ZOO BA si pre Vás pripravila novinku v podobe pravidelných kvízov, hier a zaujímavostí zo sveta zvierat. Zapojiť sa na FB a Instagrame môžu malí i veľkí a spoločne si tak môžeme spríjemniť pobyt doma.

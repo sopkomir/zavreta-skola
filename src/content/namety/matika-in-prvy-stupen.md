@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Matematika - 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-3.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/logo-3.png"
 views: 1453
 ---
 Zažite radosť s matematikou a Matejom. Rôzne úlohy a matematické hry

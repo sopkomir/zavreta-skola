@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "hravozdravo.sk"
 categories: ["Biológia"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/IMG_9520-compressed.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/IMG_9520-compressed.jpg"
 views: 2082
 ---
 Baktérie sú fascinujúcim typom mikroorganizmov, ktoré hrajú v našich životoch veľkú úlohu. V skutočnosti je naše telo a väčšina zeme pokrytých baktériami. Získajte dôkaz, že sú skutočne všade! Skúste vypestovať vlastnú vzorku baktérií a zároveň sledujte, ako sa v krátkom čase baktérie reprodukujú. Kultivácia vlastných baktérií je ideálna aktivita – pokus pre deti a dospievajúcich, najmä budúcich medikov a prírodovedcov.

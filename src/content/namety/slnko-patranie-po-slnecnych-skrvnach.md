@@ -4,7 +4,7 @@ pubDate: 2020-04-13
 author: "spravca"
 categories: ["Geografia"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slnko.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/slnko.jpg"
 youtubeId: "9ZXX9F7A9fA"
 views: 1185
 ---

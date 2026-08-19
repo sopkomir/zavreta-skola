@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Vlastiveda"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/policia.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/policia.jpg"
 wordwallEmbed: "https://wordwall.net/embed/6a0f932226084efb9f94063adfded39e"
 views: 904
 ---

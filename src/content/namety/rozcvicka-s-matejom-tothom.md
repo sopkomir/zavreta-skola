@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/rozcvicka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/rozcvicka.jpg"
 youtubeId: "Ut-C4_vmvdI"
 views: 835
 ---

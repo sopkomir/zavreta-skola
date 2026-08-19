@@ -4,7 +4,7 @@ pubDate: 2021-02-25
 author: "Michal Surina"
 categories: ["Anglický jazyk - SŠ"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/Sport-a-hry-cover-fotka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/02/Sport-a-hry-cover-fotka.jpg"
 views: 789
 ---
 Frázy a slovná zásoba k maturitnej téme šport.

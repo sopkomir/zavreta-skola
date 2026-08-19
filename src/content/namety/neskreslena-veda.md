@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/nv4.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/nv4.jpg"
 views: 1204
 ---
 Neskreslená veda je ojedinelý popularizačno-vzdelávací cyklus Akadémie vied Českej republiky.

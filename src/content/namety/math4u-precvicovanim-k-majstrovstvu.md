@@ -4,7 +4,7 @@ pubDate: 2020-04-18
 author: "spravca"
 categories: ["Matematika - SŠ"]
 types: ["APPKA", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/math4u.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/math4u.jpg"
 views: 940
 ---
 ŠTUDENT - Precvičovaním k majstrovstvu

@@ -3,7 +3,7 @@ title: "Martinus: Prečítam ti rozprávku"
 pubDate: 2020-03-15
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/89442000_10157269582133111_3435996935134117888_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/89442000_10157269582133111_3435996935134117888_o.jpg"
 youtubeId: "jYPxL_--mYc"
 ---
 <p>

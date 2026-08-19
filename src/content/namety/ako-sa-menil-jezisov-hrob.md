@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/tomb.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/tomb.png"
 views: 2486
 ---
 Ako sa menil Ježišov hrob v priebehu vekov zas zobrazuje interaktívny vizuálny príbeh National Geographic. Pri ceste históriou skrolovaním myšou od zhora dolu z pôvodneho stavu v čase jeho ukrižovania uvidíte premeny miesta, keď tam stál neskôr Hadriánov chrám v 2. storočí, prvá Konštantínová rotunda v 4. storočí až po súčasnosť.

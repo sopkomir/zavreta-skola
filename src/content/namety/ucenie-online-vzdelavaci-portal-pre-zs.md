@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/uceni-online1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/uceni-online1.jpg"
 views: 882
 ---
 Cieľom týchto stránok je výmena, zdieľanie informácií medzi deťmi ⇒ učiteľmi ⇒ rodičmi = Výmeny informácií + dodanie nových podkladov k výučbe + okamžitá spätná väzba od učiteľa.

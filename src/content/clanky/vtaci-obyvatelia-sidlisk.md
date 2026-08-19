@@ -3,7 +3,7 @@ title: "Vtáčí obyvatelia sídlisk"
 pubDate: 2021-04-19
 author: "Ľubica Noščáková"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-01.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-01.jpg"
 ---
 V poslednom desaťročí sa niektoré podmienky mestských ekosystémov opäť výrazne menili a doplatilo na to viacero vtáčích druhov. Potvrdzuje to aj najnovšia Správa Európskej komisie o stave vtáctva na Slovensku. Nemiznú len druhy vo voľnej krajine, ale ohrozené sú aj druhy žijúce v mestách. Napríklad počet belorítok za posledných šesť rokov klesol o 100 000 párov.
 
@@ -13,7 +13,7 @@ Zníženie počtu vtákov priamo súvisí s činnosťou ľudí, žijúcich na 
 
 Všimli si ho aj žiaci Cirkevnej základnej školy Narnia na bratislavskom sídlisku. Rozhodli sa preskúmať príčiny a stav v ich prostredí zmeniť. Za pomoci odborníkov, Františka Cimermana zo Živice a  enviromentalistu RNDr. Tomáša Kušíka, hľadali odpovede a robili kroky pre zmenu stavu.
 
-<img class="wp-image-6753 size-large" src="https://www.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-02-1170x658.jpg" alt="" width="1170" height="658" /> <em>Foto: Noščáková Ľubica, žiaci pri tvorení zahniezďovacích búdok</em>
+<img class="wp-image-6753 size-large" src="https://media.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-02-1170x658.jpg" alt="" width="1170" height="658" /> <em>Foto: Noščáková Ľubica, žiaci pri tvorení zahniezďovacích búdok</em>
 
 Jedným z dôvodov, prečo sa na sídliskách počet vtáctva zmenšuje, sú chýbajúce dutiny. <em>„Dutinové hniezdiče majú „nevýhodu“, že ak im dutinu nik nevytvorí, tak nemajú kde hniezdiť. To isté platí, ak im dutinu niekto zničí alebo uzavrie. Preto tie druhy, ktoré už dnes takmer výlučne hniezdia v mestách na budovách - dážďovník tmavý, vrabec domový a belorítka domová, veľmi trpia pri rekonštrukciách budov. Dážďovníkom a vrabcom zanikajú nalepením izolantu a zateplením budov všetky hniezda - teda zanikali. Zatepľovanie budov sa do veľkej miery našťastie u nás podarilo dobre podchytiť našim projektom Ochrana dážďovníkov a netopierov v mestách na Slovensku. S odstupom času si uvedomujeme ešte viac jeho unikátnosť, pretože nikde na svete nič podobné nikto v takomto systémovom rozsahu nerealizoval,“</em> Konštatuje Kušík.
 
@@ -33,7 +33,7 @@ Tmavý kút bez osvetlenia, kde sú stromy, osadili vlastnoručne vyrobenými za
 
 Vtáci, ktorí si zvykli nájsť  v zime potravu v kŕmidlách, sa teraz  zahniezďujú.
 
-<img class="wp-image-6754 size-large" src="https://www.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-03-1170x658.jpg" alt="" width="1170" height="658" /> <em>Foto: Noščáková Ľubica, Vstup do Narnie lemujú kríky a rozkvitnutý „trávnik“</em>
+<img class="wp-image-6754 size-large" src="https://media.zavretaskola.sk/wp-content/uploads/2021/04/noscakova-03-1170x658.jpg" alt="" width="1170" height="658" /> <em>Foto: Noščáková Ľubica, Vstup do Narnie lemujú kríky a rozkvitnutý „trávnik“</em>
 
 <strong>Vtáčí spev prináša radosť</strong>
 

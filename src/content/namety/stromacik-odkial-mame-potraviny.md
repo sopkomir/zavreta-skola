@@ -4,7 +4,7 @@ pubDate: 2020-10-12
 author: "spravca"
 categories: ["Prvouka a prírodoveda"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/Potraviny-thumbnail.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/Potraviny-thumbnail.jpg"
 youtubeId: "xmflToSlvN0"
 views: 1081
 ---

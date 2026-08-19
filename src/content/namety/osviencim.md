@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Milan"
 categories: ["Dejepis - SŠ"]
 types: ["APPKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/dej.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/dej.jpg"
 views: 1261
 ---
 Virtuálna prehliadka jedného z najznámejších koncentračných táborov v Osvienčime.

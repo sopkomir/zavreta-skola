@@ -4,7 +4,7 @@ pubDate: 2020-04-24
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vo2.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vo2.png"
 views: 846
 ---
 Čo sú Vedomostné ostrovy?

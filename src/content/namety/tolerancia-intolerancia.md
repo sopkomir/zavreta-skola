@@ -4,7 +4,7 @@ pubDate: 2020-04-11
 author: "Milan"
 categories: ["Občianska náuka"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/imagine_dragons_birds-592.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/imagine_dragons_birds-592.jpg"
 youtubeId: "vOXZkm9p_zY"
 views: 1844
 ---

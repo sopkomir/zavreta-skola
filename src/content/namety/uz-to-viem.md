@@ -4,7 +4,7 @@ pubDate: 2020-04-02
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/uz-to-viem-2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/uz-to-viem-2.jpg"
 views: 1122
 ---
 Youtube kanál s krátkymi videami pre škôlkarov, predškolákov, prvákov.

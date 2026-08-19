@@ -3,7 +3,7 @@ title: "Umelá inteligencia z obrazovky do fyzického sveta"
 pubDate: 2021-10-19
 author: "spravca"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/10/home_banner.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/10/home_banner.jpg"
 ---
 autori: Nesra Yannier, Scott E. Hudson, Kenneth R. Koedinger
 <div dir="auto">Zlepšenie výučby prírodných vied, technológií, inžinierstva a matematiky (STEM) má zásadný význam pre zlepšenie výučby STEM. Zlepšovanie prípravy učiteľov však postupuje pomaly. A aj tí najlepší učitelia majú problém udržať pozornosť nových kohort "digitálnych domorodcov" a cítia potrebu nájsť inovatívne spôsoby, ako ich zaujať. Menej zamerané na vedecké fakty a viac skúseností s vedeckým bádaním, ktoré lepšie zapoja prirodzenú zvedavosť detí. Mnoho učiteľov základných škôl však zvyčajne nemá zázemie ani učebné materiály, ktoré by im umožnili vyučovať prírodovedné predmety z bádateľské perspektívy.</div>

@@ -4,7 +4,7 @@ pubDate: 2021-01-16
 author: "spravca"
 categories: ["Deti s ADD/ADHD"]
 types: ["APPKA", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/CANDY_FACTORY.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/CANDY_FACTORY.jpg"
 views: 1165
 ---
 Spoločnosť Cognifit sprístupnila svoje online hry zamerané na rozvoj kognitívnych funkcií pre verejnosť. Spoločnosť sa venuje vývoju online hier a online diagnostických materiálov pre rôzne mozgové poruchy, mimo iné aj ADHD. Medzi "Brain games" nájdete hry na rozvoj inhibície, percepcie, koordinácie, pozornosti a rozhodovania -  to sú exekutívne funckcie, ktorých oslabenie spôsobuje symptómy, ktoré súhrnne nazývame "porucha pozornosti". Za tip ďakujem Radovanovi Kyrinovičovi.

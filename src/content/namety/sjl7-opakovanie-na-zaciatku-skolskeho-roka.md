@@ -4,7 +4,7 @@ pubDate: 2022-09-15
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/opakovanie_sjl07.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/opakovanie_sjl07.jpg"
 wordwallEmbed: "https://wordwall.net/embed/ee45983d13874a7ea51f20f77001938c"
 views: 762
 ---

@@ -4,7 +4,7 @@ pubDate: 2020-04-13
 author: "TOGlic.sk"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Vybrané-slová-po-S.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Vybrané-slová-po-S.png"
 views: 1233
 ---
 Koľko vybraných slov po S môžeš zo zobrazených písmen zostaviť?

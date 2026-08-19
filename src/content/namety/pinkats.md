@@ -4,7 +4,7 @@ pubDate: 2022-09-19
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/pinkats.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/pinkats.jpg"
 views: 666
 ---
 Retro blogerka a hlavne učiteľka <a href="http://www.pinkats.sk" rel="noopener" target="_blank">Katarína Susková</a> využíva v maximálnej možnej miere možnosti sociálnych sietí pre vzdelávanie, veď posúďte:

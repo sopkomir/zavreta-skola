@@ -3,7 +3,7 @@ title: "Medzinárodný deň tanca - Krížom-krážom (SĽUK)"
 pubDate: 2020-04-29
 author: "spravca"
 rubrika: ["COVID-19", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/krizom-krazom.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/krizom-krazom.jpg"
 youtubeId: "g8HopNoIUTk"
 ---
 <p>Dnes je medzinárodný deň tanca. 29. apríla 1727 sa narodil francúzsky tanečník, choreograf a tvorca moderného baletu Jean Georges Noverre, ktorého nazývali aj Shakespearom tanca. Na jeho počesť sa tento dátum od roku 1982 oslavuje ako Medzinárodný deň tanca. Jeho posolstvom je oslava tanečného umenia, zjednotenie všetkých jeho foriem, zvýraznenie jeho schopnosti spájať ľudí rôznych národností a kultúr a prekročiť tak politické, kultúrne a etnické bariéry.</p>

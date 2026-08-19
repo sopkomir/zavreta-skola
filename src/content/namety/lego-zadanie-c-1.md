@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Jozef Zvolensky"
 categories: ["Technická výchova"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/tech.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/tech.jpg"
 youtubeId: "YU-24fZpwSw"
 views: 862
 ---

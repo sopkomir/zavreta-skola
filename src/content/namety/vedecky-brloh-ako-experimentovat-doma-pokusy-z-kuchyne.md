@@ -4,7 +4,7 @@ pubDate: 2020-06-09
 author: "spravca"
 categories: ["Chémia"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/72339264_2442956942487891_5125527397390614528_o.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/72339264_2442956942487891_5125527397390614528_o.png"
 youtubeId: "MSu_tGIM_mo"
 views: 1015
 ---

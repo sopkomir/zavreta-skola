@@ -4,7 +4,7 @@ pubDate: 2020-05-26
 author: "michalchoma"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/01-scaled.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/01-scaled.jpg"
 youtubeId: "l-tER_OKdfU"
 views: 6381
 ---

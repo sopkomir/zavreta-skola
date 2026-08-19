@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Chémia"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/chem.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/chem.jpg"
 youtubeId: "qdQX_QZiui4"
 views: 1362
 ---

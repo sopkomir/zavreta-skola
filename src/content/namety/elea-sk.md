@@ -4,7 +4,7 @@ pubDate: 2020-03-14
 author: "spravca"
 categories: ["3. Stredná škola"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/elea.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/elea.jpg"
 views: 761
 ---
 <div class="row wow fadeIn animated">

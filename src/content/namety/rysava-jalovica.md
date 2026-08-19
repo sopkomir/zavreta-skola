@@ -4,7 +4,7 @@ pubDate: 2020-05-12
 author: "Tina Botková"
 categories: ["Slovenský jazyk a literatúra - SŠ"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/94612490_3022735647781100_8134541382858571776_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/94612490_3022735647781100_8134541382858571776_n.jpg"
 views: 1045
 ---
 <div class="_6c7i">

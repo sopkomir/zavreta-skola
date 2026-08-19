@@ -3,7 +3,7 @@ title: "Škola cez poštovú schránku"
 pubDate: 2020-03-26
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/skola-cez-postovu-schranku.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/skola-cez-postovu-schranku.jpg"
 ---
 <p>Vďaka iniciatíve Janky Karľovej, žene s veľkým srdcom, skvelej učiteľke a finalistke Učiteľ Slovenska 2018 vznikla dôležitá facebooková skupina. Volá sa <a href="https://www.facebook.com/groups/2954535171276628/" target="_blank" rel="noreferrer noopener" aria-label="Škola cez poštovú schránku (otvorí sa v novej karte)">Škola cez poštovú schránku</a>. </p>
 

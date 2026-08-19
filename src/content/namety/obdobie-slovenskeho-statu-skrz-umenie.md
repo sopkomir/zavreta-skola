@@ -4,7 +4,7 @@ pubDate: 2022-07-19
 author: "edu.sng"
 categories: ["Umenie a kultúra"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/07/s.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/07/s.jpg"
 views: 498
 ---
 Séria metodických a pracovných listov približuje interaktívnou formou vizuálnu kultúru a ideológiu obdobia slovenského štátu. Verzie pre študentov a pedagógov sú vzájomne prepojené, pre ich plnohodnotné využitie odporúčame stiahnuť a použiť oboje. Vyšli na témy: Dizajn, Folklór, Symbol, Literatúra, Etymológia

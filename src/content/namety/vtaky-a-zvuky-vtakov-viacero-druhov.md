@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Prvouka a prírodoveda"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/50-bird-species-sounds-they-make-1-scaled.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/50-bird-species-sounds-they-make-1-scaled.jpg"
 views: 3724
 ---
 Vtáky a zvuky vtákov <a class="_3l3r" href="https://www.facebook.com/hashtag/vtaky?hc_location=ufi"><span class="_3l3v" aria-label="hashtag">#</span><span class="_3l3w">vtaky</span></a><span class="whitespace"> </span><a class="_3l3r" href="https://www.facebook.com/hashtag/zvuky?hc_location=ufi"><span class="_3l3v" aria-label="hashtag">#</span><span class="_3l3w">zvuky</span></a>

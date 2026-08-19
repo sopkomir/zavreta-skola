@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/fyz.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/fyz.jpg"
 youtubeId: "tbX6aMfPtEw"
 views: 702
 ---

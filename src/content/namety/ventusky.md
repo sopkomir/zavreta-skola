@@ -4,7 +4,7 @@ pubDate: 2023-09-27
 author: "spravca"
 categories: ["Geografia"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/app-screen-rating5.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/app-screen-rating5.png"
 views: 1235
 ---
 VentuSky je meteorologická aplikácia, ktorá kombinuje klasickú predpoveď počasia s mapou ukazujúcou jeho vývoj v širšom okolí.

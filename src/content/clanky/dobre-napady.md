@@ -3,7 +3,7 @@ title: "Dobré nápady"
 pubDate: 2020-04-03
 author: "spravca"
 rubrika: ["Novinky", "PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/dobre-napady-web.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/dobre-napady-web.jpg"
 ---
 <blockquote class="wp-block-quote is-style-large"><p>Na tomto webe vám budeme postupne predstavovať dlhodobé projekty, ktoré slúžia vzdelávacím potrebám naších detí už veľmi dlho. Sú to diela nadšencov, ktoré existujú len vďaka vašej podpore a preto Vás aj z tohto miesta budem pri každom jednom z nich žiadať, aby ste im pomohli.</p><p><strong>Lebo tak pomáhate aj sebe.</strong></p><cite>...ale už nechám, nech Vám úžasný web Dobré nápady predstaví jeho autorka Silvia Bodláková.</cite></blockquote>
 
@@ -33,7 +33,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/dobre-napady-web.
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/04/dobre-napady-web02-1124x780.jpg" alt="" class="wp-image-5113"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/04/dobre-napady-web02-1124x780.jpg" alt="" class="wp-image-5113"/></figure>
 
 
 

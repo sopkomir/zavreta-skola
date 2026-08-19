@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/abcguru.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/abcguru.jpg"
 views: 1258
 ---
 APLIKÁCIA AUTOKOREKTÍVNE KARTIČKY ÚPLNE ZADARMO

@@ -4,7 +4,7 @@ pubDate: 2020-05-13
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/bo1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/bo1.png"
 views: 797
 ---
 PRACOVNÉ LISTY k samostatnému štúdiu angličtiny – ACTIVITY SHEET.

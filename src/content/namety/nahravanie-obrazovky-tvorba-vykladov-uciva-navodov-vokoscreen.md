@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Technická podpora pre učiteľov"]
 types: ["APPKA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vokoscreen.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vokoscreen.jpg"
 views: 1231
 ---
 Vokoscreen je jednoduchý program pre nahrávanie dianie na obrazovke.. Môžete nahrávať video neobmedzenej dĺžky.Tiež je možné zvoliť frekvenciu snímok videa.

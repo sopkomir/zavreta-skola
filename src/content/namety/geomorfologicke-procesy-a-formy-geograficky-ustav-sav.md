@@ -4,7 +4,7 @@ pubDate: 2020-04-14
 author: "spravca"
 categories: ["Geografia - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/geomorfologia.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/geomorfologia.png"
 youtubeId: "hOaJvVpFPaU"
 views: 1401
 ---

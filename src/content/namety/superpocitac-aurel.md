@@ -4,7 +4,7 @@ pubDate: 2020-11-24
 author: "spravca"
 categories: ["Informatika - SŠ"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/aurel.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/aurel.jpg"
 youtubeId: "5IpsYRphcjE"
 views: 935
 ---

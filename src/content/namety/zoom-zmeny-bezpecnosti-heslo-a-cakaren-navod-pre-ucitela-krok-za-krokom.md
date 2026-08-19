@@ -4,7 +4,7 @@ pubDate: 2020-04-06
 author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zoom_navod.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/zoom_navod.jpg"
 youtubeId: "2EHPXV5OggA"
 views: 2870
 ---

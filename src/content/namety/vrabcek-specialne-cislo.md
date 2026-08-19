@@ -4,7 +4,7 @@ pubDate: 2020-04-13
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vrabcek.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vrabcek.jpg"
 views: 996
 ---
 Milí malí a veľkí kamaráti,

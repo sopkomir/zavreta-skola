@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Tina Botková"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/90397052_10216304802883221_3406294745201246208_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/90397052_10216304802883221_3406294745201246208_o.jpg"
 views: 707
 ---
 Storytelling. Poďme si rozprávanie a tvorenie príbehov niečim ozvláštniť - urobme si Motýlie lampášiky. Vždy, keď je to možné snažím sa podporiť príbeh vytvorením atmosféry. Oblečením, zvukmi, vôňami, farbami. Rozprávač môže vyzerať rôzne, úplne jednoducho v tričku, alebo môže mať cez seba prehodený krásny plášť, zvončeky, alebo iné perkusie v ruke, na hlave čokoľvek, čo pripomenie že sme v "krajine za zrkadlom". A po nociach príbehy znejú tajomne, dobre sa počúvajú a cítime pri nich že vstupujeme do iného, príbehového sveta keď okolo seba vidíme žiariť lampášiky, sviečky, oheň. Ponúkam vám návod na Motýlie lampášiky, ktoré ozvláštnia vašu príbehovú atmosféru aj doma. Papier, ktorý som použila ja, je obyčajný strihový, ale môžete použiť aj iný, priesvitný, farebný. Prútiky sú lieskové, ale aj vŕbové či iné ohybné sú fajn.

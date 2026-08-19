@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Informatika - 1. stupeň", "Informatika - 2. stupeň ZŠ"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/vieme-programovat3.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/vieme-programovat3.jpg"
 views: 2017
 ---
 Precvičujte programovanie hrou či na príkladoch.

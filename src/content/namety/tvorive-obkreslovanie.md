@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/sablonky1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/sablonky1.jpg"
 views: 908
 ---
 Odporúčam s deťmi kresliť aj takto - obkresľovaním. Dieťa sa veľmi rýchlo naučí názvy tvarov a pritom sa hrá.

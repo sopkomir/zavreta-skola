@@ -4,7 +4,7 @@ pubDate: 2020-05-15
 author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/V-obchode.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/V-obchode.jpg"
 views: 1162
 ---
 CHCEM TOTO A TOTO A AJ TAMTO…

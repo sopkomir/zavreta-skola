@@ -4,7 +4,7 @@ pubDate: 2022-12-31
 author: "Jozef Zvolensky"
 categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/12/site.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/12/site.jpg"
 youtubeId: "A-GXrz-6jxs"
 views: 1173
 ---

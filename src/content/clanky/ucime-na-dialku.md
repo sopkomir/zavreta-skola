@@ -3,7 +3,7 @@ title: "Učíme na diaľku"
 pubDate: 2020-03-25
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ucimenadialku.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/ucimenadialku.jpg"
 ---
 <p>V spolupráci viacerých mimovládnych organizácií a MŠVVaŠ SR <a href="https://www.ucimenadialku.sk/" target="_blank" rel="noreferrer noopener" aria-label="vznikla táto webová stránka (otvorí sa v novej karte)">vznikla táto webová stránka</a> ako nástroj oficiálnej komunikácie počas prerušeného vyučovania na školách a prerušenej prezenčnej výučby na vysokých školách v čase epidémie koronavírusu.<br> <br>Cieľom webovej stránky je pomôcť pedagogickým a odborným zamestnancom, manažmentu a zriaďovateľom škôl, ale i žiakom, študentom a rodičom zorientovať sa v množstve informácií, odporúčaní a usmernení, ako aj pomôcť všetkým aktérom počas prerušenia vyučovania či prezenčnej výučby nachádzať riešenia vzniknutej situácie.</p>
 

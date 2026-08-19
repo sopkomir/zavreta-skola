@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Hudobná výchova - 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/kids-around-ipad-1024x773-1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/kids-around-ipad-1024x773-1.png"
 views: 789
 ---
 Toto je skvelý spôsob pre deti, ako sa učiť hre na klavír. Stránka je ale v angličtine.

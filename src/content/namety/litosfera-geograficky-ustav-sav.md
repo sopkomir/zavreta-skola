@@ -4,7 +4,7 @@ pubDate: 2020-04-09
 author: "spravca"
 categories: ["Geografia - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/geograficky-ustav.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/geograficky-ustav.jpg"
 youtubeId: "bsUhWJXEg7c"
 views: 901
 ---

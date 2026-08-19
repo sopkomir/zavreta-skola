@@ -4,7 +4,7 @@ pubDate: 2025-02-06
 author: "spravca"
 categories: ["Biológia"]
 types: ["NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/globe_square.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/globe_square.png"
 views: 1287
 ---
 GLOBE (Global Learning and Observations to Benefit the Environment) je medzinárodný vzdelávací program, v ktorom žiaci skúmajú prírodu a aktívne zlepšujú životné prostredie v okolí svojej školy.

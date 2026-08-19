@@ -3,7 +3,7 @@ title: "Európsky kvíz o peniazoch"
 pubDate: 2020-03-23
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/bg01.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/bg01.jpg"
 ---
 <p>Pomôcka pre rozvoj finančnej gramotnosti žiakov 7. - 9. ročníka základných škôl a zodpovedajúcich ročníkov osemročných gymnázií.</p>
 

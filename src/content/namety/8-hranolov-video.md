@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ilo_hranol_s_popisom_sk.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/ilo_hranol_s_popisom_sk.png"
 youtubeId: "dhJMDzw86HM"
 views: 958
 ---

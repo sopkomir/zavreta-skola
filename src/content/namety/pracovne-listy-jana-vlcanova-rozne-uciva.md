@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89354887_247652442916392_2399361425253335040_n-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/89354887_247652442916392_2399361425253335040_n-1.jpg"
 views: 1106
 ---
 Tato pani ucitelka vytvorila niekolko pracovnych listov na rozne temy z uciva 1.stupna.

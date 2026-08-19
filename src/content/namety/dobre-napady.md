@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "spravca"
 categories: ["0. Materská škola"]
 types: ["CVIKA", "HRA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
 views: 1148
 ---
 Milí priatelia dobrých nápadov,

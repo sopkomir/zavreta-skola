@@ -4,7 +4,7 @@ pubDate: 2020-05-27
 author: "spravca"
 categories: ["1. stupeň"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/drak-koron_malovankovy-pribeh_page-0001-461x652-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/drak-koron_malovankovy-pribeh_page-0001-461x652-1.jpg"
 views: 1069
 ---
 Maľovankový príbeh pre deti o tom, ako môžeme spoločne poraziť draka Korona.

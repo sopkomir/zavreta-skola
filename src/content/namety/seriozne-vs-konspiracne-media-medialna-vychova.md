@@ -4,7 +4,7 @@ pubDate: 2021-01-22
 author: "Lukas"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/diplomat.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/diplomat.png"
 youtubeId: "2KKE6ardXA8"
 views: 1662
 ---

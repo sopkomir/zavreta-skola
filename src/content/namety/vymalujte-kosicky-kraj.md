@@ -4,7 +4,7 @@ pubDate: 2020-04-23
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/A4_MalovanaSkladacka_2-1024x724-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/A4_MalovanaSkladacka_2-1024x724-1.jpg"
 views: 901
 ---
 Dajte nášmu kraju nové farby!

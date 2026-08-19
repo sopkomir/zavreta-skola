@@ -4,7 +4,7 @@ pubDate: 2020-05-26
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/1.png"
 views: 1699
 ---
 Niekoľko dokumentov vhodných pri organizácii školy v prírode, s námetmi využiteľnými i v škole, školskom klube.

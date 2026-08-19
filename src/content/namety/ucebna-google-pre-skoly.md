@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/google_suite.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/google_suite.jpg"
 views: 1492
 ---
 <div class="_2cuy _3dgx _2vxa">Hľadáte spôsob, ako čo najlepšie vytvoriť triedu vo virtuálnom svete? <span class="_5mfr"><span class="_6qdm">🎓</span></span></div>

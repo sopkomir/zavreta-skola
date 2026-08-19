@@ -3,7 +3,7 @@ title: "Sklenená architektúra je pohromou pre migrujúce vtáky"
 pubDate: 2024-04-27
 author: "YRE – Mladí reportéri pre životné prostredie"
 rubrika: ["Reportáže"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2024/04/hany_plast_budovy_1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2024/04/hany_plast_budovy_1.jpg"
 ---
 V medzinárodnej súťaži Mladých reportérov pre životné prostredie  <a href="https://www.yre.global/" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://www.yre.global/&amp;source=gmail&amp;ust=1714284533839000&amp;usg=AOvVaw1Etqw9jxSh1SrrtLZJbhq7">Young reporters for the environment </a> bude v tomto roku- 2024 Slovensko v konkurencii 43 krajín reprezentovať v kategórii stredných škôl celkovo 6 príspevkov – reportážnych článkov, fotografií a videí. Z toho 2 vytvorili študentky bratislavských župných škôl- Strednej odbornej školy pedagogickej na Bullovej a Obchodnej akadémie na Račianskej. Oba majú vzhľadom na svoju jedinečnosť šancu uspieť. Témou tohto ročníka bola Klimatická zmena a študenti mali, tak ako každý rok, nielen identifikovať ekologický problém v súvislosti s témou, ale aj navrhnúť a realizovať jeho riešenie a následne o ňom reportovať. Obom sa to podarilo.
 <p style="font-weight: 400;">Druhým postupujúcim príspevkom je reportážny článok, ktorý odhaľuje zaujímavú súvislosť medzi opatrením na zníženie energetickej náročnosti budov ( sklá potiahnuté kovovou fóliou, ktoré odrážajú svetlo a znižujú tak prehriatie miestností a množstvo energie potrebné na klimatizáciu budov v lete) a úhynom viac ako dvoch miliárd vtákov ročne. Autorka Hanka Noščáková je študentkou Strednej odbornej školy pedagogickej na Bullovej ulici a nazvala ho  Sklenená architektúra je pohromou pre migrujúce vtáky. Zviditeľňuje, ako takéto okná zrkadlia krajinu a že vtáky do nich narážajú nie preto, že sa snažia cez ne preletieť, ale jednoducho preto, že si myslia, že odraz krajiny je jej reálnym pokračovaním. Problém je celosvetový a niektoré krajiny už majú iniciatívy na jeho riešenie, autorka textu dokonca jedno z riešení aj zrealizovala so súhlasom majiteľa budovy, v ktorej v lete robili s deťmi Edukemp.</p>
@@ -29,7 +29,7 @@ Podľa Jambora sa na Slovensku nerealizuje žiadna podobná, cielene organizovan
 
 Pri náleze uhynutého vtáka je možné osloviť priamo Štátnu ochranu prírody SR alebo Slovenskú inšpekciu životného prostredia, ktoré majú kompetencie zjednať nápravu a žiadať od vlastníka sklenenej bariéry ošetrenie polepom. Úspešnejší býva ten prvý prípad, ale ochota a výsledok sa líšia človek od človeka.
 
-<img class="wp-image-8479 size-medium" src="https://www.zavretaskola.sk/wp-content/uploads/2024/04/hany_mrtvy_vtak_0-533x300.jpg" alt="" width="533" height="300" /> Vták, ktorý uhynul po náraze do skla. Foto: Hanka Noščáková
+<img class="wp-image-8479 size-medium" src="https://media.zavretaskola.sk/wp-content/uploads/2024/04/hany_mrtvy_vtak_0-533x300.jpg" alt="" width="533" height="300" /> Vták, ktorý uhynul po náraze do skla. Foto: Hanka Noščáková
 
 &nbsp;
 <div class="content">

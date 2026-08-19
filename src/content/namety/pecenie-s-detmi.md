@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "Zuzabaloghova"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/unnamed-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/unnamed-1.jpg"
 youtubeId: "3pcwpiP6qwE"
 views: 757
 ---

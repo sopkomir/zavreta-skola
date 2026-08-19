@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "Tina Botková"
 categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/unnamed-1.jpg"
 youtubeId: "U3ojEwP8hlw"
 views: 868
 ---

@@ -4,7 +4,7 @@ pubDate: 2022-09-27
 author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/308056774_8447615635278862_4610940731639909398_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/308056774_8447615635278862_4610940731639909398_n.jpg"
 views: 812
 ---
 Autor: Indícia, n.o.

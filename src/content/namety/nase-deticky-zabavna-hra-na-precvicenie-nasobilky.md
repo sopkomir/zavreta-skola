@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Matematika - 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo_x114.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/logo_x114.png"
 views: 1443
 ---
 Malá násobilka býva často pre deti postrachom. Niektoré deti s ňou nemajú žiadny problém, ale sú aj deti, ktoré sa veľmi snažia a stále to nemajú v hlave. Keďže násobilka je vec, ktorá sa vám v živote zíde, stojí za to trošku zabojovať a naučiť sa ju. My vám pravidelne prinášame spôsoby a nápady, ako si to uľahčiť. Veríme, že budú fungovať aj u vás a pre deti už nikdy viac nebude matematika nočnou morou.

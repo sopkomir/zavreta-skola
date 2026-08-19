@@ -4,7 +4,7 @@ pubDate: 2020-11-24
 author: "spravca"
 categories: ["Informatika - SŠ"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/martin-spano-ide.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/martin-spano-ide.jpg"
 views: 956
 ---
 Martin Spano, počítačový vedec a futurista nám všetkým poslal takýto odkaz:

@@ -4,7 +4,7 @@ pubDate: 2024-08-31
 author: spravca
 categories:
   - Matematika - 1. stupeň
-image: https://www.zavretaskola.sk/wp-content/uploads/2020/03/cisla.jpg
+image: https://media.zavretaskola.sk/wp-content/uploads/2020/03/cisla.jpg
 embedHtml: <iframe src="https://www.instagram.com/reel/DG0swV8Jccj/embed"
   width="400" height="700" frameborder="0" scrolling="no"
   allowtransparency="true" style="max-width:100%;"></iframe>

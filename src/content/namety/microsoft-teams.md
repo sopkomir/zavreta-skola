@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/0def208a-2134-4ebd-9ddf-ce9a0af72a0b.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/0def208a-2134-4ebd-9ddf-ce9a0af72a0b.jpg"
 youtubeId: "eb6mhYd9_as"
 views: 1333
 ---

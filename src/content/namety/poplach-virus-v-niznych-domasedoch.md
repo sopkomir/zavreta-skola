@@ -4,7 +4,7 @@ pubDate: 2020-11-08
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/poplach.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/poplach.jpg"
 youtubeId: "kFEfesYLjqM"
 views: 874
 ---

@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "Dana Palatinusova"
 categories: ["Geografia"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/seterra1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/seterra1.jpg"
 views: 1099
 ---
 Ak váš potomok potrebuje zlepšiť svoje znalosti v oblasti zemepisu, môže mu pomôcť súťažné vzdelávacie hra Seterra . Jej súčasťou je niekoľko desiatok interaktívnych kvízov, ktoré preveria a prípadne posilní povedomie v rade zemepisných tém.

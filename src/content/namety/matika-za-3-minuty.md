@@ -4,7 +4,7 @@ pubDate: 2022-05-23
 author: "spravca"
 categories: ["Matematika - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/05/matika3minuty.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/05/matika3minuty.jpg"
 views: 838
 ---
 Matika je život. Na tomto kanáli nájdete riešené maturitné testy z matiky, matematické zábavky každodenného života, hádanky a matematické zaujímavosti. A prípadne aj niečo iné. Myslím si, že človeku nič iné neostáva, než tešiť sa zo života. Matematika, ale aj veda, umenie a vôbec - aktívne používanie mozgu - sú dobrými zdrojmi radostí.

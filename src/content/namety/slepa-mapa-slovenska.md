@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spravca"
 categories: ["Geografia"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/slepa-mapa.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/slepa-mapa.jpg"
 views: 2597
 ---
 <div class="top_right">Slepá mapa je učebná pomôcka pre predmet geografia, ktorá slúži na preverenie a zdokonaľovanie vedomostí o polohe jednotlivých miest Slovenska.</div>

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/79a154acba0f3ebeac6bc1a31853b951_extract1283719121076_resize680383_.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/79a154acba0f3ebeac6bc1a31853b951_extract1283719121076_resize680383_.jpg"
 youtubeId: "g4X7NrKIQFU"
 views: 1399
 ---

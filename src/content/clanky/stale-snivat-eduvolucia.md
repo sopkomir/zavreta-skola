@@ -3,7 +3,7 @@ title: "Stále snívať - EDUvolúcia"
 pubDate: 2021-07-28
 author: "spravca"
 rubrika: ["PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/07/206588272_2879474528962158_2651296203834272744_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/07/206588272_2879474528962158_2651296203834272744_n.jpg"
 youtubeId: "zHpWqpD2QSE"
 ---
 Nedajte sa odradiť ľuďmi, čo vás presviedčajú, že sa niečo nedá. Neverte ľuďom, ktorí vám hovoria, že nemôžete nič zmeniť. Nedajte sa zaplniť horkosťou z neúspechu, zastaviť prekážkou a cúvnuť pred výsmechom.

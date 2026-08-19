@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/drama.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/drama.jpg"
 youtubeId: "B_M3dOBZzu4"
 views: 944
 ---

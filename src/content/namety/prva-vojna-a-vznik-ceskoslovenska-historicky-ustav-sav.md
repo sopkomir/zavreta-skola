@@ -4,7 +4,7 @@ pubDate: 2020-04-09
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/hlavicka-husav-vlajka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/hlavicka-husav-vlajka.jpg"
 youtubeId: "ZCTP23GJnzU"
 views: 784
 ---

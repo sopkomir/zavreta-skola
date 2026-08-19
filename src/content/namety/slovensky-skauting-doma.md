@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Školský klub detí"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/skauting-novinka-vpm-uspech-dzungle-696x464-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/skauting-novinka-vpm-uspech-dzungle-696x464-1.jpg"
 views: 824
 ---
 <h4><strong>V rámci kampane Skautujem doma dnes prinášame skvelú možnosť najmä pre rodičov našich mladších členov – vĺčatá a včielky (7 – 11 rokov). Už niekoľko mesiacov majú možnosť plniť si v družine voľný programový modul Úspech džungle. Dnes si môžete stiahnuť jeho elektronickú verziu a plniť ju aj doma.</strong></h4>

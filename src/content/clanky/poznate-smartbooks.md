@@ -3,7 +3,7 @@ title: "Poznáte Smartbooks?"
 pubDate: 2022-11-11
 author: "spravca"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/11/smartbooks.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/11/smartbooks.jpg"
 ---
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
 <div dir="auto">Často počúvam o tom, ako by sa mali rodičia viac venovať svojim deťom, aby zvládali dnešnú školu. Úlohy, cvičenia, projekty... je toho skrátka veľa. Dospeláci ale nemajú energiu a čas to zvládnuť, moderná doba a technológie ich naplno vyťažujú a domov chodia poriadne vyšťavení. Potrebujú inteligentného pomocníka, ktorý pomôže deťom precvičovať a zdokonaľovať sa v zručnostiach a upevňovať vedomosti, ktoré sa im v budúcnosti zídu.</div>

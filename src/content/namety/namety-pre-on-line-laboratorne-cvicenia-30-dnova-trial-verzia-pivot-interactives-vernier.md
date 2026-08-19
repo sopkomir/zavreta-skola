@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "spisakov"
 categories: ["Fyzika - SŠ"]
 types: ["APPKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/product.piv-cl._hero.001-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/product.piv-cl._hero.001-1.jpg"
 views: 1397
 ---
 Perfektné prostredie pre online laboratórne merania z FYZ a CHE. Niektoré videá sú už pripravené, dajú sa pridať svoje vlastné videá. Vhodné na PC, tablety, telefóny. 

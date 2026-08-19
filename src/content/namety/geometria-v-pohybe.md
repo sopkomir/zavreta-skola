@@ -4,7 +4,7 @@ pubDate: 2020-05-20
 author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/vysky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/vysky.jpg"
 youtubeId: "rQ63Oh-j6Bg"
 views: 1543
 ---

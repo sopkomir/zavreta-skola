@@ -4,7 +4,7 @@ pubDate: 2020-04-16
 author: "Silvia"
 categories: ["Prvouka a prírodoveda"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/logo-napady-1170x431-1.jpg"
 views: 882
 ---
 Krásna aktivita pre rodinu s dieťaťom od 8 rokov. Pokus vhodný pre prírodovedu na prvom stupni.

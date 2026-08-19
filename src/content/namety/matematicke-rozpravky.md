@@ -4,7 +4,7 @@ pubDate: 2020-03-31
 author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mr3.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/mr3.jpg"
 views: 1963
 ---
 &nbsp;

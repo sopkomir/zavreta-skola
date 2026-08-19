@@ -4,7 +4,7 @@ pubDate: 2020-04-15
 author: "MichalSivak"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/romske_rozpravky16-768x544-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/romske_rozpravky16-768x544-1.jpg"
 youtubeId: "LuNXjgFIq7o"
 views: 4633
 ---

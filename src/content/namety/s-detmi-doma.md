@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Školský klub detí"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/d44d7b12-0eba-481b-9179-bb88a5136a63.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/d44d7b12-0eba-481b-9179-bb88a5136a63.jpg"
 views: 885
 ---
 <span dir="ltr"><span class="_3l3x">Tipy na tvorenie

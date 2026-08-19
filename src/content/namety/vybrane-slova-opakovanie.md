@@ -4,7 +4,7 @@ pubDate: 2022-09-11
 author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["APPKA", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/vybrane-slova.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/vybrane-slova.jpg"
 wordwallEmbed: "https://wordwall.net/embed/7e68556d71494655b8759527f71d170f"
 views: 746
 ---

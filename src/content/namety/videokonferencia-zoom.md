@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Dana Palatinusova"
 categories: ["Technická podpora pre učiteľov"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/zoom-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/zoom-1.jpg"
 youtubeId: "nIvMg63WdmU"
 views: 1303
 ---

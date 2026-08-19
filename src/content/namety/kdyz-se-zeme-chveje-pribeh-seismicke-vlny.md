@@ -4,7 +4,7 @@ pubDate: 2022-11-07
 author: "spravca"
 categories: ["Geografia"]
 types: ["HRA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/komiks-obalka-web.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/komiks-obalka-web.jpg"
 views: 594
 ---
 Autor: Karolina Kučerová a Geofyzikální ústav AV ČR

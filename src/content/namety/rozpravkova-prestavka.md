@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "caroslovnik"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/banner_002.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/banner_002.jpg"
 views: 806
 ---
 Darček pre všetkých, čo usilovne sedia doma :)

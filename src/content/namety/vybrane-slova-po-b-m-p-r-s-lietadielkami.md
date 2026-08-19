@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/lietadielka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/lietadielka.jpg"
 wordwallEmbed: "https://wordwall.net/embed/dd4adb759b5f46d6847e89de919734e7"
 views: 1029
 ---

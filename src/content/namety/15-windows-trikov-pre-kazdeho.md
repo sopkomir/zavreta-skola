@@ -4,7 +4,7 @@ pubDate: 2020-10-31
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/informatika_s_misom.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/informatika_s_misom.png"
 youtubeId: "WGcQNb1wJkE"
 views: 945
 ---

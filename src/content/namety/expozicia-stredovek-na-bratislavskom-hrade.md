@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Dejepis"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/dej.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/dej.jpg"
 youtubeId: "nraC63Tvxg0"
 views: 889
 ---

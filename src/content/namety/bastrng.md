@@ -4,7 +4,7 @@ pubDate: 2020-03-22
 author: "Lucia Rosáková"
 categories: ["2. stupeň"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/bastrng-tip.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/bastrng-tip.jpg"
 views: 978
 ---
 <span style="font-weight: 400;">Baštrng je autorský projekt Michala Kubovčíka, ktorý v spolupráci s režisérom Karolom Vosátkom a hudobným skladateľom Jurajom Haškom ponúkajú svojský pohľad na vybrané témy učiva.</span>

@@ -4,7 +4,7 @@ pubDate: 2021-01-11
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/enviro.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/enviro.jpg"
 views: 1209
 ---
 Slovenská agentúra životného prostredia vyhlasuje 5. kolo fotografickej súťaže detí a tínedžerov Envirospektrum na tému Kráčaj udržateľne!

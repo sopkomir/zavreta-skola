@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/cviky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/cviky.jpg"
 views: 1545
 ---
 8 cvikov s palicou na tuhé ramená, aby sa deti nehrbili. Kompenzácia vysedávania pred počítačom a mobilom.

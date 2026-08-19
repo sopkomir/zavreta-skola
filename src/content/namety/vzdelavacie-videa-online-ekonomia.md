@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Miroslav Sopko"
 categories: ["Ekonomika"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/definicia-ekonomiky-1-676x391-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/definicia-ekonomiky-1-676x391-1.jpg"
 views: 1192
 ---
 Katalóg vzdelávacích videí: vzdelávacie videá online a zadarmo z rôznych oblastí. V katalógu sa nachádzajú len slovenské a české učebné videá vhodné pri príprave na maturitu či skúšky alebo testy.

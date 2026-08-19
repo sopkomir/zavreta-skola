@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vudp1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vudp1.jpg"
 views: 937
 ---
 Výskumný ústav detskej psychológie a patopsychológie pomáha pri domácom vzdelávaní.

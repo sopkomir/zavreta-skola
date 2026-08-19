@@ -4,7 +4,7 @@ pubDate: 2021-08-09
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/193614242_101475152159183_284892225352834339_n.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/193614242_101475152159183_284892225352834339_n.png"
 views: 1004
 ---
 Stránka uceniehrou.sk ponúka skvelé výukové svety pre Minecraft: Education Edition a Minecraft Bedrock (Win10/Android/iOS/XBOX/PS4)

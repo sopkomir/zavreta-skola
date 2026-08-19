@@ -4,7 +4,7 @@ pubDate: 2020-04-28
 author: "Silvia"
 categories: ["Matematika - 2. stupeň"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/geometria.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/geometria.jpg"
 views: 969
 ---
 Výukové videá pre siedmakov z konštrukčnej geometrie. Rysovanie trojuholníkov podľa viet sss, sus, usu či výšok a ťažníc.

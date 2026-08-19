@@ -4,7 +4,7 @@ pubDate: 2020-06-02
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Dobrú-noc-má-milá.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/Dobrú-noc-má-milá.jpg"
 views: 1324
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

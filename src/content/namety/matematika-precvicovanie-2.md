@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Matematika - 2. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/mat22.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/mat22.jpg"
 views: 951
 ---
 Matematika je rozdelená tematicky do kapitol. Každá kapitola (blok) má rozdelenie pomocou tlačidiel, na ktorých je uvedený typ príkladeu doplnený farebným geometrickým znakom pre jednoduchšie vyhľadávanie pre toho, komu príklady zadávate. Pokiaľ si na tlačidlo s príkladom nabehnete myšou, zobrazí sa vám popis - teda napríklad, či ide o sčítaní do desať, alebo s prechodom cez desiatku a podobne. K celkovej orientácii môže napomôcť mapa stránok, v ktorej sú pomenovaná všetky cvičenia každého bloku.

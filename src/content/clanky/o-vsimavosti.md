@@ -3,7 +3,7 @@ title: "O všímavosti"
 pubDate: 2020-06-02
 author: "spravca"
 rubrika: ["Inšpirácia", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorkov.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorkov.jpg"
 ---
 <p>Keď sme sa so žiakmi pridali medzi mladých reportérov, netušili sme celkom presne, čo nám to prinesie. Výzvou pre nás, odhodlaných zmeniť svet na trošku lepšie miesto pre nás všetkých, bolo identifikovať ekoproblém v&nbsp;našej blízkosti a&nbsp;pokúsiť sa ho zmeniť. Nakoniec sa ukázalo, že jeden z&nbsp;najväčších problémov je v&nbsp;skutočnosti na očiach doslova každému, kto používa v&nbsp;Bratislave MHD.</p>
 
@@ -17,7 +17,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorko
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/20200304_164512-1170x658.jpg" alt="" class="wp-image-6137"/><figcaption>Denne okolo nich prechádzajú stovky ľudí. Ale všímať si ich začali, až keď ich žiaci CZŠ označili farebnými zastávkami na jednohubky.<br>( fotografia: Leo Klein, zastávka MHD Budatínska, Bratislava)</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/20200304_164512-1170x658.jpg" alt="" class="wp-image-6137"/><figcaption>Denne okolo nich prechádzajú stovky ľudí. Ale všímať si ich začali, až keď ich žiaci CZŠ označili farebnými zastávkami na jednohubky.<br>( fotografia: Leo Klein, zastávka MHD Budatínska, Bratislava)</figcaption></figure>
 
 
 
@@ -45,7 +45,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorko
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyluhovane-1170x658.jpg" alt="" class="wp-image-6138"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/vyluhovane-1170x658.jpg" alt="" class="wp-image-6138"/></figure>
 
 
 
@@ -65,7 +65,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorko
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/ohorky-za-zastávkou-MHD-1170x658.jpg" alt="" class="wp-image-6139"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/ohorky-za-zastávkou-MHD-1170x658.jpg" alt="" class="wp-image-6139"/></figure>
 
 
 
@@ -85,7 +85,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorko
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorkov.jpg" alt="" class="wp-image-6140"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/vyznacenie-ohorkov.jpg" alt="" class="wp-image-6140"/></figure>
 
 
 

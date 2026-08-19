@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/pokusy2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/pokusy2.jpg"
 views: 833
 ---
 Aj veda môže byť zábava - zaujímavé videá s rôznymi pokusmi na Stream.cz

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Biológia"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/KPR.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/KPR.jpg"
 youtubeId: "dh3QpBszxh0"
 views: 1254
 ---

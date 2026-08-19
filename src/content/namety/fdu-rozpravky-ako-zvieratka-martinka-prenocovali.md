@@ -4,7 +4,7 @@ pubDate: 2020-04-15
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/008-5.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/008-5.jpg"
 views: 797
 ---
 Dnes našich najmenších, ale aj tých starších, poteší rozprávka z Javorovej doliny :)

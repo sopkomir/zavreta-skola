@@ -4,7 +4,7 @@ pubDate: 2021-05-02
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/mi.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/mi.png"
 youtubeId: "COg2ZWzzduI"
 views: 1442
 ---

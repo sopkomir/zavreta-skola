@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/body.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/body.jpg"
 wordwallEmbed: "https://wordwall.net/embed/ec4a369879fb454dacd92a392e3bcff5"
 views: 804
 ---

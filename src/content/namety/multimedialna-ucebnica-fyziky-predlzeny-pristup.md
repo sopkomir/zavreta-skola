@@ -4,7 +4,7 @@ pubDate: 2020-05-06
 author: "Peter Benkovic"
 categories: ["Fyzika"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/bannery_MUF_bezplatne_PREDLZENE_fb_insta.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/bannery_MUF_bezplatne_PREDLZENE_fb_insta.png"
 views: 2463
 ---
 Pre veľký záujem predlžujeme dátum používania online multimediálnej učebnice fyziky pre ZŠ, SŠ a gymnáziá bezplatne do 15.5.2020!

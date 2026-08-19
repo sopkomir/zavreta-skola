@@ -4,7 +4,7 @@ pubDate: 2023-05-23
 author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/jankafialka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/jankafialka.jpg"
 views: 1231
 ---
 Stránky Mgr. Jany Fialovej slúži k tomu, aby si tu ukladala svoje diela z oblasti matematiky a vytvárania interaktívnych webové aplikácií. Je Je tu aj uvedený prehľad publikácií spred obdobia vytvorenia týchto webových stránok na ktorých sa podieľala.

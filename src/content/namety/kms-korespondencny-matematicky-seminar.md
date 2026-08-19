@@ -4,7 +4,7 @@ pubDate: 2022-09-10
 author: "spravca"
 categories: ["Matematika - SŠ"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/kms.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/kms.jpg"
 views: 620
 ---
 <h2>Čo je KMS?</h2>

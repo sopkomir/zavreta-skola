@@ -4,7 +4,7 @@ pubDate: 2022-09-24
 author: "spravca"
 categories: ["Geografia"]
 types: ["APPKA", "AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/EoSS.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/EoSS.jpg"
 youtubeId: "QRTfKYOfPLg"
 views: 651
 ---

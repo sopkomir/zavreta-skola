@@ -4,7 +4,7 @@ pubDate: 2021-03-17
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/vlastne-mena.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/03/vlastne-mena.jpg"
 wordwallEmbed: "https://wordwall.net/embed/44bcd57cf1af410fb3626a2d08ea2aab"
 views: 1045
 ---

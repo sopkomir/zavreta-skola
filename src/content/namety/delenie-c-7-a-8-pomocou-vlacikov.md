@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/delenie02.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/delenie02.jpg"
 wordwallEmbed: "https://wordwall.net/embed/ca9ce10012044acaa9ed5bc552b9695d"
 views: 1139
 ---

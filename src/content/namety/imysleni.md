@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/imysleni1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/imysleni1.jpg"
 views: 1025
 ---
 Informatické myslenie pomáha deťom pripraviť sa na budúcnosť

@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/image-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/image-1.jpg"
 views: 909
 ---
 29 námetov ako zabiť nudu

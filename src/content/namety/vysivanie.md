@@ -4,7 +4,7 @@ pubDate: 2020-04-17
 author: "Silvia"
 categories: ["Technická výchova"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/vysivka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/vysivka.jpg"
 views: 907
 ---
 Vyšívanie krížikmi 

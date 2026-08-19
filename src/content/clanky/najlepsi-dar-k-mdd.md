@@ -3,7 +3,7 @@ title: "Najlepší dar k MDD"
 pubDate: 2020-06-01
 author: "spravca"
 rubrika: ["Inšpirácia", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-luka-Narnia.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-luka-Narnia.jpg"
 ---
 <p><em>Poslala mi Ľubica Noščáková a s radosťou zverejňujem</em> :)</p>
 
@@ -33,7 +33,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/motylia-luka-prvy-rok01-1170x569.jpg" alt="" class="wp-image-6107"/><figcaption>Kvitnúca motýlia lúka po jarnej výsadbe uprostred sídliska. Mala nedostatok vlahy a bola osiata na suťovisku, no aj tak dokázala rozkvitnúť a&nbsp;ožila ( titulná foto: Izabela Beganová)</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/motylia-luka-prvy-rok01-1170x569.jpg" alt="" class="wp-image-6107"/><figcaption>Kvitnúca motýlia lúka po jarnej výsadbe uprostred sídliska. Mala nedostatok vlahy a bola osiata na suťovisku, no aj tak dokázala rozkvitnúť a&nbsp;ožila ( titulná foto: Izabela Beganová)</figcaption></figure>
 
 
 
@@ -73,7 +73,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/motylia-luka-prvy-rok03-1170x569.jpg" alt="" class="wp-image-6108"/><figcaption>Foto: Izabela Beganová</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/motylia-luka-prvy-rok03-1170x569.jpg" alt="" class="wp-image-6108"/><figcaption>Foto: Izabela Beganová</figcaption></figure>
 
 
 
@@ -81,7 +81,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-luka-Narnia.jpg" alt="" class="wp-image-6109"/><figcaption>Divadlo Záhrada svetla a&nbsp;následné vzdelávacie aktivity s&nbsp;odborníkmi na motýlie lúky z&nbsp;BROZ. Fotografia- Soňa Poprocká, pedagóg</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-luka-Narnia.jpg" alt="" class="wp-image-6109"/><figcaption>Divadlo Záhrada svetla a&nbsp;následné vzdelávacie aktivity s&nbsp;odborníkmi na motýlie lúky z&nbsp;BROZ. Fotografia- Soňa Poprocká, pedagóg</figcaption></figure>
 
 
 
@@ -89,7 +89,7 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-
 
 
 
-<figure class="wp-block-image size-large"><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/hmyzi-domcek-staviame-1170x658.jpg" alt="" class="wp-image-6110"/><figcaption>Foto (archív reportérok) : Počas spoločnej brigády deti s&nbsp;odborníčkou z&nbsp;Daphne, Monikou Chrenkovou , stavajú domčeky pre hmyz</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/hmyzi-domcek-staviame-1170x658.jpg" alt="" class="wp-image-6110"/><figcaption>Foto (archív reportérok) : Počas spoločnej brigády deti s&nbsp;odborníčkou z&nbsp;Daphne, Monikou Chrenkovou , stavajú domčeky pre hmyz</figcaption></figure>
 
 
 
@@ -105,4 +105,4 @@ image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/klimovo-workshop-
 
 
 
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka03-1170x658.jpg" alt="" data-id="6119" data-full-url="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka03.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6119" class="wp-image-6119"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka04-1170x658.jpg" alt="" data-id="6120" data-full-url="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka04.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6120" class="wp-image-6120"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka05-1170x658.jpg" alt="" data-id="6121" data-full-url="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka05.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6121" class="wp-image-6121"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka-01-1170x658.jpg" alt="" data-id="6122" data-full-url="https://www.zavretaskola.sk/wp-content/uploads/2020/06/luka-01.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6122" class="wp-image-6122"/></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka03-1170x658.jpg" alt="" data-id="6119" data-full-url="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka03.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6119" class="wp-image-6119"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka04-1170x658.jpg" alt="" data-id="6120" data-full-url="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka04.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6120" class="wp-image-6120"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka05-1170x658.jpg" alt="" data-id="6121" data-full-url="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka05.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6121" class="wp-image-6121"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka-01-1170x658.jpg" alt="" data-id="6122" data-full-url="https://media.zavretaskola.sk/wp-content/uploads/2020/06/luka-01.jpg" data-link="https://www.zavretaskola.sk/?attachment_id=6122" class="wp-image-6122"/></figure></li></ul></figure>

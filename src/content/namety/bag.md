@@ -4,7 +4,7 @@ pubDate: 2020-03-20
 author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89214235_10221976203256931_8853878152158511104_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/89214235_10221976203256931_8853878152158511104_n.jpg"
 views: 1260
 youtubeId: "kbA1YDXBtnM"
 ---

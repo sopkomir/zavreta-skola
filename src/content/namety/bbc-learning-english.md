@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Anglický jazyk - SŠ"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/p07lsjz1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/p07lsjz1.jpg"
 views: 1044
 ---
 Ak si chcete zlepšiť angličtinu, tu nájdete kopu vecí zadarmo:

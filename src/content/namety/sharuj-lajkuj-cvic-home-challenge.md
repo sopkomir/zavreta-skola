@@ -4,7 +4,7 @@ pubDate: 2021-01-29
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/home_challenge.jpeg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/home_challenge.jpeg"
 views: 650
 ---
 IUVENTA – Slovenský inštitút mládeže prináša 10-dielny videoseriál pre žiakov, študentov, ale aj rodičov, ktorí si chcú rozhýbať telo po čase strávenom za počítačom.

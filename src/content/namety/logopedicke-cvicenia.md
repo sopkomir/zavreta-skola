@@ -4,7 +4,7 @@ pubDate: 2020-04-02
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/logopedia.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/logopedia.jpg"
 views: 3594
 ---
 Aplikácia, ktorá vám pomôže s nácvikom správnej výslovnosti.

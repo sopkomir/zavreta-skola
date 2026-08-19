@@ -3,7 +3,7 @@ title: "Súťaž v tvorbe FLIPBOOKOV- Doma s BIBIANOU"
 pubDate: 2020-04-28
 author: "spravca"
 rubrika: ["Novinky", "PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/flipbooky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/flipbooky.jpg"
 ---
 <p><strong>Milé deti, školáci a teenageri,<br>zabavte sa vo voľnom čase a zapojte do našich súťaži, ktoré sme pripravili spoločne s Bratislava Tourist Board.</strong></p>
 

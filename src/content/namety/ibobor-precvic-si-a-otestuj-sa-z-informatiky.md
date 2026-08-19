@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/senior.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/senior.jpg"
 views: 1689
 ---
 &nbsp;

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Anglický jazyk - SŠ"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Snímka-obrazovky-2020-03-23-o-20.59.14.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Snímka-obrazovky-2020-03-23-o-20.59.14.png"
 views: 1145
 ---
 <p class="font_7"><span class="color_11">Vzhľadom na vývoj situácie sa vydavateľstvo Počuj rozhodlo sprístupniť všetkým  študentom a rodičom učebnicu formou streamu bezplatne.</span></p>

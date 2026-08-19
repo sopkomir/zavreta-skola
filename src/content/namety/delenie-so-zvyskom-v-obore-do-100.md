@@ -4,7 +4,7 @@ pubDate: 2021-03-16
 author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/zvysok.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/03/zvysok.jpg"
 wordwallEmbed: "https://wordwall.net/embed/6ea42610eb6340c5b2cd7b607529b850"
 views: 1285
 ---

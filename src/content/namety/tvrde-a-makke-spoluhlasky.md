@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/tvrde_makke_spoluhlasky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/tvrde_makke_spoluhlasky.jpg"
 views: 1288
 wordwallEmbed: "https://wordwall.net/sk/embed/ac0795dd942443dbeada5d31d5a0fa0?themeId=21&templateId=69&fontStackId=0"
 ---

@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/zaokruhli.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/zaokruhli.jpg"
 wordwallEmbed: "https://wordwall.net/embed/5a24309e3ba842fdb6f21db7c8ee53ff"
 views: 2101
 ---

@@ -4,7 +4,7 @@ pubDate: 2021-03-16
 author: "Fialka"
 categories: ["Prvouka a prírodoveda"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/03/traviaca-sustava.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/03/traviaca-sustava.jpg"
 wordwallEmbed: "https://wordwall.net/embed/aac971583ac5437ba886b9ba757167e0"
 views: 2386
 ---

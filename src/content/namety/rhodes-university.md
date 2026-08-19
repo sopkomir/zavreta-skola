@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Prvouka a prírodoveda"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť-2.jpg"
 views: 676
 ---
 <div class="_6c7i">

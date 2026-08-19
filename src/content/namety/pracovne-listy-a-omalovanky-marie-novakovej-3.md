@@ -4,7 +4,7 @@ pubDate: 2020-04-08
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Moja-prva-matematika-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Moja-prva-matematika-1.jpg"
 views: 2465
 ---
 Veľkonočný pozdrav pre "starkých", grafomotorika, tvary, počítanie, majstrovanie do izbičky ....

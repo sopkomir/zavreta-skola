@@ -4,7 +4,7 @@ pubDate: 2023-09-28
 author: "spravca"
 categories: ["Fyzika", "Informatika - 2. stupeň ZŠ", "Matematika - 2. stupeň"]
 types: ["APPKA", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/physics.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/physics.png"
 views: 1967
 ---
 Vynikajúci osobný vzdelávací web učiteľa fyziky a informatiky s množstvo aplikácií, návodov, testov - rozhodne odporúčam zbierku applets Fyzika ve škole, dostupných aj v html5 a v rôznych jazykoch.

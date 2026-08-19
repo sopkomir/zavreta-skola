@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/khanova-skola1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/khanova-skola1.jpg"
 views: 997
 ---
 Khanová škola je vzdelávací portál pre deti i dospelých. Jeho jadro tvoria výukové videá Khan Academy, ktoré sú preložené alebo otitulkované a vložené do premyslených nadväzností tak, aby ste si mohli užiť súvislú výučbu od úplných základov až po komplexné odborné znalosti. Všetko zadarmo a z pohodlia vašich domovov.

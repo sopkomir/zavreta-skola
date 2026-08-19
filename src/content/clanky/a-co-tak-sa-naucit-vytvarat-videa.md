@@ -3,7 +3,7 @@ title: "A čo tak sa naučiť vytvárať videá?"
 pubDate: 2020-04-09
 author: "spravca"
 rubrika: ["COVID-19", "IT", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/tvorba_videi.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/tvorba_videi.png"
 ---
 <p><a rel="noreferrer noopener" href="http://www.zmudri.sk" target="_blank">Zmudri.sk</a> pripravilo bezplatný návod ako si vyrobiť vlastné video pre svojich žiakov. </p>
 

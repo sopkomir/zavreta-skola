@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Miroslav Sopko"
 categories: ["3. Stredná škola"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/divadlo_lab.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/divadlo_lab.png"
 views: 860
 ---
 Počas nasledujúceho týždňa budú pre vás naši herci čítať vybranú povinnú literatúru. Čítanie bude prebiehať online na instagrame Divadla Lab. Sledovať ho môžete naživo alebo neskôr v zázname - na IGTV.

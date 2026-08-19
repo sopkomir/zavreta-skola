@@ -4,7 +4,7 @@ pubDate: 2020-04-10
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/anj.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/anj.jpg"
 views: 912
 ---
 Ak chcete nudiaceho sa školáka zdokonaliť v angličtine, potom určite stojí za vyskúšanie YouTube kanál nadšeného učiteľa z Brna Bronislava Sobotku .

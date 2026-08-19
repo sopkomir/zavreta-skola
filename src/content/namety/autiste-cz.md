@@ -4,7 +4,7 @@ pubDate: 2020-04-12
 author: "Dana Palatinusova"
 categories: ["Deti s PAS"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/autiste.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/autiste.jpg"
 views: 1097
 ---
 Online cvičenia a hry (nielen) pre autistov.

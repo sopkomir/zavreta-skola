@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["0. Materská škola"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ms-e1584770698130.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/ms-e1584770698130.jpg"
 views: 1297
 ---
 Ahojte, v nasledujúcom príspevku som sa zamerala na oblasť Porovnávania s deťmi v MŠ<span class="_5mfr"><span class="_6qdm">🧚</span></span><span class="_5mfr"><span class="_6qdm">🧜</span></span><span class="_5mfr"><span class="_6qdm">🦸</span></span><span class="_5mfr"><span class="_6qdm">🧞</span></span>. K aktivitám som vytvorila aj krátke sprievodné video<span class="_5mfr"><span class="_6qdm">🎀</span></span><span class="_5mfr"><span class="_6qdm">🎀</span></span><span class="_5mfr"><span class="_6qdm">🎀</span></span>. Aktivity sú <span class="text_exposed_show">v tomto príspevku rozdelené do rôznych typov úloh (od U1-U5) a je len na Vás, ktoré sa rozhodnete realizovať, alebo čo si k aktivitám doplníte <span class="_5mfr"><span class="_6qdm">🌼</span></span><span class="_5mfr"><span class="_6qdm">🌼</span></span><span class="_5mfr"><span class="_6qdm">🌼</span></span>.</span>

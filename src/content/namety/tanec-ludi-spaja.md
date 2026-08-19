@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "spravca"
 categories: ["0. Materská škola", "1. stupeň"]
 types: ["AUDIO/VIDEO", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/fotografia-1-1024x722-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/fotografia-1-1024x722-1.jpg"
 youtubeId: "Xfn-7VwD35o"
 views: 1040
 ---

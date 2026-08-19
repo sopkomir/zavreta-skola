@@ -4,7 +4,7 @@ pubDate: 2022-09-11
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["APPKA", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/priprava_prijimacky_9.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/priprava_prijimacky_9.jpg"
 wordwallEmbed: "https://wordwall.net/embed/23234b10dec54f1faf324dac8c2ab52d"
 views: 802
 ---

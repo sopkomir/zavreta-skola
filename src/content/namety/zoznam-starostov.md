@@ -4,7 +4,7 @@ pubDate: 2021-06-02
 author: "spravca"
 categories: ["Občianska náuka"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/06/zoznam-starostov.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/06/zoznam-starostov.jpg"
 views: 895
 ---
 Vizualizáciu aktuálnych starostov na mape, podľa dát ŠÚ SR od Lukáša Jankoviča

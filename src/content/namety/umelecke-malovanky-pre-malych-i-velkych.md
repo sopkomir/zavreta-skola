@@ -4,7 +4,7 @@ pubDate: 2021-01-17
 author: "spravca"
 categories: ["Umenie a kultúra"]
 types: ["CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/malovanka_google.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/malovanka_google.jpg"
 views: 1012
 ---
 Vyfarbite si svoje predstavy cez palety slávnych obrazov. Projekt Google Arts &amp; Culture Lab.

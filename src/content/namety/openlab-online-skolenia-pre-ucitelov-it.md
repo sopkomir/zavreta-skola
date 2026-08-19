@@ -4,7 +4,7 @@ pubDate: 2020-10-31
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/openlab-logo.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/openlab-logo.png"
 views: 712
 ---
 Milí učitelia IT 🧑‍💻👩‍💻

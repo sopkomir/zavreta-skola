@@ -4,7 +4,7 @@ pubDate: 2020-05-26
 author: "michalchoma"
 categories: ["Fyzika"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Ls6GKw3fOr6.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/Ls6GKw3fOr6.png"
 views: 929
 ---
 Facebooková skupina pre zdieľanie pokusov na doma.

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/BE_FT_DOLEZITE_VECI_EN.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/BE_FT_DOLEZITE_VECI_EN.jpg"
 views: 939
 ---
 Preklad fráz z angličtiny do slovenčiny - nasadiť chrobáka so hlavy, nie tak zhurta, silný ako býk....

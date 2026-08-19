@@ -4,7 +4,7 @@ pubDate: 2020-06-03
 author: "spravca"
 categories: ["Telesná výchova - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/hybsadoma-850px.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/hybsadoma-850px.png"
 views: 1030
 ---
 <strong>Čo je hýbsadoma! ?</strong>

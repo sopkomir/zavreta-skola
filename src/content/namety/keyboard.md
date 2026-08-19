@@ -4,7 +4,7 @@ pubDate: 2020-03-21
 author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/thumb-l-tomas-koppl-dsc4149.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/thumb-l-tomas-koppl-dsc4149.jpg"
 views: 1236
 ---
 Ak by ste sa v čase voľna chceli venovať klavíru, prípadne hudobnej teórii. Môžej aj cez Skype. <span class="_5mfr"><span class="_6qdm">🎹</span></span>

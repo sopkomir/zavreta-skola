@@ -3,7 +3,7 @@ title: "Romane Paramisa"
 pubDate: 2020-03-13
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/02/89436287_106105074354818_7610779063233282048_n-e1584421614597.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/02/89436287_106105074354818_7610779063233282048_n-e1584421614597.jpg"
 youtubeId: "uPIU8zVif8E"
 ---
 <p>Námet od Michala Siváka.</p>

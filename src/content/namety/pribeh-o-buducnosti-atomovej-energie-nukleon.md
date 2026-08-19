@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["Fyzika"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/nukleon.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/nukleon.jpg"
 views: 917
 ---
 Projekt "Príbeh o budúcnosti atómovej energie - nukleón" vznikol preto, aby priniesol na jednom mieste čo najviac informácií o atómu. 

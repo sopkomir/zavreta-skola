@@ -4,7 +4,7 @@ pubDate: 2021-08-18
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/lengyelova_thurzovci_cover.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/lengyelova_thurzovci_cover.jpg"
 views: 835
 ---
 autori: Tünde Lengyelová a kol.

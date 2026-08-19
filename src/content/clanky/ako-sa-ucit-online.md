@@ -3,7 +3,7 @@ title: "AKO SA UČIŤ ONLINE?"
 pubDate: 2020-04-26
 author: "spravca"
 rubrika: ["COVID-19", "Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Snímka-obrazovky-2020-04-26-o-19.25.04.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Snímka-obrazovky-2020-04-26-o-19.25.04.png"
 youtubeId: "0l_tG2-AZgY"
 ---
 <p><a href="https://zmudri.sk/" target="_blank" rel="noreferrer noopener">Zmudri.sk </a>pre vás pripravilo ďalšie zaujímavé video, nielen pre mladších, ale aj pre nás zrelších, aby sme sa stali pri učení efektívnejšími :)</p>

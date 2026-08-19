@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Jozef Zvolensky"
 categories: ["Technická výchova"]
 types: ["AUDIO/VIDEO", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/park-scaled.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/park-scaled.jpg"
 youtubeId: "BoDqiHYqBvI"
 views: 843
 ---

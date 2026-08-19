@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/aitec-videa.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/aitec-videa.jpg"
 views: 1094
 ---
 Sledujte a odberajte náš YouTube kanál - aitec.online

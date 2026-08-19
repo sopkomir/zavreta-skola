@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/yoga-feature-862x450-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/yoga-feature-862x450-1.jpg"
 views: 793
 ---
 Jóga, angličtina a zábava dokopy, vrelo odporúčame.

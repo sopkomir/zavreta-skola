@@ -4,7 +4,7 @@ pubDate: 2021-01-17
 author: "spravca"
 categories: ["Deti s ADD/ADHD"]
 types: ["APPKA", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/MATH_SUBTRACTION.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/MATH_SUBTRACTION.jpg"
 views: 961
 ---
 Sčítaním bodov zostreľte debny padajúce z neba.

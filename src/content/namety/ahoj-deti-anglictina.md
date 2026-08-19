@@ -4,7 +4,7 @@ pubDate: 2020-03-29
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň", "Anglický jazyk - 2- stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ahoj-zoznamy.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/ahoj-zoznamy.jpg"
 views: 1053
 ---
 English for kids:

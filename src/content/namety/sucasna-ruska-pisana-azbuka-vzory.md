@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "spravca"
 categories: ["Ruský jazyk"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/full_faVdYx9C.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/full_faVdYx9C.jpg"
 views: 3181
 ---
 Vzory - predpis správneho písania ruskej azbuky (abecedy) - SKRÁTENÉ.

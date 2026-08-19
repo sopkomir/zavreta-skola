@@ -4,7 +4,7 @@ pubDate: 2020-04-20
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ako-rozpravka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/ako-rozpravka.jpg"
 views: 1201
 ---
 Dnes čítame z knižky:

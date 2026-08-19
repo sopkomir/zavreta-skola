@@ -4,7 +4,7 @@ pubDate: 2020-03-28
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/valka.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/valka.png"
 views: 845
 ---
 <span class="notranslate">Predstavujeme vám špeciálne vydanie National Geographic venované dejinám najväčšieho svetového vojnového konfliktu.</span>

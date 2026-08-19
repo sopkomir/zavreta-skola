@@ -4,7 +4,7 @@ pubDate: 2021-02-02
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["APPKA", "CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/lw1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/02/lw1.jpg"
 views: 1460
 ---
 Potrebujete rýchlo a efektívne vytvoriť PL? 

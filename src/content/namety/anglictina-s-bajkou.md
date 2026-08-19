@@ -4,7 +4,7 @@ pubDate: 2020-04-06
 author: "Anna Jancova"
 categories: ["3. Stredná škola"]
 types: ["AUDIO/VIDEO", "CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/bajka-en.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/bajka-en.jpg"
 youtubeId: "-HSdqyHDDHc"
 views: 838
 ---

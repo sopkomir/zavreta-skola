@@ -4,7 +4,7 @@ pubDate: 2020-04-17
 author: "spravca"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/titulny_obr.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/titulny_obr.jpg"
 views: 1064
 ---
 Aj dnes tu máme pre vás pripravenú rozprávku. Tentokrát o tom ako sa podarilo mníchom prinavrátiť ľuďom šťastie pomocou jednoduchej kamennej polievky<span class="_5mfr"><span class="_6qdm">🍲</span></span>.

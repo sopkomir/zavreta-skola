@@ -4,7 +4,7 @@ pubDate: 2020-12-22
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/12/povesti.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/12/povesti.jpg"
 views: 1568
 ---
 300 povestí za sedem rokov. Unikátny projekt, kde môžete nájsť povesť z každého kraja.

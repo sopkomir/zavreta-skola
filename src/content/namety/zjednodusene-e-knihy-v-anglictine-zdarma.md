@@ -4,7 +4,7 @@ pubDate: 2020-04-08
 author: "Anna Jancova"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/olb-homepage-2.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/olb-homepage-2.png"
 views: 1973
 ---
 Vydavateľstvo Oxford University Press uvoľnilo 148 titulov svojich zjednodušených verzií beletrie na čítanie zdarma  do 30. júna 2020. Ide o kvalitné úpravy kníh, rozdelených podľa jazykovej úrovne A1-B2. Je to veľká pomoc pri štúdiu angličtiny na základných i stredných školách. 

@@ -4,7 +4,7 @@ pubDate: 2020-10-18
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/python.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/python.jpg"
 views: 1417
 ---
 <div dir="auto">Volá sa Michal Hucko a chce Vás naučiť programovať <span class="pq6dq46d tbxw36s4 knj5qynh kvgmc6g5 ditlmg2l oygrvhab nvdbi5me sf5mxxl7 gl3lb2sf hhz5lgdu"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/1f469_200d_1f393.png" alt="👩‍🎓" width="16" height="16" /></span><span class="pq6dq46d tbxw36s4 knj5qynh kvgmc6g5 ditlmg2l oygrvhab nvdbi5me sf5mxxl7 gl3lb2sf hhz5lgdu"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/1f469_200d_1f393.png" alt="👩‍🎓" width="16" height="16" /></span>.</div>

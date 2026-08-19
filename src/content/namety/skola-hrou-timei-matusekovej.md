@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/skola-hrou.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/skola-hrou.jpg"
 views: 1013
 ---
 autor: Mgr. Tímea Matušeková  

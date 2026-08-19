@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Tina Botková"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/banner-gen-kidssplash.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/banner-gen-kidssplash.jpg"
 views: 785
 ---
 vytvorte si vlastné umelecké diela v štýle významných umelcov

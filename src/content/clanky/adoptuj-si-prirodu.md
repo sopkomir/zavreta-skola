@@ -3,7 +3,7 @@ title: "Adoptuj si prírodu"
 pubDate: 2020-06-07
 author: "spravca"
 rubrika: ["Inšpirácia", "PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/101089536_10158282543364496_7781417916334866432_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/101089536_10158282543364496_7781417916334866432_o.jpg"
 ---
 <p>Pozor! Správa od <a href="https://www.facebook.com/yreslovakia" target="_blank" rel="noreferrer noopener">Mladých reportérov pre životné prostredie</a>.</p>
 

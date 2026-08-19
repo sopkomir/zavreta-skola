@@ -4,7 +4,7 @@ pubDate: 2020-03-28
 author: "Milan"
 categories: ["Občianska náuka"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
 views: 1226
 ---
 Spracovaný výučbový materiál pokrýva obsah občianskej náuky pre 6.ročník v 2. polroku a korešponduje s učebnicou určenou pre tento predmet.
@@ -13,4 +13,4 @@ Pri práci s priloženým prezentačným materiálom sa odporúča venovať najm
 
 &nbsp;
 
-Materiál vo formáte PDF - <a href="https://www.zavretaskola.sk/wp-content/uploads/2020/03/Vnútorný-a-vonkajší-život-jednotlivca.pdf" target="_blank" rel="noopener noreferrer">Vnútorný a vonkajší život jednotlivca</a>
+Materiál vo formáte PDF - <a href="https://media.zavretaskola.sk/wp-content/uploads/2020/03/Vnútorný-a-vonkajší-život-jednotlivca.pdf" target="_blank" rel="noopener noreferrer">Vnútorný a vonkajší život jednotlivca</a>

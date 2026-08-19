@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Geografia"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Logo1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Logo1.png"
 views: 1761
 ---
 Portál z množstvom materiálu (prezentácie, cvičenia, aktivity...), ktorý funguje na základe zberu zaslaním na emailovú adresu. Rozdelené podľa tematických oblastí pre druhý stupeň základnej školy. Stačí si vybrať.

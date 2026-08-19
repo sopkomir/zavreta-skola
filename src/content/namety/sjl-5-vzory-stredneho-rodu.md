@@ -4,7 +4,7 @@ pubDate: 2022-09-11
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["APPKA", "HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/vzory-stredny-rod.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/vzory-stredny-rod.jpg"
 wordwallEmbed: "https://wordwall.net/embed/fc85ea66e8f64c72a6a924be4e161aa2"
 views: 1077
 ---

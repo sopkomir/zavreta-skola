@@ -4,7 +4,7 @@ pubDate: 2020-06-01
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Ej-musel-by-to-chlap-byť.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/Ej-musel-by-to-chlap-byť.jpg"
 views: 1805
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

@@ -4,7 +4,7 @@ pubDate: 2020-05-19
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Darmo-ma-mamičko.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/Darmo-ma-mamičko.jpg"
 views: 1693
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

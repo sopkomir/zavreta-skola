@@ -4,7 +4,7 @@ pubDate: 2020-05-14
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/bronzova.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/bronzova.jpg"
 youtubeId: "0JJd26vYtFo"
 views: 2363
 ---

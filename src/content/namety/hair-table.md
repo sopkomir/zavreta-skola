@@ -4,7 +4,7 @@ pubDate: 2020-03-21
 author: "Tina Botková"
 categories: ["Iné tipy"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/90356414_10157262317208182_7411105251958194176_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/90356414_10157262317208182_7411105251958194176_o.jpg"
 views: 835
 ---
 Obsahom príručky sú informácie o aktuálnej situácii tradičných a nových menšín na Slovensku, o ich kultúre, ako aj informácie o teoretických východiskách multikulturalizmu, inkluzívnej spoločnosti a podobne.

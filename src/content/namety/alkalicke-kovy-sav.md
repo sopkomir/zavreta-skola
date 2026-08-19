@@ -4,7 +4,7 @@ pubDate: 2020-04-21
 author: "spravca"
 categories: ["Chémia - SŠ"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/alkalicke_kovy.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/alkalicke_kovy.jpg"
 youtubeId: "xutk7BX-d-c"
 views: 1235
 ---

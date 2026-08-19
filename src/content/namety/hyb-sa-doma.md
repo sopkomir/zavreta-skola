@@ -4,7 +4,7 @@ pubDate: 2020-04-24
 author: "spravca"
 categories: ["2. stupeň"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Snímka-obrazovky-2020-04-24-o-13.09.29.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Snímka-obrazovky-2020-04-24-o-13.09.29.png"
 views: 1222
 ---
 Hybsadoma.sk je predovšetkým určený pre žiakov a učiteľov telesnej výchovy základných a stredných škôl. Prostredníctvom portálu vedia učitelia efektívne komunikovať so žiakmi a zadávať im úlohy z telesnej výchovy pomocou pripravených krátkych a výstižných inštruktážnych videí.

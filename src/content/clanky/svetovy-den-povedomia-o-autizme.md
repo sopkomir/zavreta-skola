@@ -3,7 +3,7 @@ title: "Svetový deň povedomia o autizme"
 pubDate: 2020-04-02
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/nezlomni_obalka_3d-otvorena_.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/nezlomni_obalka_3d-otvorena_.jpg"
 youtubeId: "3iUDk3KqPeY"
 ---
 <p>Dnes je Svetový deň povedomia o autizme. Volajú ich deti splnu, výnimočné, zázračné, iné. Niektoré dokážu fungovať v bežnej spoločnosti a udivujú svojimi schopnosťami, iné potrebujú celoživotnú starostlivosť. Autizmus má mnoho podôb a výrazne ovplyvňuje život celej rodiny. Nedá sa odstrániť, dá sa iba prijať. Človek s autizmom je komplexný a sám seba prijíma, pokým mu okolie nedá vedieť, že je na ňom a jeho videní sveta niečo "nesprávne". </p>

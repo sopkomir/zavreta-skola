@@ -4,7 +4,7 @@ pubDate: 2020-03-28
 author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mnemotechnika-hlasky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/mnemotechnika-hlasky.jpg"
 views: 8012
 ---
 Ďakujem za námet od Jany Malčekovej.

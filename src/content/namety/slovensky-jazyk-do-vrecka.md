@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/SJ-do-vrecka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/SJ-do-vrecka.jpg"
 views: 1667
 ---
 DOBRÝ DEŇ

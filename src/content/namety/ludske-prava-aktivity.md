@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "Milan"
 categories: ["Občianska náuka - SŠ"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/obn.jpg"
 views: 3107
 ---
 Súbor aktivít zameraných na tematiku ľudských práv ako jeden z pilierov demokraticky fungujúceho štátu.
@@ -26,4 +26,4 @@ Zoznam aktivít:
 
 &nbsp;
 
-<a href="https://www.zavretaskola.sk/wp-content/uploads/2020/03/%C4%BDudsk%C3%A9-pr%C3%A1va_demokracia.zip" target="_blank" rel="noopener noreferrer">Aktivity vo formáte .docx v balíčku .zip</a>
+<a href="https://media.zavretaskola.sk/wp-content/uploads/2020/03/%C4%BDudsk%C3%A9-pr%C3%A1va_demokracia.zip" target="_blank" rel="noopener noreferrer">Aktivity vo formáte .docx v balíčku .zip</a>

@@ -4,7 +4,7 @@ pubDate: 2023-05-05
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/sanity-1024x1024-1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/sanity-1024x1024-1.png"
 views: 950
 ---
 Podpor svoje duševné zdravie s aplikáciou Sanity

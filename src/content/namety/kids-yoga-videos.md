@@ -4,7 +4,7 @@ pubDate: 2020-06-03
 author: "spravca"
 categories: ["Telesná výchova - 1. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Kids-Yoga.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/Kids-Yoga.png"
 views: 996
 ---
 V tomto linku nájdete rôzne videá s jogou pre deti. 

@@ -4,7 +4,7 @@ pubDate: 2021-02-01
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/ff2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/ff2.jpg"
 wordwallEmbed: "https://wordwall.net/embed/e7dadbab44bc4c8e9aee783846f44ba6"
 views: 1011
 ---

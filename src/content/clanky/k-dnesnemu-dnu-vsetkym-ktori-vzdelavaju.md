@@ -3,7 +3,7 @@ title: "K dnešnému dňu všetkým, ktorí vzdelávajú"
 pubDate: 2020-03-28
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/den_ucitelov.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/den_ucitelov.jpg"
 ---
 <p>Pripomeňme si slová Učiteľa národov:</p>
 

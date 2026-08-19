@@ -3,7 +3,7 @@ title: "Spustila sa verejná konzultácia vzdelávacích štandardov nového št
 pubDate: 2023-02-08
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2023/02/328251412_728016112186654_7557149735003946100_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2023/02/328251412_728016112186654_7557149735003946100_n.jpg"
 ---
 <div dir="auto"><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1.5/16/2139.png" alt="ℹ️" width="16" height="16" /> </span>Ak ste učiteľ, odborník v oblasti vzdelávania, či rodič, môžete sa zapojiť do konzultácie vzdelávacích štandardov. Tie sú súčasťou kurikulárnych zmien, ktoré čakajú vzdelávanie na základných školách od roku 2026.</div>
 <div dir="auto"><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t15/1.5/16/2139.png" alt="ℹ️" width="16" height="16" /></span> Tvorba nového štátneho vzdelávacieho programu je náročný a dlhý proces, ktorý má školám otvoriť dvere, aby vedeli učiť moderne a s ohľadom na potreby každého žiaka či žiačky. Cieľom zmien, ktoré sa pripravujú, je najmä posilniť rozvoj myslenia a hodnotového sveta žiakov.</div>

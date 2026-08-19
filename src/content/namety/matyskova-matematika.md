@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Matematika - 1. stupeň"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/mm.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/mm.jpg"
 views: 1072
 ---
 Tento český web obsahuje:

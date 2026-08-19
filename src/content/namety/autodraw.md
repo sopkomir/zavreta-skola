@@ -4,7 +4,7 @@ pubDate: 2023-05-24
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["APPKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/autodraw.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/autodraw.jpg"
 views: 1177
 ---
 AutoDraw je nový druh nástroja na kreslenie. Spája strojové učenie s kresbami od talentovaných umelcov, aby pomohol každému rýchlo vytvoriť čokoľvek vizuálne. Nie je potrebné nič sťahovať. Za nič netreba platiť. A funguje kdekoľvek: v smartfóne, tablete, notebooku, stolnom počítači atď.

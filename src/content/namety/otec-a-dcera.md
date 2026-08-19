@@ -4,7 +4,7 @@ pubDate: 2020-06-21
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/maxresdefault.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/maxresdefault.jpg"
 youtubeId: "Oo4KXZVApsQ"
 views: 956
 ---

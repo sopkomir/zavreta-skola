@@ -3,7 +3,7 @@ title: "Učíme na diaľku má novú tvár"
 pubDate: 2020-05-17
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/98204048_130259511974354_8238358219940954112_o.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/98204048_130259511974354_8238358219940954112_o.png"
 ---
 <p>Štátny pedagogický ústav spolu s ostatnými partnerskými organizáciami vás pozýva na návštevu vynoveného webu <a rel="noreferrer noopener" href="http://www.ucimenadialku.sk/?fbclid=IwAR3YqXQrGTgk3NJOKLVwwdI49OTQ3VLj97rxvm8mD6ANaR8dArWJAjK6tGs" target="_blank">www.ucimenadialku.sk</a>, ktorý prešiel viacerými zmenami po dizajnovej a obsahovej stránke. Verí, že na novom webe nájdete hodnotné informácie, ktoré Vám zefektívnia vyučovanie na diaľku a budú pre Vás prehľadné a nápomocné.</p>
 

@@ -4,7 +4,7 @@ pubDate: 2021-09-22
 author: "spravca"
 categories: ["Fyzika"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/09/balldrop.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/09/balldrop.jpg"
 views: 1064
 ---
 Padá loptu rýchlejšie na Zemi, na Jupiteri alebo na Uránu? Táto animácie ukazuje loptu padajúce z výšky jedného kilometra k povrchu známych telies slnečnej sústavy za predpokladu, že nie je kladený odpor vzduchu.

@@ -4,7 +4,7 @@ pubDate: 2024-09-01
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/cokoroboti.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/cokoroboti.jpg"
 views: 1043
 ---
 Umelá inteligencia (AI) je už desaťročia neoddeliteľnou súčasťou našej spoločnosti a jej význam v budúcnosti nepochybne porastie. Ako sa na tento fenomén pozerá generácia, ktorú jej vývoj ovplyvní najviac? Akú podobu umelej inteligencie by si mladí ľudia ideálne predstavovali?

@@ -3,7 +3,7 @@ title: "10 minút pre teba"
 pubDate: 2020-05-24
 author: "spravca"
 rubrika: ["Novinky", "PONUKA", "Zamyslenia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/10minut.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/10minut.jpg"
 ---
 <p>Autorka:  Ľubica Noščáková</p>
 

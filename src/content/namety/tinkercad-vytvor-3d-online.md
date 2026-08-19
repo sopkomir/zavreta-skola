@@ -4,7 +4,7 @@ pubDate: 2021-01-28
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["APPKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/tinkercad.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/tinkercad.jpg"
 views: 1276
 ---
 Od nápadu k návrhu v priebehu niekoľkých minút

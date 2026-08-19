@@ -3,7 +3,7 @@ title: "Stiahnite si komiks o Štefánikovi zadarmo"
 pubDate: 2020-05-07
 author: "spravca"
 rubrika: ["Novinky", "PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/stefanik.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/stefanik.jpg"
 ---
 <p>Tento týždeň sme si 4. mája pripomenuli 101 rokov od tragického leteckého nešťastia v Ivanke pri Dunaji, pri ktorom zahynul slovenský astronóm, fotograf, vojenský letec, brigádny generál ozbrojených síl Francúzska, diplomat a politik Milan Rastislav Štefánik.</p>
 

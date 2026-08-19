@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/et.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/et.jpg"
 views: 1051
 ---
 Zábavné hry a videá s angličtinou pre deti

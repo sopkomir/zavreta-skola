@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/stiahnuť.jpg"
 views: 1467
 ---
 Album Spievanky Vybranky od vydavateľsva Aitec free online na počúvanie.

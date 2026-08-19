@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Tina Botková"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/15213773-90fa-480b-90cf-64468a8b8441_Carousel_Illo_Bannecker_01.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/15213773-90fa-480b-90cf-64468a8b8441_Carousel_Illo_Bannecker_01.png"
 views: 1499
 ---
 <span dir="ltr"><span class="_3l3x">Vybrané slová (rôzne), na precvičenie významov a ako si dávať pozor na podobné znenie. Je tam heslo: vybrane slova

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Margaréta Knapiková"
 categories: ["Prvouka a prírodoveda"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/etaze.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/etaze.jpg"
 views: 1696
 ---
 <h2>Vyberte sa na čerstvý vzduch a otestujte svoje pozorovacie schopnosti</h2>

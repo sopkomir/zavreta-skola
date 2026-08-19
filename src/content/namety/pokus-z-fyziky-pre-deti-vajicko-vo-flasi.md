@@ -4,7 +4,7 @@ pubDate: 2020-03-29
 author: "hravozdravo.sk"
 categories: ["Fyzika"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/IMG_3980-compressed.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/IMG_3980-compressed.jpg"
 views: 1174
 ---
 Pri tomto fyzikálnom pokuse deti preskúmajú vzťah teploty a tlaku a uvidia, ako sa vajíčko vďaka zmene tlaku vzduchu vo fľaši samo nasaje do fľaše.

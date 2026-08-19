@@ -4,7 +4,7 @@ pubDate: 2020-05-13
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/tradicny-odev.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/tradicny-odev.jpg"
 views: 1424
 ---
 Predstavujem encyklopédiu Ústredia ľudovej umeleckej výroby (UĽUV), ktorá sa venuje dlhoročnému výskumu tradičného slovenského odevu.

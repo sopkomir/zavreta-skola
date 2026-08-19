@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Tina Botková"
 categories: ["Matematika - 1. stupeň"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/logo_web.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/logo_web.png"
 views: 1347
 ---
 Pre 1.,2. a 3. ročník dobré na precvičovanie Máte doma prváka, druháka, tretiaka? Ponúkame vám prístup do našej novovznikajúcej aplikácie Superschopnosti. Deti tu môžu precvičovať svoje počtárske zručnosti. Vyberú si Superschopnosť a aplikácia im vygeneruje toľko príkladov, koľko len chcú. Prváci počítanie do 20, druháci počítanie do 100 a tretiaci násobenie a delenie do 100. V rôznych úrovniach. A vy, dospeláci, si môžete potom pozrieť, ako to vašim ratolestiam ide.

@@ -4,7 +4,7 @@ pubDate: 2020-10-10
 author: "Dana Palatinusova"
 categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "AUDIO/VIDEO", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/10/zlomky.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/10/zlomky.png"
 views: 1997
 ---
 autor: Milan Pokorný, Trnavská univerzita, Pedagogická fakulta

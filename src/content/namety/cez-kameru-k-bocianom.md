@@ -4,7 +4,7 @@ pubDate: 2020-04-29
 author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Screenshot_20200429-071959_Chrome.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Screenshot_20200429-071959_Chrome.jpg"
 views: 881
 ---
 Nakuknite kamaráti :)

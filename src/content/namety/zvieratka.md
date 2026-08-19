@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "Tina Botková"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/vyv.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/vyv.jpg"
 views: 1465
 ---
 Kreslenie rôznych zvieratiek pomocou obkresľovania vlastných rúk.

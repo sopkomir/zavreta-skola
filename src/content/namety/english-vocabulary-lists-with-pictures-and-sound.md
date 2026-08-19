@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ev1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/ev1.jpg"
 views: 828
 ---
 - obrázkový slovník (zvuk sa otvára v novom okne)

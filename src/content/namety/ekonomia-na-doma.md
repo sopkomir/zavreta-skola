@@ -4,7 +4,7 @@ pubDate: 2020-04-02
 author: "spravca"
 categories: ["Ekonomika"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/ekonomia_doma.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/ekonomia_doma.png"
 views: 1312
 ---
 Učitelia, rodičia a stredoškoláci, pozor! 🧐

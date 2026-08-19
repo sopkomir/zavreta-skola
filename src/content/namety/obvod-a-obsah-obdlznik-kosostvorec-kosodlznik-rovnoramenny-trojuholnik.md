@@ -4,7 +4,7 @@ pubDate: 2020-05-18
 author: "Marta Izsofova"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/O-S-koso.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/O-S-koso.jpg"
 youtubeId: "q93tl3bjFe0"
 views: 27210
 ---

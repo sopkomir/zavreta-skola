@@ -4,7 +4,7 @@ pubDate: 2024-09-01
 author: spravca
 categories:
   - Matematika - 1. stupeň
-image: https://www.zavretaskola.sk/wp-content/uploads/2020/03/predtym-potom.jpg
+image: https://media.zavretaskola.sk/wp-content/uploads/2020/03/predtym-potom.jpg
 embedHtml: ""
 views: 1126
 types:

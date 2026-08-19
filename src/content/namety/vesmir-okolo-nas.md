@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/koz.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/koz.jpg"
 views: 908
 ---
 Výborne spracované témy, prepojenia, ukážky - vesmír, fyzika

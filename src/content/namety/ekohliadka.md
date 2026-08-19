@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Prvouka a prírodoveda"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Foka_1-600x424-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Foka_1-600x424-1.jpg"
 views: 875
 ---
 Audio a online príbeh o zvieracích kamarátoch, ktorí vysvetlia deťom dôležitosť triedenia odpadu.

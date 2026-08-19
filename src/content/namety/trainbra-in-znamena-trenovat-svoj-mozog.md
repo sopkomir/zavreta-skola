@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["3. Stredná škola"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/trainbra.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/trainbra.jpg"
 views: 834
 ---
 Ďalší zo vzdelávacích webov Andreja Probsta (napr. Gramar.in, Matika.in, Zlatka.in) je tu tentoraz pre rozvoj kritického myslenia. Je to schopnosť efektívne pracovať so svojím rozumom a logikou.

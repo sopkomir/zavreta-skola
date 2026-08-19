@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Vlastiveda"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/osobnosti.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/osobnosti.jpg"
 wordwallEmbed: "https://wordwall.net/embed/06d217f605094cdfbf9b94c42c7cb9d9"
 views: 1685
 ---

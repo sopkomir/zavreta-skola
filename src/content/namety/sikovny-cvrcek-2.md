@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["CVIKA", "HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/327029_228868427180380_508355650_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/327029_228868427180380_508355650_o.jpg"
 views: 872
 ---
 Čo je Šikovný cvrček?

@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Technická podpora pre učiteľov"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/topDevices.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/topDevices.png"
 views: 1006
 ---
 Flipgrid je aplikácia, ktorá vám umožní nahrať video prístupné iba pre Vašich žiakov. Skvelou funkcionalitou flipgridu je aj to, že žiaci môže v reakcii na vaše video nahrať vlastné videoodpovede, pýtať sa otázky a podobne. Funguje ako napríklad facebook stena, ale komentáre sa dávajú formou videí.

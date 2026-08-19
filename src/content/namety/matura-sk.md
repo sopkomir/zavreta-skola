@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "spravca"
 categories: ["Slovenský jazyk a literatúra - SŠ"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/matura.sk_.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/matura.sk_.jpg"
 views: 1280
 ---
 Zoznam všetkých maturitných testov, slohových tém a nahrávok. Vedz, že komunikujeme aj s <a title="stránka ministerstva" href="http://www.minedu.sk/">Ministerstvom školstva Slovenskej republiky</a> a Národným ústavom certifikovaných meraní vzdelávania pretože sa ti snažíme priniesť tie najnovšie infošky zo sveta maturity.

@@ -4,7 +4,7 @@ pubDate: 2020-04-09
 author: "spravca"
 categories: ["Geografia"]
 types: ["AUDIO/VIDEO", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/juzna-azia.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/juzna-azia.jpg"
 youtubeId: "CxDMlp4AgE8"
 views: 1600
 ---

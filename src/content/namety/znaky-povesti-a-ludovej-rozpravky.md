@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/znaky_rozpravky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/znaky_rozpravky.jpg"
 wordwallEmbed: "https://wordwall.net/embed/ea63097b7e564387a1ddb95d7cb01425"
 views: 4580
 ---

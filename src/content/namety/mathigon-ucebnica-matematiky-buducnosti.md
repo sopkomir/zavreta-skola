@@ -4,7 +4,7 @@ pubDate: 2021-08-05
 author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["APPKA", "CVIKA", "HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/mathigon.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/mathigon.jpg"
 youtubeId: "vwyIZsi0b98"
 views: 1788
 ---

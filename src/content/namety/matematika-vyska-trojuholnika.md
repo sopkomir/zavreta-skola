@@ -4,7 +4,7 @@ pubDate: 2020-04-01
 author: "Tina Botková"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/trojuholnik.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/trojuholnik.jpg"
 youtubeId: "LR_GouPYH0k"
 views: 2799
 ---

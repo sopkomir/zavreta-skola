@@ -4,7 +4,7 @@ pubDate: 2020-04-27
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/farebne-prsty.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/farebne-prsty.png"
 views: 935
 ---
 🎨KLUB FAREBNÝCH PRSTOV 🎨

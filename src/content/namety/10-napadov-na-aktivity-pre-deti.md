@@ -4,7 +4,7 @@ pubDate: 2020-09-02
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "HRA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/08/FB_IMG_1596291375886.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/08/FB_IMG_1596291375886.jpg"
 views: 1744
 ---
 Skvelé videonávody od <a href="https://www.facebook.com/stromacik" target="_blank" rel="noopener noreferrer">Stromáčika</a> na jednom mieste.

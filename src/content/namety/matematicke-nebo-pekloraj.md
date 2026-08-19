@@ -4,7 +4,7 @@ pubDate: 2021-08-24
 author: "spravca"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/235835281_4875078759175821_5737790671324507270_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/235835281_4875078759175821_5737790671324507270_n.jpg"
 views: 1993
 ---
 Autor: Michaela Mušinská Vráblová
@@ -13,4 +13,4 @@ Poznáte hru Nebo, peklo, raj?...možno ju využiť aj na preopakovanie matemati
 
 Návod na skladačku:
 
-<img class="alignnone size-large wp-image-6847" src="https://www.zavretaskola.sk/wp-content/uploads/2021/08/233026262_4875976422419388_3570524932410672625_n-426x780.jpg" alt="" width="426" height="780" />
+<img class="alignnone size-large wp-image-6847" src="https://media.zavretaskola.sk/wp-content/uploads/2021/08/233026262_4875976422419388_3570524932410672625_n-426x780.jpg" alt="" width="426" height="780" />

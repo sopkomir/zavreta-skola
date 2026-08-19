@@ -4,7 +4,7 @@ pubDate: 2022-09-19
 author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/slovne-druhy.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/slovne-druhy.jpg"
 wordwallEmbed: "https://wordwall.net/embed/26d50e50e02949238d377ecfba9b7163"
 views: 766
 ---

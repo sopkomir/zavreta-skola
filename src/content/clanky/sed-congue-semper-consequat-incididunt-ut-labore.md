@@ -3,7 +3,7 @@ title: "Trochu gramatiky o rúšku"
 pubDate: 2020-03-15
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/02/hevier-02.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/02/hevier-02.jpg"
 youtubeId: "0i2a5YhGyy8"
 ---
 <div id="meta" class="style-scope ytd-watch-flexy">

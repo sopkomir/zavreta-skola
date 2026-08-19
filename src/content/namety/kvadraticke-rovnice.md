@@ -4,7 +4,7 @@ pubDate: 2020-05-12
 author: "Tina Botková"
 categories: ["Matematika - SŠ"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/89030342_247655019582801_6663914674850889728_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/89030342_247655019582801_6663914674850889728_n.jpg"
 youtubeId: "ZbPMia3BzeM"
 views: 1069
 ---

@@ -4,7 +4,7 @@ pubDate: 2022-01-12
 author: "spravca"
 categories: ["Dejepis"]
 types: ["CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/01/cha.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/01/cha.jpg"
 views: 771
 ---
 Elektronický mapový portál Český historický atlas je venovaný českým a československým dejinám v medzinárodných súvislostiach, vytvorený ako webová mapová aplikácia s využitím najmodernejších technológií GIS. Otvára odbornej aj širokej verejnosti, žiakom a študentom, neštandardný, v Českej republike doposiaľ nerealizovaný prístup k výsledkom historického výskumu prostredníctvom elektronickej historickej kartografie. 

@@ -4,7 +4,7 @@ pubDate: 2020-04-06
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/sng.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/sng.png"
 views: 709
 ---
 Slovenská národná galéria prichádza s novým projektom <span class="_5mfr"><span class="_6qdm">☝️</span></span> Vzhľadom na aktuálnu situáciu presúva niektoré svoje aktivity do online priestoru v rámci projektu "Slovenská náhradná galéria" <span class="_5mfr"><span class="_6qdm">👩‍🎨</span></span><span class="_5mfr"><span class="_6qdm">👨‍💻</span></span>

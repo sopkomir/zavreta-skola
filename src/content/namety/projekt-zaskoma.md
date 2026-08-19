@@ -4,7 +4,7 @@ pubDate: 2021-08-18
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/08/zaskoma.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/08/zaskoma.jpg"
 views: 1169
 ---
 <div class="rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t gs1a9yip owycx6da btwxx1t3 ihqw7lf3 cddn0xzi">

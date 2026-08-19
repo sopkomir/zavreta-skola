@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/muzea.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/muzea.jpg"
 views: 823
 ---
 Našťastie, internet stále funguje, a tak sa môžete aspoň virtuálne poprechádzať sálami a obdivovať exponáty a umelecké diela, píše Travelandleisu­re.com.

@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["3. Stredná škola"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/animacieF.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/animacieF.jpg"
 views: 1962
 ---
 Úžasná osobná stránka učiteľa z Moravy, SPŠ Zlín, RNDr. Vladimíra Vaščáka

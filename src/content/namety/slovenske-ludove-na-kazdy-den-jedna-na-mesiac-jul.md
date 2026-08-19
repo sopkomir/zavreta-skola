@@ -4,7 +4,7 @@ pubDate: 2020-07-06
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/07/Kysuca-Kysuca.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/07/Kysuca-Kysuca.jpg"
 views: 1169
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

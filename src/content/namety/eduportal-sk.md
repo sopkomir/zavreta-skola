@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["CVIKA", "HRA", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/ep.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/ep.jpg"
 views: 909
 ---
 Chcete si zlepšiť školské vedomosti a pomôcť deťom hravou formou nadobudnúť nové poznatky ?

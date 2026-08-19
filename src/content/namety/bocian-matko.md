@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Zuzana Catlochova"
 categories: ["0. Materská škola"]
 types: ["NÁVOD", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Bocian-scaled.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Bocian-scaled.jpg"
 views: 800
 ---
 Ahojte kamaráti,
@@ -13,6 +13,6 @@ Vydajte sa spolu s nami na cestu za bocianím dobrodružstvom.
 
 Stiahni si:
 
-<a href="https://www.zavretaskola.sk/wp-content/uploads/2020/03/Prich%C3%A1dza-jar-Bocian-Ma%C5%A5ko-1.pdf" target="_blank" rel="noopener noreferrer">Pracovný list Bocian Maťko</a>
+<a href="https://media.zavretaskola.sk/wp-content/uploads/2020/03/Prich%C3%A1dza-jar-Bocian-Ma%C5%A5ko-1.pdf" target="_blank" rel="noopener noreferrer">Pracovný list Bocian Maťko</a>
 
-<a href="https://www.zavretaskola.sk/wp-content/uploads/2020/03/Bocian-Maťko.zip" target="_blank" rel="noopener noreferrer">Podklady k aktivite Bocian Maťko (.zip)</a>
+<a href="https://media.zavretaskola.sk/wp-content/uploads/2020/03/Bocian-Maťko.zip" target="_blank" rel="noopener noreferrer">Podklady k aktivite Bocian Maťko (.zip)</a>

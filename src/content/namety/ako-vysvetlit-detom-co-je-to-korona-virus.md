@@ -4,7 +4,7 @@ pubDate: 2020-03-29
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/korona.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/korona.jpg"
 youtubeId: "ERJp2F25zCU"
 views: 813
 ---

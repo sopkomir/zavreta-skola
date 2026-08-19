@@ -4,7 +4,7 @@ pubDate: 2020-05-05
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Mama-je-náš-svet.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/Mama-je-náš-svet.jpg"
 views: 2411
 ---
 Pracovné listy a omaľovánky na vytlačenie. Vhodné pre predškolákov a mladších školákov. 

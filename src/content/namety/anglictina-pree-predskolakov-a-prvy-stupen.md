@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "Dana Palatinusova"
 categories: ["0. Materská škola"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/fsch1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/fsch1.jpg"
 views: 935
 ---
 Tlač rôznych pracovných listov, maľovanok.

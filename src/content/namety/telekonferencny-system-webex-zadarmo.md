@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spisakov"
 categories: ["Technická podpora pre učiteľov"]
 types: ["APPKA", "AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/webex-logo.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/webex-logo.png"
 youtubeId: "qlQ8c0uMz7I"
 views: 1116
 ---

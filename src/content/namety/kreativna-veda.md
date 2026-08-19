@@ -4,7 +4,7 @@ pubDate: 2022-06-15
 author: "spravca"
 categories: ["Biológia", "Chémia", "Fyzika", "Technická výchova"]
 types: ["CVIKA", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/06/ko-kreativnaveda_uvodny-obrazok_02.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/06/ko-kreativnaveda_uvodny-obrazok_02.png"
 views: 753
 ---
 V programe Kreatívna veda, ktorý do škôl prináša <a href="https://www.sav.sk/" target="_blank" rel="noopener">Slovenská akadémia vied</a>, sa žiaci môžu tešiť na pestré aktivity, atraktívne vzdelávacie materiály a spoluprácu so skutočnými vedcami.

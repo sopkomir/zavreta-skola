@@ -4,7 +4,7 @@ pubDate: 2020-04-04
 author: "Dana Palatinusova"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/lch.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/lch.jpg"
 views: 927
 ---
 -  ozvučený obrázkový slovník, mnoho tém, 

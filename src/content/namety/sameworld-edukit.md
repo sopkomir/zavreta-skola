@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/home_edukit2.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/home_edukit2.jpg"
 views: 859
 ---
 Vzdelávacia sada s množstvom školských aktivít a on-line zdrojov pre učiteľov a vzdelávateľov.

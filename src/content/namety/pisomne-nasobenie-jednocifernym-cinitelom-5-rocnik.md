@@ -4,7 +4,7 @@ pubDate: 2020-04-06
 author: "spravca"
 categories: ["Matematika - 2. stupeň"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/matika-berovci.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/matika-berovci.jpg"
 youtubeId: "n8XIY9lSNLw"
 views: 1171
 ---

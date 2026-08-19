@@ -4,7 +4,7 @@ pubDate: 2020-05-24
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["NÁVOD", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/Snímka-1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/Snímka-1.png"
 views: 1124
 ---
 Nápady, tipy a rady pre pedagógov základných škôl

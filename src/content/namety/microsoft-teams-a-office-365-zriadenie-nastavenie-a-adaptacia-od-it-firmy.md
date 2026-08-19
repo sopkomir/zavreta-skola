@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "Sanding"
 categories: ["Technická podpora pre učiteľov"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/teams-schodza-2.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/teams-schodza-2.png"
 views: 1067
 ---
 Získajte u nás pre svoju školu až 5000 licencií Microsoft Office 365 A1 pre učiteľov a žiakov <strong>zadarmo do konca septembra</strong>. Licencie sú prístupné v tomto období okamžite. Ponuka platí počas pandémie koronavírusu.

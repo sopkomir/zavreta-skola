@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/vybrane-slova-po-s.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/vybrane-slova-po-s.jpg"
 views: 1798
 ---
 Ako ďalší v poradí vám z portálu Nasedticky.sk predstavujeme online test zo slovenského jazyka na <strong>vybrané slová po S</strong>. Test vám uľahčí domácu prípravu a urobí ju zábavnejšou a menej náročnou. Ideálne nielen pre tretiakov na opakovanie vybraných slov. Aj dospelí sa radi otestujú a zistia, čo všetko už zabudli zo školských čias 🙂

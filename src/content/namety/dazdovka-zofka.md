@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Prvouka a prírodoveda"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/zofka.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/zofka.jpg"
 views: 932
 ---
 Dážďovka Žofka a jej zážitky - pozrite si zaujímavý komiks o kompostovaní

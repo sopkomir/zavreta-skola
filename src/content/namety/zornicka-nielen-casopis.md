@@ -4,7 +4,7 @@ pubDate: 2020-04-05
 author: "Dana Palatinusova"
 categories: ["1. stupeň"]
 types: ["AUDIO/VIDEO", "HRA", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zornicka1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/zornicka1.jpg"
 views: 1476
 ---
 Knižnice zatvorené, čo čítať s deťmi alebo deťom? Skúste napríklad tu:

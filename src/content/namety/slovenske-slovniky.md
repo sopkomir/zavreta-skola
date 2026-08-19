@@ -4,7 +4,7 @@ pubDate: 2020-04-03
 author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/slovniky.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/slovniky.jpg"
 views: 2257
 ---
 Súčasné slovníky

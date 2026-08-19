@@ -4,7 +4,7 @@ pubDate: 2020-11-10
 author: "Staannlley"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/11/p1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/11/p1.jpg"
 views: 831
 ---
 Platforma na prepájanie študentov, organizácii, a mentorov (rodičov, učiteľov)

@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vyznam_slov01.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/vyznam_slov01.jpg"
 wordwallEmbed: "https://wordwall.net/embed/b5aed5e885854ee7bd5175e00ac161bb"
 views: 1193
 ---

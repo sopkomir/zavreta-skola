@@ -4,7 +4,7 @@ pubDate: 2022-07-19
 author: "edu.sng"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["CVIKA", "NÁVOD", "PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/07/d.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/07/d.jpg"
 views: 575
 ---
 Umenie nie je izolovanou disciplínou, ale ponúka mnoho prepojení na ostatné sféry kultúry, vedy či bežného života. Séria metodických listov určených pre pedagógov a pedagogičky základných, stredných a základných umeleckých škôl z produkcie Slovenskej národnej galérie preto kladie dôraz na využívanie medzipredmetových prepojení vo vyučovacom procese.

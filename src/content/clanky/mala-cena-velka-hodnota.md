@@ -3,7 +3,7 @@ title: "Malá cena, veľká hodnota"
 pubDate: 2022-05-17
 author: "YRE – Mladí reportéri pre životné prostredie"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/05/280738305_475088594302968_9085343461431364199_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/05/280738305_475088594302968_9085343461431364199_n.jpg"
 ---
 Inšpirácia na "malé dobré činy, ktoré zlepšujú svet".
 

@@ -4,7 +4,7 @@ pubDate: 2020-04-14
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/hry.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/hry.jpg"
 youtubeId: "AtKtUKbrnkw"
 views: 1773
 ---

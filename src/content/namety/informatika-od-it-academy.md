@@ -4,7 +4,7 @@ pubDate: 2021-01-10
 author: "spravca"
 categories: ["Informatika - 2. stupeň ZŠ"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/inf_it_academy.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/inf_it_academy.jpg"
 views: 1191
 ---
 Ak hľadáte inšpiráciu alebo zaujímavý obsah, jednoducho čo a ako učiť, mrknite na nasledovný zoznam, ak učíte na základnej či strednej škole informatiku (17 videí) - ďakujem za tip od pána Miroslava Reitera.

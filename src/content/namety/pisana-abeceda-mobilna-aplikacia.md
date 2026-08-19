@@ -4,7 +4,7 @@ pubDate: 2020-03-26
 author: "Vlado"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["CVIKA", "HRA", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/intro.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/intro.jpg"
 views: 3566
 ---
 https://play.google.com/store/apps/details?id=sk.wesoft.abeceda

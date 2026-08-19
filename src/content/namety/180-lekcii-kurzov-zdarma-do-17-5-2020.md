@@ -4,7 +4,7 @@ pubDate: 2020-05-10
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/kurzy1.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/kurzy1.png"
 views: 742
 ---
 Více než 180 lekcí online kurzů ZDARMA

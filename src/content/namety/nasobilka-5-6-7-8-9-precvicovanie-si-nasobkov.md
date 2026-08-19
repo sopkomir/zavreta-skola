@@ -4,7 +4,7 @@ pubDate: 2021-01-30
 author: "Fialka"
 categories: ["Matematika - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/nasobky09.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/nasobky09.jpg"
 wordwallEmbed: "https://wordwall.net/embed/0ce54211c37b4fb5aa6226349a0b71bb?themeId=22&templateId=45&fontStackId=0"
 views: 1936
 ---

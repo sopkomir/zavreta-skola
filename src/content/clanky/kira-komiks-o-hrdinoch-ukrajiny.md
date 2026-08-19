@@ -3,7 +3,7 @@ title: "Kira - komiks o hrdinoch Ukrajiny"
 pubDate: 2022-11-29
 author: "spravca"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/11/3022-8f2a9aa-screenshot-at-oct-26-14-49-12.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/11/3022-8f2a9aa-screenshot-at-oct-26-14-49-12.jpg"
 ---
 <p>Komiks Kira je dielo určené pre študentov a učiteľov na Slovensku. Dej sleduje osudy hrdinov Ukrajiny, ktorí čelili a vzdorujú ruskej agresii od roku 2014. Hybridná vojna Ruska proti Ukrajine trvá 8 rokov. Za ten čas sa aj na Slovensku šírila a šíri ruská propaganda. Cieľom komiksu je priniesť objektívny pohľad na tento konflikt a zvýšiť odolnosť nášho obyvateľstva voči ruskej propagande.</p>
 

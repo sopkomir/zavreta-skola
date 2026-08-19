@@ -4,7 +4,7 @@ pubDate: 2020-03-30
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["HRA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/doma-s-detmi.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/doma-s-detmi.png"
 views: 766
 ---
 Korona akcie pre deti

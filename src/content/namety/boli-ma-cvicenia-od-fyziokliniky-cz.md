@@ -4,7 +4,7 @@ pubDate: 2020-05-02
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/05/fyzioklinika.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/05/fyzioklinika.jpg"
 views: 1074
 ---
 <div class="text-wrap tlid-copy-target">

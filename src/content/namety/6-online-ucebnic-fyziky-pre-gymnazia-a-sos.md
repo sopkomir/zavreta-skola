@@ -4,7 +4,7 @@ pubDate: 2020-04-14
 author: "Peter Benkovic"
 categories: ["Technická podpora pre učiteľov"]
 types: ["CVIKA", "NÁVOD", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/banner_prispevok_fb_insta_fyzika.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/banner_prispevok_fb_insta_fyzika.png"
 views: 1862
 ---
 Vhodný materiál pre online vzdelávanie.

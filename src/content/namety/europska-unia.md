@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Občianska náuka - SŠ"]
 types: ["NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/eu.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/eu.jpg"
 views: 795
 ---
 <div class="container-course-description" data-v-2f853cec="">

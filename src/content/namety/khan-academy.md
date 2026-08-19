@@ -4,7 +4,7 @@ pubDate: 2020-03-23
 author: "Tina Botková"
 categories: ["Anglický jazyk - 2- stupeň"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/v1-anjali-2x.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/v1-anjali-2x.png"
 views: 895
 ---
 Dajú sa tu nájsť rôzne videá spracované ako vysvetlenie učebnej látky v angličtine s tým, že video zdieľam žiakom cez edupage (copy video link)+ pridám úlohy, ktoré sú na stránke ku každému učivu.

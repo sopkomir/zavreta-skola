@@ -4,7 +4,7 @@ pubDate: 2020-03-27
 author: "hravozdravo.sk"
 categories: ["0. Materská škola"]
 types: ["HRA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/Hra-na-doktora.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/Hra-na-doktora.jpg"
 views: 2297
 ---
 Pri tejto hre má dieťa príležitosť dozvedieť sa viac o úlohe lekára, precvičiť si jemnú motoriku (napríklad pri lepení leukoplastu), budovať si pozitívny vzťah k svojmu telu, ako aj prevencii, atď.

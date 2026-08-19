@@ -3,7 +3,7 @@ title: "Pozdrav pre seniorov"
 pubDate: 2020-04-10
 author: "spravca"
 rubrika: ["Novinky", "PONUKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Pozdrav-seniorom-720x340-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Pozdrav-seniorom-720x340-1.jpg"
 ---
 <p>Čas, v ktorom sme sa ocitli, je istým spôsobom praktickou školou empatie. Okrem toho, že plníme rôzne zadania, ktoré nám prichádzajú zo škôl, učíme sa vedomostiam, opakujeme a precvičujeme, pomáhame si aj navzájom a zažívame reálnu podporu, ktorá prichádza z online sveta. Tu je príležitosť, ako sa so svojimi deťmi zapojiť do tvorenia záchrannej siete pre tých momentálne najzraniteľnejších - seniorov, ktorí sa ocitli v úplnej izolácii v domovoch dôchodcov. </p>
 

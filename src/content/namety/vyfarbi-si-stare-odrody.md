@@ -4,7 +4,7 @@ pubDate: 2020-04-09
 author: "spravca"
 categories: ["Výtvarná výchova a pracovné vyučovanie 1. stupeň"]
 types: ["PRINT", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/malovanka_sadovo-1-1_page-0001.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/malovanka_sadovo-1-1_page-0001.jpg"
 views: 806
 ---
 Šikovní ľudia z projektu <a href="https://sadovo.sk/" target="_blank" rel="noopener noreferrer">SadOVO</a> pripravili na sviatky zábavnú a náučnú maľovanku pre vaše deti či žiakov.

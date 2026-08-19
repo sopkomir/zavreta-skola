@@ -4,7 +4,7 @@ pubDate: 2020-06-23
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/06/Keď-mi-prišla-karta.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/06/Keď-mi-prišla-karta.jpg"
 views: 1593
 ---
 autorka textu: Dáša Pádivá – piesne zverejňujeme s jej súhlasom

@@ -4,7 +4,7 @@ pubDate: 2020-05-07
 author: "Dana Palatinusova"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["AUDIO/VIDEO", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/diktaty.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/diktaty.jpg"
 views: 4149
 ---
 Známi herci nahrali diktáty pre domáce vyučovanie.

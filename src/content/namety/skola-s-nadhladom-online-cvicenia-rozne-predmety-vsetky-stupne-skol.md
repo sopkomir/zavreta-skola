@@ -4,7 +4,7 @@ pubDate: 2020-04-07
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO", "CVIKA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/skola5.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/skola5.png"
 views: 1464
 ---
 1. stupeň

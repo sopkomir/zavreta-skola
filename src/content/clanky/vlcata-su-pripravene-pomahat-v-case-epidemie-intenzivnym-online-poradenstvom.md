@@ -3,7 +3,7 @@ title: "Vĺčatá sú pripravené"
 pubDate: 2020-03-15
 author: "spravca"
 rubrika: ["Novinky"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2016/02/Vlcata_mailbox-1024x501-1-e1584372862824.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2016/02/Vlcata_mailbox-1024x501-1-e1584372862824.png"
 ---
 Portál Vĺčatá.sk už niekoľko rokov poskytuje informácie o zmysluplných hrách a technológiách. V čase epidémie sa rozhodli tento servis rozšíriť o intenzívne online poradenstvo.
 

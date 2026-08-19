@@ -4,7 +4,7 @@ pubDate: 2021-02-01
 author: "Fialka"
 categories: ["Slovenský jazyk - 1. stupeň"]
 types: ["HRA", "WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/01/vety.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/01/vety.jpg"
 wordwallEmbed: "https://wordwall.net/embed/eecdf006a02f4f6da7f915a9bde837eb?themeId=41&templateId=5&fontStackId=0"
 views: 1501
 ---

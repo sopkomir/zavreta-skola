@@ -4,7 +4,7 @@ pubDate: 2021-07-23
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/07/origami_s_iwom.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/07/origami_s_iwom.jpg"
 youtubeId: "OppogcAncY8"
 views: 847
 ---

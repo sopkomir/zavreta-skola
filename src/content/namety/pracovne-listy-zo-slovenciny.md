@@ -4,7 +4,7 @@ pubDate: 2020-03-20
 author: "Tina Botková"
 categories: ["2. stupeň", "Slovenský jazyk a literatúra - 2. stupeň"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89354887_247652442916392_2399361425253335040_n.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/89354887_247652442916392_2399361425253335040_n.jpg"
 views: 1641
 ---
 pracovné listy vhodné na opakovanie učiva

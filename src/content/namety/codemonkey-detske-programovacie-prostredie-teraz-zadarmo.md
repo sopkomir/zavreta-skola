@@ -4,7 +4,7 @@ pubDate: 2020-03-25
 author: "spravca"
 categories: ["Informatika - 1. stupeň"]
 types: ["APPKA", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/CodeMonkey-Interface.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/CodeMonkey-Interface.png"
 views: 926
 ---
 CodeMonkey je vzdelávacie herné prostredie, v ktorom sa deti učia kódovať v skutočnom programovacom jazyku. CodeMonkey môže poskytnúť každému rodičovi alebo škole tú výhodu, že ponúka svojim deťom alebo študentom príležitosť dosiahnuť najmodernejšie vzdelávanie v oblasti programovania počítačov. 

@@ -4,7 +4,7 @@ pubDate: 2022-12-15
 author: "spravca"
 categories: ["Vlastiveda"]
 types: ["APPKA", "CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/turiec.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/turiec.jpg"
 views: 807
 wordwallEmbed: "https://wordwall.net/sk/embed/8cc77970ca5b4d88810e19a19aa295b4?themeId=1&templateId=5&fontStackId=0"
 ---

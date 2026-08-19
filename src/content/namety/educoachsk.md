@@ -4,7 +4,7 @@ pubDate: 2020-03-13
 author: "spravca"
 categories: ["Ponúkam pomoc"]
 types: ["CVIKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/89860643_139621047537871_874786126961836032_o.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/89860643_139621047537871_874786126961836032_o.jpg"
 views: 929
 ---
 V <a class="_58cn" dir="ltr" href="https://www.facebook.com/hashtag/educoachsk?hc_location=ufi" target="_blank" rel="noopener noreferrer"><span class="_58cl" aria-label="hashtag">#</span><span class="_58cm">EduCoachSK</span></a> ponúkame bezplatný online koučing pre študentov (17-18 r.), rodičov a učiteľov. Je to reakcia na to, že sme pozastavili individuálny koučing na našich stredných školách. Koučing môže byt efektívnym nástrojom na prerámcovanie myšlienok v časoch kríz a výziev a príležitosť sa stíšiť a nájsť zdroje v situáciach osobných a spoločenských zmien. Koučujeme v slovenčine a angličtine.

@@ -4,7 +4,7 @@ pubDate: 2020-04-24
 author: "Dana Palatinusova"
 categories: ["Iné tipy"]
 types: ["WEBKA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/Snímka.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/Snímka.png"
 views: 962
 ---
 Nadácia ZSE sa od svojho vzniku snaží prispievať k zlepšovaniu procesu vzdelávania na Slovensku. Či už prostredníctvom dlhodobých partnerstiev alebo grantového programu Výnimočné školy. Vnímame, že veľa drobných a pozitívnych zmien sa vo vzdelávaní a v školstve deje už dnes. Program Výnimočné školy je určený na podporu učiteliek a učiteľov základných a stredných škôl z celého Slovenska, ktorí majú motiváciu učiť zaujímavo a sú inšpiráciou pre svojich žiakov aj kolegov. 

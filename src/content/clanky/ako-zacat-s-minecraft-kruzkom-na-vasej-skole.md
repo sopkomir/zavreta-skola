@@ -3,7 +3,7 @@ title: "Ako začať s Minecraft krúžkom na vašej škole"
 pubDate: 2022-09-19
 author: "spravca"
 rubrika: ["Inšpirácia"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2022/09/minecraft-kruzok.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2022/09/minecraft-kruzok.jpg"
 youtubeId: "GI-Wh2HAyOk"
 ---
 Maroš Zvolenský sa už dlho venuje propagácií i využívaniu Minecraftu na školách. Pripravil i takéto video, v ktorom uvádza: "Začal sa nám školský rok a začalo sa obdobie krúžkov. Ak chcete mať na škole Minecraft krúžok a neviete úplne presne ako na to, alebo len hľadáte inšpiráciu na to čo budete so žiakmi robiť, tak ste na správnom mieste.

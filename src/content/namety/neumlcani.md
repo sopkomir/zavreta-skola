@@ -4,7 +4,7 @@ pubDate: 2020-03-24
 author: "spravca"
 categories: ["Dejepis - SŠ"]
 types: []
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/neumlcani.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/neumlcani.jpg"
 views: 876
 ---
 Pocta ľuďom, ktorí prežili prenasledovanie a väznenie diktátorských režimov - nacistického a komunistického.

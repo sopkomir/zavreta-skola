@@ -4,7 +4,7 @@ pubDate: 2020-03-16
 author: "spravca"
 categories: ["0. Materská škola"]
 types: ["HRA"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2018/07/navody-ucime-deti-kreslit-1.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2018/07/navody-ucime-deti-kreslit-1.jpg"
 views: 1393
 ---
 <strong>Kreslenie</strong> patrí medzi záľuby mnohých detí, no niektorí rodičia jednoducho nevedia prísť na to, ako je možné naučiť dieťa kresliť, keď to nejde samo od seba. Netreba si však zúfať, treba na to ísť zľahka.

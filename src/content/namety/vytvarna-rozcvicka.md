@@ -4,7 +4,7 @@ pubDate: 2021-02-02
 author: "edu.sng"
 categories: ["Výtvarná výchova - 2. stupeň"]
 types: ["AUDIO/VIDEO", "NÁVOD"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2021/02/00_fb_cover.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2021/02/00_fb_cover.jpg"
 views: 1019
 ---
 Cyklus vzdelávacích videí, ktoré vás vtiahnu do sveta vizuálneho umenia cez aktuálne témy a tvorivé workshopy. Videá jedinečným spôsobom približujú zdigitalizované výtvarné diela zo zbierok slovenských galérií a otvárajú nové možnosti ich využitia v oblasti vzdelávania umením v škole či doma.

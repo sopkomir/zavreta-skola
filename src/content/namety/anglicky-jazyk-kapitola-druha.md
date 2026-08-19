@@ -4,7 +4,7 @@ pubDate: 2020-04-02
 author: "IRVslovensko"
 categories: ["Anglický jazyk - 1- stupeň"]
 types: ["CVIKA", "PRINT"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/03/irv.png"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/03/irv.png"
 views: 788
 ---
 - Privlastňovacie zámená (Possessive forms)
@@ -15,4 +15,4 @@ views: 788
 - Určovanie času (What is the time?)
 - Slovná zásoba (Vocabulary)
 
-Námet si stihnite tu: <a href="https://www.zavretaskola.sk/wp-content/uploads/2020/04/Kapitola-Dva-Anglický-jazyk-IRV.pdf" rel="noopener noreferrer" target="_blank">Kapitola Dva Anglický jazyk IRV (.PDF)</a>
+Námet si stihnite tu: <a href="https://media.zavretaskola.sk/wp-content/uploads/2020/04/Kapitola-Dva-Anglický-jazyk-IRV.pdf" rel="noopener noreferrer" target="_blank">Kapitola Dva Anglický jazyk IRV (.PDF)</a>

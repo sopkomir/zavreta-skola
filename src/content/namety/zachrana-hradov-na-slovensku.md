@@ -4,7 +4,7 @@ pubDate: 2020-04-18
 author: "spravca"
 categories: ["Iné tipy"]
 types: ["AUDIO/VIDEO"]
-image: "https://www.zavretaskola.sk/wp-content/uploads/2020/04/zachrana-hradov.jpg"
+image: "https://media.zavretaskola.sk/wp-content/uploads/2020/04/zachrana-hradov.jpg"
 youtubeId: "UfQQc9Xa-aY"
 views: 864
 ---
