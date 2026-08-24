@@ -1,5 +1,5 @@
 ---
-title: F&F1 - lekcia 1/4 - Vytvor páry medzi obrázkom a zvukom
+title: F&F1 - lekcia 1/4 - Uhádni celé slovo skôr, než kvetina stratí všetky lístky
 pubDate: 2026-08-24T20:08:00.000+02:00
 author: Dana Palatinusova
 categories:
