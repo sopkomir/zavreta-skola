@@ -9,15 +9,26 @@ import { catSlug } from '../../../utils/catSlug';
 export async function getStaticPaths({ paginate }) {
   const allNamety = await getCollection('namety');
 
-  // Uzly zo starej WordPress hierarchie (hlavné aj podkategórie).
-  const nodes: { slug: string; name: string; matchNames: string[] }[] = [];
+  // Uzly zo starej WordPress hierarchie. Niektoré podkategórie (napr. "Etická
+  // výchova") môžu patriť pod viac rodičov naraz - zlúčime ich podľa slugu,
+  // aby nevznikla duplicitná stránka.
+  const nodesBySlug = new Map<string, { slug: string; name: string; matchNames: Set<string> }>();
   const knownNames = new Set<string>();
+
+  function addNode(slug: string, name: string, matchNames: string[]) {
+    if (!nodesBySlug.has(slug)) {
+      nodesBySlug.set(slug, { slug, name, matchNames: new Set(matchNames) });
+    } else {
+      for (const m of matchNames) nodesBySlug.get(slug)!.matchNames.add(m);
+    }
+  }
+
   for (const top of categoryTree) {
     knownNames.add(top.name);
-    nodes.push({ slug: top.slug, name: top.name, matchNames: [top.name, ...top.children.map((c) => c.name)] });
+    addNode(top.slug, top.name, [top.name, ...top.children.map((c) => c.name)]);
     for (const child of top.children) {
       knownNames.add(child.name);
-      nodes.push({ slug: child.slug, name: child.name, matchNames: [child.name] });
+      addNode(child.slug, child.name, [child.name]);
     }
   }
 
@@ -29,9 +40,11 @@ export async function getStaticPaths({ paginate }) {
   }
   for (const name of usedNames) {
     if (!knownNames.has(name)) {
-      nodes.push({ slug: catSlug(name), name, matchNames: [name] });
+      addNode(catSlug(name), name, [name]);
     }
   }
+
+  const nodes = [...nodesBySlug.values()].map((n) => ({ ...n, matchNames: [...n.matchNames] }));
 
   return nodes.flatMap((node) => {
     const filtered = allNamety

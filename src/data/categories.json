@@ -64,6 +64,11 @@
         "name": "Nemecký jazyk - 1. stupeň",
         "slug": "nemecky-jazyk-1-stupen",
         "count": 1
+      },
+      {
+        "name": "Etická výchova",
+        "slug": "eticka-vychova",
+        "count": 0
       }
     ]
   },
@@ -146,6 +151,11 @@
         "name": "Ruský jazyk",
         "slug": "rusky-jazyk",
         "count": 2
+      },
+      {
+        "name": "Etická výchova",
+        "slug": "eticka-vychova",
+        "count": 0
       }
     ]
   },
