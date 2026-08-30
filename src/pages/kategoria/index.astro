@@ -21,33 +21,33 @@ for (const top of categoryTree) {
   for (const child of top.children) knownNames.add(child.name);
 }
 
-const knownCategories = categoryTree
-  .map((top) => {
-    const children = top.children
-      .map((child) => ({ ...child, count: leafCounts.get(child.name) || 0 }))
-      .filter((c) => c.count > 0)
-      .sort((a, b) => b.count - a.count);
-    const directCount = leafCounts.get(top.name) || 0;
-    const childCount = children.reduce((sum, c) => sum + c.count, 0);
-    return { ...top, count: directCount + childCount, children };
-  })
-  .filter((c) => c.count > 0)
-  .sort((a, b) => b.count - a.count);
+const knownCategories = categoryTree.map((top) => {
+  const children = top.children
+    .map((child) => ({ ...child, count: leafCounts.get(child.name) || 0 }))
+    .filter((c) => c.count > 0)
+    .sort((a, b) => b.count - a.count);
+  const directCount = leafCounts.get(top.name) || 0;
+  const childCount = children.reduce((sum, c) => sum + c.count, 0);
+  return { ...top, count: directCount + childCount, children };
+});
 
-// Akékoľvek kategórie, ktoré niekto pridal cez CMS a nie sú súčasťou pôvodnej
-// hierarchie - zobrazíme ich samostatne, nech majú tiež svoju stránku a prehľad.
+// Akékoľvek nové kategórie pridané cez CMS - zaradia sa do toho istého
+// zoznamu ako ostatné, len bez podkategórií.
 const newCategories = [...leafCounts.entries()]
   .filter(([name]) => !knownNames.has(name))
-  .map(([name, count]) => ({ name, slug: catSlug(name), count }))
+  .map(([name, count]) => ({ name, slug: catSlug(name), count, children: [] as { name: string; slug: string; count: number }[] }));
+
+const categories = [...knownCategories, ...newCategories]
+  .filter((c) => c.count > 0)
   .sort((a, b) => b.count - a.count);
 ---
 <Layout title="Kategórie — Zavretá škola">
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <h1 class="font-display text-3xl sm:text-4xl font-semibold">Kategórie</h1>
-    <p class="text-chalk/70 font-mono text-sm mt-2">{knownCategories.length + newCategories.length} kategórií podľa stupňa a predmetu</p>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{categories.length} kategórií podľa stupňa a predmetu</p>
   </section>
   <main class="max-w-5xl mx-auto px-4 py-12 space-y-8">
-    {knownCategories.map((cat) => (
+    {categories.map((cat) => (
       <div class="bg-white border border-ink/10 rounded-lg overflow-hidden">
         <a href={`/kategoria/${cat.slug}/`} class="flex justify-between items-center px-5 py-4 hover:bg-chalkboard/5 transition-colors">
           <span class="font-display font-semibold text-lg text-ink">{cat.name}</span>
@@ -67,22 +67,5 @@ const newCategories = [...leafCounts.entries()]
         )}
       </div>
     ))}
-
-    {newCategories.length > 0 && (
-      <div>
-        <h2 class="font-display text-lg font-bold text-ink mb-3">Nové kategórie</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {newCategories.map((cat) => (
-            <a
-              href={`/kategoria/${cat.slug}/`}
-              class="flex justify-between items-center bg-white border border-ink/10 rounded-md px-4 py-3 hover:border-zosit transition-colors"
-            >
-              <span class="font-medium text-ink">{cat.name}</span>
-              <span class="text-xs font-mono bg-chalkboard/5 text-ink/60 px-2 py-1 rounded">{cat.count}</span>
-            </a>
-          ))}
-        </div>
-      </div>
-    )}
   </main>
 </Layout>
