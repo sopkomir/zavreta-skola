@@ -2,10 +2,10 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import categoryTree from '../../data/categories.json';
+import { catSlug } from '../../utils/catSlug';
 
-// Hierarchia (názvy, sluhy, vzťah rodič/dieťa) ostáva statická z categories.json,
-// ale POČTY počítame vždy nanovo z aktuálneho obsahu, aby zohľadňovali
-// zmazané/pridané námety cez CMS.
+// Počty počítame vždy naživo z aktuálneho obsahu (nie zo statického súboru),
+// aby zohľadňovali zmazané/pridané námety cez CMS.
 const allNamety = await getCollection('namety');
 const leafCounts = new Map<string, number>();
 for (const n of allNamety) {
@@ -14,7 +14,14 @@ for (const n of allNamety) {
   }
 }
 
-const categories = categoryTree
+// Mená, ktoré už poznáme zo starej WordPress hierarchie (top-level aj podkategórie).
+const knownNames = new Set<string>();
+for (const top of categoryTree) {
+  knownNames.add(top.name);
+  for (const child of top.children) knownNames.add(child.name);
+}
+
+const knownCategories = categoryTree
   .map((top) => {
     const children = top.children
       .map((child) => ({ ...child, count: leafCounts.get(child.name) || 0 }))
@@ -26,14 +33,21 @@ const categories = categoryTree
   })
   .filter((c) => c.count > 0)
   .sort((a, b) => b.count - a.count);
+
+// Akékoľvek kategórie, ktoré niekto pridal cez CMS a nie sú súčasťou pôvodnej
+// hierarchie - zobrazíme ich samostatne, nech majú tiež svoju stránku a prehľad.
+const newCategories = [...leafCounts.entries()]
+  .filter(([name]) => !knownNames.has(name))
+  .map(([name, count]) => ({ name, slug: catSlug(name), count }))
+  .sort((a, b) => b.count - a.count);
 ---
-<Layout title="Kategórie — Zavretá škola" description="Prehľad všetkých kategórií učebných materiálov na Zavretej škole podľa stupňa a predmetu.">
+<Layout title="Kategórie — Zavretá škola">
   <section class="chalk-texture bg-chalkboard text-chalk px-4 sm:px-6 py-14 text-center">
     <h1 class="font-display text-3xl sm:text-4xl font-semibold">Kategórie</h1>
-    <p class="text-chalk/70 font-mono text-sm mt-2">{categories.length} hlavných kategórií podľa stupňa</p>
+    <p class="text-chalk/70 font-mono text-sm mt-2">{knownCategories.length + newCategories.length} kategórií podľa stupňa a predmetu</p>
   </section>
   <main class="max-w-5xl mx-auto px-4 py-12 space-y-8">
-    {categories.map((cat) => (
+    {knownCategories.map((cat) => (
       <div class="bg-white border border-ink/10 rounded-lg overflow-hidden">
         <a href={`/kategoria/${cat.slug}/`} class="flex justify-between items-center px-5 py-4 hover:bg-chalkboard/5 transition-colors">
           <span class="font-display font-semibold text-lg text-ink">{cat.name}</span>
@@ -53,5 +67,22 @@ const categories = categoryTree
         )}
       </div>
     ))}
+
+    {newCategories.length > 0 && (
+      <div>
+        <h2 class="font-display text-lg font-bold text-ink mb-3">Nové kategórie</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {newCategories.map((cat) => (
+            <a
+              href={`/kategoria/${cat.slug}/`}
+              class="flex justify-between items-center bg-white border border-ink/10 rounded-md px-4 py-3 hover:border-zosit transition-colors"
+            >
+              <span class="font-medium text-ink">{cat.name}</span>
+              <span class="text-xs font-mono bg-chalkboard/5 text-ink/60 px-2 py-1 rounded">{cat.count}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
   </main>
 </Layout>

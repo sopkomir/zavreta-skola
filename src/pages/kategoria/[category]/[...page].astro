@@ -2,20 +2,34 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import NametListing from '../../../components/NametListing.astro';
-import NametCard from '../../../components/NametCard.astro';
 import Pagination from '../../../components/Pagination.astro';
-import categories from '../../../data/categories.json';
+import categoryTree from '../../../data/categories.json';
+import { catSlug } from '../../../utils/catSlug';
 
 export async function getStaticPaths({ paginate }) {
   const allNamety = await getCollection('namety');
 
-  // Zoznam všetkých uzlov (hlavné kategórie aj podkategórie).
-  // Hlavná kategória zahŕňa aj všetky svoje podkategórie (rovnako ako na pôvodnom webe).
-  const nodes = [];
-  for (const top of categories) {
+  // Uzly zo starej WordPress hierarchie (hlavné aj podkategórie).
+  const nodes: { slug: string; name: string; matchNames: string[] }[] = [];
+  const knownNames = new Set<string>();
+  for (const top of categoryTree) {
+    knownNames.add(top.name);
     nodes.push({ slug: top.slug, name: top.name, matchNames: [top.name, ...top.children.map((c) => c.name)] });
     for (const child of top.children) {
+      knownNames.add(child.name);
       nodes.push({ slug: child.slug, name: child.name, matchNames: [child.name] });
+    }
+  }
+
+  // Akékoľvek ďalšie kategórie použité v obsahu (pridané cez CMS), ktoré ešte
+  // nie sú súčasťou pôvodnej hierarchie - dostanú vlastnú, jednoduchú stránku.
+  const usedNames = new Set<string>();
+  for (const n of allNamety) {
+    for (const c of n.data.categories) usedNames.add(c);
+  }
+  for (const name of usedNames) {
+    if (!knownNames.has(name)) {
+      nodes.push({ slug: catSlug(name), name, matchNames: [name] });
     }
   }
 
@@ -23,6 +37,8 @@ export async function getStaticPaths({ paginate }) {
     const filtered = allNamety
       .filter((n) => n.data.categories.some((c) => node.matchNames.includes(c)))
       .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+    if (filtered.length === 0) return [];
 
     return paginate(filtered, {
       pageSize: 24,
