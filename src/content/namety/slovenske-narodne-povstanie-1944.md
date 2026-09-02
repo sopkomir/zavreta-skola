@@ -8,6 +8,8 @@ types:
   - APPKA
   - WEBKA
 image: /uploaded-images/snp-mapa-nahlad.png
+metaDescription: "🗺️ Nová interaktívna mapa SNP: 24 udalostí, dobové fotky,
+  presná geografia — prejdite si Slovenské národné povstanie krok po kroku."
 ---
 Slovenské národné povstanie 1944 je interaktívna webová mapa, ktorá krok po kroku rekonštruuje priebeh SNP — od podpísania Vianočnej dohody v decembri 1943 až po ústup povstaleckej armády do hôr koncom októbra 1944. Používateľ prechádza 24 kľúčovými udalosťami (vypuknutie povstania, boje o Strečno a Telgárt, príchod spojeneckej pomoci a 2. paradesantnej brigády, boje o jednotlivé mestá) na mape s presnými geografickými hranicami Slovenska, pričom každá zastávka obsahuje dátum, miesto, opis udalosti a dobovú fotografiu. 
 
