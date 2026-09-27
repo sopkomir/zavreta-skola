@@ -25,4 +25,6 @@ Ako vysvetliť deťom, ako funguje štát? Postavte im dom! 🏛️
 
 Dom zvaný Slovensko je nový interaktívny model na Zavretej škole. Ústava v ňom slúži ako stavebný plán: tri stĺpy deľby moci, základ z ústavy a základných práv a pôda, ktorou sú občania. Stačí kliknúť na prezidenta, parlament či súdy a hneď vidíte, kto ich volí, kto ich kontroluje a čo robia. Nechýba ani cesta zákona krok za krokom a kvíz na interaktívnu tabuľu.
 
+
+
 Link: <https://sopkomir.github.io/dom-zvany-slovensko/>
