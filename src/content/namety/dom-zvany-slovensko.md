@@ -15,6 +15,11 @@ embedHtml: >-
           allow="fullscreen" allowfullscreen
           loading="lazy"
           title="Dom zvaný Slovensko – interaktívny model štátu podľa Ústavy SR"></iframe>
+metaDescription: Kto volí prezidenta? Kto vymenúva sudcov? A kto kontroluje
+  vládu? Interaktívny model Dom zvaný Slovensko ukazuje štát ako budovu, ktorej
+  stavebný plán je Ústava Slovenskej republiky. Žiaci si ju môžu preskúmať
+  kliknutím, prejsť cestu zákona od návrhu po Zbierku zákonov a overiť si
+  vedomosti v kvíze.
 ---
 Ako vysvetliť deťom, ako funguje štát? Postavte im dom! 🏛️
 
