@@ -7,7 +7,7 @@ categories:
 types:
   - APPKA
   - WEBKA
-image: /uploaded-images/dom-zvany-slovensko-hero.png
+image: /uploaded-images/dom-zvany-slovensko-hero-2x.png
 embedHtml: >-
   <iframe src="https://sopkomir.github.io/dom-zvany-slovensko/"
           width="100%" height="900"
