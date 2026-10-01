@@ -9,9 +9,39 @@ types:
   - APPKA
   - CVIKA
 image: /uploaded-images/cesta-k-republike-hero-1200x630.png
-embedHtml: <iframe src="https://sopkomir.github.io/cesta-k-republike/"
-  style="width:100%;height:85vh;border:0" allowfullscreen
-  loading="lazy"></iframe>
+embedHtml: >-
+  <div id="ckr-wrap"
+  style="position:relative;width:100%;height:85vh;border-radius:12px;overflow:hidden;background:#ECEEE8">
+    <iframe id="ckr-frame"
+      src="https://SOPKOMIR.github.io/cesta-k-republike/"
+      title="Cesta k republike – vznik Československa 1914 – 1920"
+      style="width:100%;height:100%;border:0"
+      allow="fullscreen" allowfullscreen loading="lazy"></iframe>
+    <button id="ckr-fs" type="button" aria-label="Zobraziť na celú obrazovku"
+      style="position:absolute;right:12px;bottom:84px;z-index:10;display:flex;align-items:center;gap:6px;padding:10px 14px;border:0;border-radius:24px;background:#1C2333;color:#fff;font:600 15px/1 sans-serif;box-shadow:0 4px 14px rgba(0,0,0,.3);cursor:pointer">
+      ⛶ <span>Celá obrazovka</span>
+    </button>
+  </div>
+
+  <script>
+
+  (function(){
+    var wrap=document.getElementById('ckr-wrap'), btn=document.getElementById('ckr-fs'),
+        frame=document.getElementById('ckr-frame'), label=btn.querySelector('span');
+    var canFs = wrap.requestFullscreen || wrap.webkitRequestFullscreen;
+    function isFs(){ return document.fullscreenElement || document.webkitFullscreenElement; }
+    btn.addEventListener('click', function(){
+      if(!canFs){ window.open(frame.src,'_blank'); return; }   // iPhone: otvorí v novom okne
+      if(isFs()){ (document.exitFullscreen||document.webkitExitFullscreen).call(document); }
+      else { (wrap.requestFullscreen||wrap.webkitRequestFullscreen).call(wrap); }
+    });
+    function upd(){ label.textContent = isFs() ? 'Zavrieť' : 'Celá obrazovka';
+      wrap.style.borderRadius = isFs() ? '0' : '12px'; }
+    document.addEventListener('fullscreenchange', upd);
+    document.addEventListener('webkitfullscreenchange', upd);
+  })();
+
+  </script>
 metaDescription: Ako sa z rozpadajúceho Rakúsko-Uhorska zrodilo Československo?
   Interaktívna aplikácia prevedie žiakov šiestimi rokmi od výstrelov v Sarajeve
   po prvú ústavu z roku 1920 – s dobovými fotografiami, mapami a pôvodnými
