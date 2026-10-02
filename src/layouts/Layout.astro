@@ -54,8 +54,8 @@ const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.si
           class="h-8 sm:h-10 w-auto flex-shrink-0"
         />
       </a>
-      <nav class="flex items-center gap-3 sm:gap-5 text-xs sm:text-sm font-medium overflow-x-auto whitespace-nowrap [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-        <a href="/kategoria/" class="text-chalk/80 hover:text-marker transition-colors">Kategórie</a>
+    <nav class="flex items-center flex-wrap justify-end gap-x-3 gap-y-1 sm:gap-x-5 text-xs sm:text-sm font-medium">
+      <a href="/kategoria/" class="text-chalk/80 hover:text-marker transition-colors">Kategórie</a>
         <a href="/typ/" class="text-chalk/80 hover:text-marker transition-colors">Typy</a>
         <a href="/clanky/" class="text-chalk/80 hover:text-marker transition-colors">Články</a>
         <a href="/hladat/" class="text-chalk/80 hover:text-marker transition-colors">Hľadať</a>
