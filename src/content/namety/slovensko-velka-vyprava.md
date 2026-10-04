@@ -44,6 +44,40 @@ Kurz preto stavia na voľne dostupných zdrojoch (vzdelávacie štandardy ŠVP 2
 
 Každá úroveň má vlastný vzhľad, sprievodcu a náročnosť zodpovedajúcu veku. Medzi úrovňami sa prepína v úvodnom rozcestníku.
 
+#### Malí objavitelia
+
+**Pre koho:** MŠ – 3. ročník
+**Sprievodca:** sova Buzola
+**Rozsah:** 3 balíky, 14 zastávok
+
+Orientácia v priestore, pohľad zhora, mapa a krajina, Slovensko a svet. Funguje aj bez čítania, texty číta hlas.
+
+#### Cestovatelia
+
+**Pre koho:** 4. – 5. ročník
+**Sprievodca:** sova Buzola
+**Rozsah:** 3 trasy, 16 zastávok
+
+Vrstevnice, poloha a povrch Slovenska, vodstvo, kraje a regióny, tri cesty po Slovensku s povesťami, pamiatky UNESCO, ľudia a krajina.
+
+#### Bádatelia
+
+**Pre koho:** 6. – 9. ročník
+**Sprievodcovia:** Ema a Samo
+**Rozsah:** 3 bloky, 15 tém
+
+Geológia a reliéf, podnebie, obyvateľstvo v dátach sčítania 2021, prípadové štúdie, hospodárstvo, regionálne rozdiely a terénny výskum.
+
+#### Experti
+
+**Pre koho:** stredná škola, maturita
+**Sprievodca:** bez sprievodcu
+**Rozsah:** 3 bloky, 10 tém
+
+Analýza prameňov, argumentácia a tvorba podľa revidovanej Bloomovej taxonómie a maturitný trenažér s komplexnou charakteristikou regiónu.
+
+
+
 ## Ako sa s kurzom pracuje
 
 Každý celok (balík, trasa či blok) otvára krátka úvodná animácia: v niekoľkých obrazoch jasne ukáže, o čom celok bude. Je to Komenského zásada názornosti prenesená na obrazovku – dieťa najprv vidí, potom sa učí.
