@@ -13,10 +13,6 @@ embedHtml: <iframe src="https://sopkomir.github.io/ludske-telo/" width="100%"
   height="720" style="border:0;border-radius:12px" allowfullscreen
   loading="lazy" title="Ľudské telo 3D"></iframe>
 ---
-Skopíruje text aj s nadpismi a odrážkami. Potom ho v editore vlož cez Ctrl+V.
-
-# Ľudské telo v 3D: kostra, svaly a orgány ženy a muža
-
 **Otáčajte, približujte a rozoberajte ľudské telo vrstvu po vrstve. Interaktívny 3D model vychádza zo skutočných anatomických dát a jeho obsah je zostavený podľa nového štátneho vzdelávacieho programu. Má tri úrovne: pre mladších žiakov ZŠ, pre druhý stupeň a pre gymnázium.**
 
 ## Čo v modeli nájdete
