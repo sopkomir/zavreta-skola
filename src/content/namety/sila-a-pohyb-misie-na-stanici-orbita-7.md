@@ -10,8 +10,8 @@ types:
   - CVIKA
 image: /uploaded-images/1000044342.png
 embedHtml: >-
-  <!-- Sila a pohyb: vlož do stránky na Zavretej škole.
-       Nahraď URL adresou, kde máš nahraný súbor sila-a-pohyb.html (musí byť https). -->
+  <!-- Sila a pohyb: vlož do stránky na Zavretej škole. -->
+
   <iframe
     src="https://sopkomir.github.io/sila-pohyb"
     title="Sila a pohyb: interaktívna fyzika"
@@ -22,6 +22,10 @@ embedHtml: >-
     allow="fullscreen"
     allowfullscreen>
   </iframe>
+
+  <p style="text-align:center;margin:8px 0 0">
+    <a href="https://sopkomir.github.io/sila-pohyb/sila-a-pohyb.html" target="_blank" rel="noopener">Otvoriť na celú obrazovku ↗</a>
+  </p>
 ---
 **Prečo sa debna vo vesmíre sama nezastaví? Predpovedaj, vyskúšaj a zisti to na vlastné oči.**
 
