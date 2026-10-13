@@ -13,7 +13,7 @@ embedHtml: >-
   <!-- Sila a pohyb: vlož do stránky na Zavretej škole.
        Nahraď URL adresou, kde máš nahraný súbor sila-a-pohyb.html (musí byť https). -->
   <iframe
-    src="https://sopkomir.github.io/sila-a-pohyb"
+    src="https://sopkomir.github.io/sila-pohyb"
     title="Sila a pohyb: interaktívna fyzika"
     width="100%"
     height="820"
