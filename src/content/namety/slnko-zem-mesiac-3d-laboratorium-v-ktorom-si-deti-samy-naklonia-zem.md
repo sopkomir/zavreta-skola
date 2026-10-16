@@ -8,7 +8,7 @@ types:
   - APPKA
   - WEBKA
   - CVIKA
-image: /uploaded-images/slnko-zem-mesiac-hero.jpg
+image: /uploaded-images/slnko-zem-mesiac-hero-1-.jpg
 embedHtml: >-
   <!-- 3D laboratórium Slnko – Zem – Mesiac | vlož do článku na Zavretej škole
   -->
