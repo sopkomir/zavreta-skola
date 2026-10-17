@@ -11,7 +11,7 @@ types:
 image: /uploaded-images/hero.png
 embedHtml: >-
   <div style="width:100%;max-width:1100px;margin:0 auto">
-    <iframe src="https://sopkomir.github.io/programovo/" title="Programovo – digitálne mesto, v ktorom bývajú programy" style="display:block;width:100%;height:85vh;min-height:640px;border:0;border-radius:16px;background:#EDF2F8" loading="lazy" allow="fullscreen"></iframe>
+    <iframe src="https://sopkomir.github.io/programovo/" title="Programovo – digitálne mesto, v ktorom bývajú programy" style="display:block;width:100%;height:85vh;min-height:640px;border:0;border-radius:16px;background:#EDF2F8" loading="lazy" allow="fullscreen" allowfullscreen></iframe>
     <p style="text-align:center;margin-top:12px"><a href="https://sopkomir.github.io/programovo/" target="_blank" rel="noopener">Otvoriť Programovo na celú obrazovku</a></p>
   </div>
 ---
