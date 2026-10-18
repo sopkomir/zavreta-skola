@@ -9,7 +9,7 @@ types:
   - WEBKA
   - HRA
 image: /uploaded-images/1000044549.png
-metaDescription: >
+embedHtml: >
   <!-- Hrad nad Vinným – vloženie do článku na zavretaskola.sk -->
 
   <!-- Adresa predpokladá GitHub Pages: https://sopkomir.github.io/hrad-nad-vinnym/ – ak repozitár pomenuješ inak, zmeň ju na troch miestach nižšie. -->
@@ -42,6 +42,7 @@ metaDescription: >
   </script>
 
   <!-- Ak editor odstráni <script>, tlačidlo nebude fungovať – vtedy stačí odkaz „Otvoriť v novom okne“ pod aplikáciou. -->
+metaDescription: ""
 ---
 **Vystúp na hrad rytiera Alberta z Michaloviec, prejdi sa jeho nádvorím, palácom a sieňou a pozri sa, ako žil stredoveký svet pod ním – vo Vinnom, vo Veľkých a Malých Zalužiciach, v Trnave pri Laborci aj v mestečku Michalovce.**
 
