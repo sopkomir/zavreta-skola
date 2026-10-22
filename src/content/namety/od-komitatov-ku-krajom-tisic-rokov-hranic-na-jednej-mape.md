@@ -5,6 +5,7 @@ author: Miroslav Sopko
 categories:
   - Dejepis
   - Občianska náuka
+  - Vlastiveda
 types:
   - APPKA
   - WEBKA
