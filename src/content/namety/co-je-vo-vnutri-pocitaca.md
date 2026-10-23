@@ -3,7 +3,8 @@ title: Čo je vo vnútri počítača
 pubDate: 2026-09-30T15:36:00.000+02:00
 author: Miroslav Sopko
 categories:
-  - Informatika
+  - Informatika - 1. stupeň
+  - Informatika - 2. stupeň ZŠ
 types:
   - APPKA
   - WEBKA
