@@ -3,7 +3,8 @@ title: "Kyber vesmír: ako funguje sieť, internet a bezpečnosť"
 pubDate: 2026-10-08T08:45:00.000+02:00
 author: Miroslav Sopko
 categories:
-  - Informatika
+  - Informatika - 2. stupeň ZŠ
+  - Informatika - SŠ
 types:
   - APPKA
   - WEBKA
