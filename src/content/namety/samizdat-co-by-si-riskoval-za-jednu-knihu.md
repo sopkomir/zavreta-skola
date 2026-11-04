@@ -8,7 +8,7 @@ types:
   - CVIKA
   - APPKA
   - WEBKA
-image: /uploaded-images/samizdat-hero.jpg
+image: /uploaded-images/samizdat-hero-1-.jpg
 embedHtml: >-
   <div style="max-width:900px;margin:0 auto;">
     <iframe src="https://sopkomir.github.io/samizdat/" width="100%" height="860" style="border:0;border-radius:16px;box-shadow:0 8px 28px rgba(0,0,0,.25);" loading="lazy" allow="autoplay; fullscreen" title="SAMIZDAT: svetová literatúra po roku 1945"></iframe>
