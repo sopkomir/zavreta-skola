@@ -10,10 +10,17 @@ types:
   - HRA
   - CVIKA
 image: /uploaded-images/fantasticka-cesta-afrikou-hero.jpg
-embedHtml: |-
-  <iframe src="https://sopkomir.github.io/fantasticka-cesta-afrikou/"
-          style="width:100%; height:85vh; border:0"
-          allow="fullscreen; autoplay" allowfullscreen></iframe>
+embedHtml: >-
+  <div style="max-width:900px;margin:0 auto">
+    <iframe src="https://sopkomir.github.io/fantasticka-cesta-afrikou/"
+      title="Fantastická cesta Afrikou – Havária v Sahare"
+      style="width:100%;height:860px;border:0;border-radius:16px;box-shadow:0 12px 40px rgba(0,0,0,.18);background:#100c1f"
+      loading="lazy" allow="autoplay; fullscreen"></iframe>
+    <p style="text-align:center;margin:14px 0 0">
+      <a href="https://sopkomir.github.io/fantasticka-cesta-afrikou/" target="_blank" rel="noopener"
+        style="display:inline-block;padding:12px 24px;border-radius:999px;background:linear-gradient(135deg,#f2c46d,#e8743c);color:#1b0f08;font-weight:800;text-decoration:none;font-family:system-ui,sans-serif">🎈 Otvoriť v novom okne</a>
+    </p>
+  </div>
 ---
 Je tri hodiny ráno a vzducholoď Meridián leží na boku uprostred Sahary. Prachová búrka – haboob – roztrhla obal a zadusila motory. Rádio chrčí, vody je na pár dní a náhradný obal čaká až na najjužnejšom cípe Afriky, na Strelkovom myse (Mys Agulhas). Inžinierka Thandi dáva posádke 30 dní. Potom prídu zimné búrky a hangár sa zatvorí.
 
