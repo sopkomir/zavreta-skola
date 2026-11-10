@@ -71,6 +71,14 @@ collections:
         required: false
         hint: "Ľubovoľný počet ďalších fotiek k tomuto námetu (pridávajte jednu po druhej)."
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false, hint: "Len samotné ID z odkazu (11 znakov), nie celá URL" }
+      - label: "Video súbor (MP4)"
+        name: "videoFile"
+        widget: "file"
+        required: false
+        media_folder: "/public/uploaded-videos"
+        public_folder: "/uploaded-videos"
+        choose_url: true
+        hint: "Nahrajte video vo formáte MP4 (H.264), ideálne do 50 MB. Zobrazí sa v čistom prehrávači bez reklám a cookies, hlavný obrázok slúži ako náhľad pred spustením. Na web sa hodí video na šírku. Namiesto nahrania môžete vložiť aj URL adresu MP4."
       - { label: "Wordwall embed URL", name: "wordwallEmbed", widget: "string", required: false }
       - label: "Iný vložený obsah (embed kód)"
         name: "embedHtml"
@@ -111,6 +119,14 @@ collections:
         required: false
         hint: "Ľubovoľný počet ďalších fotiek k tomuto námetu (pridávajte jednu po druhej)."
       - { label: "YouTube ID", name: "youtubeId", widget: "string", required: false }
+      - label: "Video súbor (MP4)"
+        name: "videoFile"
+        widget: "file"
+        required: false
+        media_folder: "/public/uploaded-videos"
+        public_folder: "/uploaded-videos"
+        choose_url: true
+        hint: "Nahrajte video vo formáte MP4 (H.264), ideálne do 50 MB. Zobrazí sa v čistom prehrávači bez reklám a cookies, hlavný obrázok slúži ako náhľad pred spustením. Na web sa hodí video na šírku. Namiesto nahrania môžete vložiť aj URL adresu MP4."
       - label: "Iný vložený obsah (embed kód)"
         name: "embedHtml"
         widget: "text"

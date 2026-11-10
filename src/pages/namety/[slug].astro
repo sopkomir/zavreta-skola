@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import NametCard from '../../components/NametCard.astro';
 import NametCardCompact from '../../components/NametCardCompact.astro';
 import GalleryLightbox from '../../components/GalleryLightbox.astro';
+import VideoPlayer from '../../components/VideoPlayer.astro';
 import { catSlug } from '../../utils/catSlug';
 import { excerpt } from '../../utils/excerpt';
 
@@ -84,7 +85,7 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
             });
         </script>
 
-        {namet.data.image && (
+        {namet.data.image && !namet.data.videoFile && (
           <img src={namet.data.image} alt={namet.data.title} class="w-full max-h-96 object-cover rounded-tile border-2 border-ink shadow-pop-sm mb-8" />
         )}
 
@@ -98,6 +99,10 @@ const autorPocet = allNamety.filter((n) => n.data.author === namet.data.author).
               allowfullscreen
             ></iframe>
           </div>
+        )}
+
+        {namet.data.videoFile && (
+          <VideoPlayer src={namet.data.videoFile} poster={namet.data.image} title={namet.data.title} />
         )}
 
         {namet.data.wordwallEmbed && (

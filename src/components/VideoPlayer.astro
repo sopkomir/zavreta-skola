@@ -1,0 +1,23 @@
+---
+// Čistý prehrávač pre MP4 nahrané cez Decap CMS (pole „Video súbor (MP4)“).
+// Bez reklám, odporúčaní a cookies tretích strán.
+interface Props {
+  src: string;
+  title: string;
+  poster?: string;
+}
+const { src, title, poster } = Astro.props;
+---
+<figure class="mb-8">
+  <video
+    class="block w-full max-h-[80vh] rounded-tile border-2 border-ink shadow-pop-sm bg-chalkboard"
+    controls
+    playsinline
+    preload="metadata"
+    poster={poster}
+    aria-label={title}
+  >
+    <source src={src} type="video/mp4" />
+    Váš prehliadač nevie prehrať video. <a href={src}>Stiahnuť video</a>
+  </video>
+</figure>

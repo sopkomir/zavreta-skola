@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import { catSlug } from '../../utils/catSlug';
 import { excerpt } from '../../utils/excerpt';
 import GalleryLightbox from '../../components/GalleryLightbox.astro';
+import VideoPlayer from '../../components/VideoPlayer.astro';
 
 export async function getStaticPaths() {
   const clanky = await getCollection('clanky');
@@ -54,13 +55,16 @@ const autorPocet = allClanky.filter((c) => c.data.author === clanok.data.author)
         )}
         <h1 class="font-display text-2xl sm:text-4xl font-bold text-ink leading-tight mb-4">{clanok.data.title}</h1>
         <div class="text-sm text-ink/50 mb-6 font-mono">{clanok.data.pubDate.toLocaleDateString('sk-SK')}</div>
-        {clanok.data.image && (
+        {clanok.data.image && !clanok.data.videoFile && (
           <img src={clanok.data.image} alt={clanok.data.title} class="w-full max-h-96 object-cover rounded-tile border-2 border-ink shadow-pop-sm mb-8" />
         )}
         {clanok.data.youtubeId && (
           <div class="mb-8 aspect-video rounded-tile overflow-hidden border-2 border-ink shadow-pop-sm bg-chalkboard">
             <iframe class="w-full h-full" src={`https://www.youtube.com/embed/${clanok.data.youtubeId}`} title="YouTube video" allowfullscreen></iframe>
           </div>
+        )}
+        {clanok.data.videoFile && (
+          <VideoPlayer src={clanok.data.videoFile} poster={clanok.data.image} title={clanok.data.title} />
         )}
         {clanok.data.embedHtml && (
           <div class="mb-8 [&_iframe]:w-full [&_iframe]:rounded-tile [&_iframe]:border-2 [&_iframe]:border-ink" set:html={clanok.data.embedHtml} />
