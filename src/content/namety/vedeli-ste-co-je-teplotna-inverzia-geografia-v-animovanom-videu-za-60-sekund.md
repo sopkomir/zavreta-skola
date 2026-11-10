@@ -1,7 +1,7 @@
 ---
 title: "Vedeli ste? Čo je teplotná inverzia: geografia v animovanom videu za 60
   sekúnd"
-pubDate: 2026-11-10T06:45:00.000+01:00
+pubDate: 2026-11-10T06:50:00.000+01:00
 author: Miroslav Sopko
 categories:
   - Geografia
