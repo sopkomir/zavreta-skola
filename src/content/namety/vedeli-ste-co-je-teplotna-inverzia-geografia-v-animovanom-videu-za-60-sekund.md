@@ -8,17 +8,8 @@ categories:
 types:
   - AUDIO/VIDEO
 image: /uploaded-images/1000045578.jpg
-embedHtml: >-
-  <div style="max-width:420px;margin:24px auto;">
-    <iframe src="https://www.instagram.com/reel/DfjMrTxOJU5/embed/"
-            title="Vedeli ste? Čo je teplotná inverzia"
-            style="width:100%;height:760px;border:0;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.18);"
-            loading="lazy" allowfullscreen scrolling="no"></iframe>
-    <p style="text-align:center;margin-top:14px;">
-      <a href="https://www.instagram.com/reel/DfjMrTxOJU5/" target="_blank" rel="noopener"
-         style="display:inline-block;padding:12px 22px;border-radius:999px;background:#ffd23f;color:#0b1236;font-weight:700;text-decoration:none;">📱 Pozrieť na Instagrame</a>
-    </p>
-  </div>
+videoFile: /uploaded-videos/vedeli-ste-inverzia.mp4
+embedHtml: ""
 ---
 
 Zimné ráno. V meste v kotline je hmla, mrzne a vzduch štípe v nose. Stačí však vyjsť pár sto metrov vyššie na kopec a zrazu svieti slnko, je tam teplejšie a pod nohami sa rozlieva more hmly. Ako je to možné, keď sa v škole učíme, že čím vyššie, tým chladnejšie?
