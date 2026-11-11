@@ -69,11 +69,10 @@ Video prešlo odbornou recenziou z hľadiska matematickej správnosti a didaktik
 
 ## Viac zo série Vedeli ste?
 
-Vedeli ste? je séria krátkych animovaných výkladov do 60 sekúnd. Každé video vysvetľuje jednu vec, ktorá deťom robí problém alebo ich zaujíma. Predchádzajúci diel: [Čo je teplotná inverzia?](ODKAZ-NA-CLANOK-INVERZIA)
+Vedeli ste? je séria krátkych animovaných výkladov do 60 sekúnd. Každé video vysvetľuje jednu vec, ktorá deťom robí problém alebo ich zaujíma. Predchádzajúci diel: [Čo je teplotná inverzia?](https://zavretaskola.sk/namety/vedeli-ste-co-je-teplotna-inverzia-geografia-v-animovanom-videu-za-60-sekund)
 
 ## Zdroje
 
 - NIVaM: Medzinárodná štúdia TIMSS 2023, prvé výsledky (Slovensko, 4. ročník). https://beta.nivam.sk/wp-content/uploads/sprava_TIMSS202023.pdf
 - Deringöl, Y.: Misconceptions of primary school students about the subject of fractions. International Journal of Evaluation and Research in Education. https://ijere.iaescore.com/index.php/IJERE/article/download/16290/12776
 
-*Video na stiahnutie: [na šírku](https://sopkomir.github.io/vedeli-ste/vedeli-ste-zlomky.mp4), [na výšku](https://sopkomir.github.io/vedeli-ste/vedeli-ste-zlomky-vyska.mp4).*
