@@ -4,6 +4,7 @@ pubDate: 2026-11-19T17:18:00.000+01:00
 author: Miroslav Sopko
 categories:
   - Slovenský jazyk - 1. stupeň
+  - Slovenský jazyk a literatúra - 2. stupeň
 types:
   - APPKA
   - WEBKA
